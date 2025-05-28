@@ -1,0 +1,4002 @@
+[
+  {
+    "exam_name": "JEE Main",
+    "full_form": "Joint Entrance Examination Main",
+    "purpose": "Admission to undergraduate engineering programs (B.E./B.Tech) in NITs, IIITs, and other centrally funded technical institutions; eligibility for JEE Advanced for admission into IITs",
+
+    "eligibility_criteria": {
+      "minimum_qualification": "Passed 10+2 or equivalent with Physics and Mathematics as compulsory subjects",
+      "age_limit": {
+        "minimum": "No minimum age",
+        "maximum": "No age limit",
+        "relaxation": {}
+      },
+      "nationality": "Indian/OCI/PIO/Foreign Nationals",
+      "other_requirements": "Must have passed the qualifying examination in the last 2 years or appearing in the current year"
+    },
+
+    "exam_pattern": {
+      "stages": ["Single-stage computer-based test"],
+      "mode": "Online (Computer-Based Test)",
+      "preliminary": {
+        "papers": 1,
+        "subjects": ["Physics", "Chemistry", "Mathematics"],
+        "total_marks": 300,
+        "negative_marking": true,
+        "duration_minutes": 180
+      },
+      "mains": null,
+      "interview": null
+    },
+
+    "syllabus": {
+      "prelims": {
+        "Physics": [
+          "Kinematics",
+          "Laws of Motion",
+          "Work, Energy and Power",
+          "Thermodynamics",
+          "Optics",
+          "Electrostatics"
+        ],
+        "Chemistry": [
+          "Atomic Structure",
+          "Chemical Bonding",
+          "Equilibrium",
+          "Thermodynamics",
+          "Organic Chemistry",
+          "Inorganic Chemistry"
+        ],
+        "Mathematics": [
+          "Algebra",
+          "Calculus",
+          "Coordinate Geometry",
+          "Probability",
+          "Vector and 3D Geometry"
+        ]
+      },
+      "mains": null
+    },
+
+    "application_process": {
+      "documents_required": ["Photo ID", "10+2 Marksheet or Admit Card", "Category Certificate (if applicable)"],
+      "correction_window": "Available for 2-3 days after application closure"
+    },
+
+    "cutoff_trends": {
+      "2024": {
+        "general": 90.7,
+        "OBC": 74.3,
+        "SC": 51.9,
+        "ST": 37.2
+      },
+      "2023": {
+        "general": 90.7,
+        "OBC": 73.6,
+        "SC": 51.9,
+        "ST": 37.2
+      }
+    },
+
+    "preparation_resources": {
+      "recommended_books": [
+        "Concepts of Physics by H.C. Verma",
+        "Modern Approach to Chemical Calculations by R.C. Mukherjee",
+        "Objective Mathematics by R.D. Sharma"
+      ],
+      "online_courses": ["Unacademy", "Vedantu", "BYJU’S", "FIITJEE Online"],
+      "mock_tests": ["NTA Mock Tests", "Allen", "Resonance"],
+      "previous_year_papers": ["Available on NTA and JEE official websites"]
+    },
+
+    "career_opportunities": {
+      "recruiting_bodies": ["NITs", "IIITs", "GFTIs"],
+      "salary_range": "INR 4,00,000 to 12,00,000 per annum post-graduation",
+      "career_growth": "Opportunities in top MNCs, higher studies, research, and entrepreneurship"
+    },
+
+    "official_details": {
+      "website": "https://jeemain.nta.nic.in",
+      "helpdesk": "011-40759000"
+    }
+  },
+  {
+      "exam_name": "ICAR AIEEA PG",
+      "full_form": "Indian Council of Agricultural Research All India Entrance Examination for Admission (Postgraduate)",
+      "purpose": "Admission to postgraduate programs in agricultural sciences in ICAR-accredited universities",
+    
+      "eligibility_criteria": {
+        "minimum_qualification": "Bachelor’s degree in agriculture or related discipline from a recognized university with a minimum of 60% marks (50% for SC/ST/PC)",
+        "age_limit": {
+          "minimum": 19,
+          "maximum": null,
+          "relaxation": {
+            "OBC": null,
+            "SC/ST": null,
+            "PWD": null
+          }
+        },
+        "nationality": "Indian",
+        "other_requirements": "Candidates must meet subject-specific prerequisites"
+      },
+    
+      "exam_pattern": {
+        "stages": ["Single-stage Computer Based Test"],
+        "mode": "Online",
+        "preliminary": {
+          "papers": 1,
+          "subjects": ["Core Subject based on discipline", "General Knowledge"],
+          "total_marks": 480,
+          "negative_marking": true,
+          "duration_minutes": 120
+        },
+        "mains": null,
+        "interview": null
+      },
+    
+      "syllabus": {
+        "prelims": {
+          "Core Subjects": [
+            "Agronomy",
+            "Horticulture",
+            "Plant Pathology",
+            "Soil Science",
+            "Agricultural Economics",
+            "Animal Sciences"
+          ],
+          "General Knowledge": [
+            "Current Affairs",
+            "Agriculture and Rural Development",
+            "Scientific Developments"
+          ]
+        },
+        "mains": null
+      },
+    
+      "application_process": {
+        "documents_required": ["Photo ID", "Bachelor's degree mark sheet", "Category Certificate (if applicable)"],
+        "correction_window": "Available for a limited period after application submission"
+      },
+    
+      "cutoff_trends": {
+        "2024": {
+          "general": 360,
+          "OBC": 340,
+          "SC": 310,
+          "ST": 290
+        },
+        "2023": {
+          "general": 365,
+          "OBC": 345,
+          "SC": 315,
+          "ST": 295
+        }
+      },
+    
+      "preparation_resources": {
+        "recommended_books": [
+          "ICAR Previous Year Question Papers",
+          "Agronomy by Yellamanda Reddy",
+          "Objective Agriculture by S.R. Kantwa"
+        ],
+        "online_courses": ["Unacademy", "Agri Tutorials", "Eduzphere ICAR"],
+        "mock_tests": ["Testbook ICAR PG Mocks", "AgriExam Mock Tests"],
+        "previous_year_papers": ["Available on NTA ICAR official portal"]
+      },
+    
+      "career_opportunities": {
+        "recruiting_bodies": ["ICAR Institutions", "State Agricultural Universities", "Research Organizations"],
+        "salary_range": "INR 40,000 to 1,00,000 per month depending on role and organization",
+        "career_growth": "Research Scientist, Lecturer, Agricultural Officer, Extension Officer"
+      },
+    
+      "official_details": {
+        "website": "https://icar.nta.nic.in",
+        "helpdesk": "0120-6895200"
+      }
+  },
+  {
+    "exam_name": "UPSC Civil Services Examination",
+    "full_form": "Union Public Service Commission Civil Services Examination",
+    "purpose": "Recruitment for IAS, IPS, IFS, and other Group A & B services",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor’s degree from a recognized university",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 32,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Certain services have additional physical and medical requirements"
+    },
+    "exam_pattern": {
+      "stages": ["Preliminary", "Mains", "Interview"],
+      "mode": "Offline",
+      "preliminary": {
+        "papers": 2,
+        "subjects": ["General Studies", "CSAT"],
+        "total_marks": 400,
+        "negative_marking": true,
+        "duration_minutes": 120
+      },
+      "mains": {
+        "papers": 9,
+        "subjects": ["Essay", "General Studies I-IV", "Optional Subject Papers I & II", "Language Papers"],
+        "total_marks": 1750,
+        "duration_minutes": 180
+      },
+      "interview": {
+        "total_marks": 275
+      }
+    },
+    "syllabus": {
+      "prelims": {
+        "General Studies": [
+          "Current Events",
+          "History of India",
+          "Indian Polity",
+          "Geography",
+          "Economic and Social Development"
+        ],
+        "CSAT": [
+          "Comprehension",
+          "Logical Reasoning",
+          "Basic Numeracy"
+        ]
+      },
+      "mains": {
+        "General Studies I": ["Indian Heritage", "History", "Geography"],
+        "General Studies II": ["Governance", "Constitution", "Polity"],
+        "General Studies III": ["Technology", "Economic Development", "Security"],
+        "General Studies IV": ["Ethics", "Integrity", "Aptitude"]
+      }
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Caste Certificate (if applicable)"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 92.5,
+        "OBC": 89.1,
+        "SC": 84.2,
+        "ST": 79.6
+      },
+      "2023": {
+        "general": 95.0,
+        "OBC": 90.5,
+        "SC": 85.0,
+        "ST": 80.0
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["NCERTs", "Laxmikanth Polity", "Spectrum Modern History"],
+      "online_courses": ["Unacademy", "BYJU'S", "Drishti IAS"],
+      "mock_tests": ["Vision IAS", "ForumIAS"],
+      "previous_year_papers": ["Available on UPSC official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["IAS", "IPS", "IFS", "IRS"],
+      "salary_range": "INR 56,100 to 2,50,000 per month",
+      "career_growth": "Progresses from probationary officer to Cabinet Secretary level"
+    },
+    "official_details": {
+      "website": "https://www.upsc.gov.in",
+      "helpdesk": "011-23385271, 011-23381125"
+    }
+  },
+  {
+    "exam_name": "Indian Forest Service Examination",
+    "full_form": "Indian Forest Service Examination",
+    "purpose": "Recruitment for the Indian Forest Service (IFS)",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor’s degree with at least one of the subjects Animal Husbandry & Veterinary Science, Botany, Chemistry, Geology, Mathematics, Physics, Statistics, Veterinary Science, Zoology, Agriculture, Forestry, or Engineering from a recognized university",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 32,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian"
+    },
+    "exam_pattern": {
+      "stages": ["Preliminary", "Mains", "Interview"],
+      "mode": "Offline",
+      "preliminary": {
+        "papers": 2,
+        "subjects": ["General Studies", "CSAT"],
+        "total_marks": 400,
+        "negative_marking": true,
+        "duration_minutes": 120
+      },
+      "mains": {
+        "papers": 6,
+        "subjects": ["General Studies", "General Knowledge", "Optional Subject Papers I & II", "Essay"],
+        "total_marks": 1400,
+        "duration_minutes": 180
+      },
+      "interview": {
+        "total_marks": 300
+      }
+    },
+    "syllabus": {
+      "prelims": {
+        "General Studies": [
+          "Current Events",
+          "History of India",
+          "Indian Polity",
+          "Geography",
+          "Economic and Social Development"
+        ],
+        "CSAT": [
+          "Comprehension",
+          "Logical Reasoning",
+          "Basic Numeracy"
+        ]
+      },
+      "mains": {
+        "General Studies": ["General Knowledge", "Essay Writing"],
+        "Optional Subjects": ["Forestry", "Agriculture", "Botany", "Zoology"]
+      }
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Caste Certificate (if applicable)"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 95.0,
+        "OBC": 90.0,
+        "SC": 85.0,
+        "ST": 80.0
+      },
+      "2023": {
+        "general": 97.0,
+        "OBC": 92.0,
+        "SC": 87.0,
+        "ST": 82.0
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["NCERTs", "Laxmikanth Polity", "Forestry by K. K. Verma"],
+      "online_courses": ["Unacademy", "BYJU'S", "Drishti IAS"],
+      "mock_tests": ["Vision IAS", "ForumIAS"],
+      "previous_year_papers": ["Available on UPSC"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["IFS", "State Forest Services", "Wildlife Institute of India"],
+      "salary_range": "INR 56,100 to 2,50,000 per month",
+      "career_growth": "Progression from Assistant Conservator of Forests to Chief Conservator of Forests"
+    },
+    "official_details": {
+      "website": "https://www.upsc.gov.in",
+      "helpdesk": "011-23385271, 011-23381125"
+    }
+  },
+  {
+    "exam_name": "NATA",
+    "full_form": "National Aptitude Test in Architecture",
+    "purpose": "Admission to B.Arch programs in various institutions across India",
+    "eligibility_criteria": {
+      "minimum_qualification": "10+2 or equivalent with Mathematics as one of the subjects",
+      "age_limit": {
+        "minimum": 17,
+        "maximum": 25,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Candidates must have passed the qualifying examination with a minimum of 50% marks in aggregate"
+    },
+    "exam_pattern": {
+      "stages": ["Single Stage Examination"],
+      "mode": "Online",
+      "subjects": ["Mathematics", "General Aptitude", "Drawing"],
+      "total_marks": 200,
+      "negative_marking": false,
+      "duration_minutes": 180
+    },
+    "syllabus": {
+      "Mathematics": [
+        "Algebra",
+        "Coordinate Geometry",
+        "Calculus",
+        "Trigonometry",
+        "Statistics",
+        "Probability"
+      ],
+      "General_Aptitude": [
+        "Mental Ability",
+        "Logical Reasoning",
+        "Visual Perception"
+      ],
+      "Drawing": [
+        "Sketching",
+        "Perspective Drawing",
+        "Design Composition"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Caste Certificate (if applicable)"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 120,
+        "OBC": 110,
+        "SC": 100,
+        "ST": 90
+      },
+      "2023": {
+        "general": 125,
+        "OBC": 115,
+        "SC": 105,
+        "ST": 95
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["NATA Guide by Arihant", "Mathematics for Class 12 by R.D. Sharma", "Aptitude Test by R.S. Aggarwal"],
+      "online_courses": ["Unacademy", "BYJU'S", "PW Skills"],
+      "mock_tests": ["NATA Mock Tests by Toprankers", "NATA Practice Papers by Careers360"],
+      "previous_year_papers": ["Available on NATA official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Architectural Firms", "Urban Planning Departments", "Government Housing Projects"],
+      "salary_range": "INR 30,000 to 1,00,000 per month",
+      "career_growth": "Progression from Junior Architect to Senior Architect or Urban Planner"
+    },
+    "official_details": {
+      "website": "https://www.nata.in",
+      "helpdesk": "022-61087521"
+    }
+  },
+  {
+    "exam_name": "JEE Main Paper 2",
+    "full_form": "Joint Entrance Examination Main Paper 2",
+    "purpose": "Admission to B.Arch programs in NITs, IIITs, and other centrally funded technical institutions",
+    "eligibility_criteria": {
+      "minimum_qualification": "10+2 or equivalent with Mathematics as one of the subjects",
+      "age_limit": {
+        "minimum": 17,
+        "maximum": 25,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Candidates must have passed the qualifying examination with a minimum of 50% marks in aggregate"
+    },
+    "exam_pattern": {
+      "stages": ["Single Stage Examination"],
+      "mode": "Online",
+      "subjects": ["Mathematics", "Aptitude Test", "Drawing Test"],
+      "total_marks": 400,
+      "negative_marking": true,
+      "duration_minutes": 180
+    },
+    "syllabus": {
+      "Mathematics": [
+        "Algebra",
+        "Coordinate Geometry",
+        "Calculus",
+        "Trigonometry",
+        "Statistics",
+        "Probability"
+      ],
+      "Aptitude_Test": [
+        "Mental Ability",
+        "Logical Reasoning",
+        "Visual Perception"
+      ],
+      "Drawing_Test": [
+        "Sketching",
+        "Perspective Drawing",
+        "Design Composition"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Caste Certificate (if applicable)"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 250,
+        "OBC": 230,
+        "SC": 210,
+        "ST": 190
+      },
+      "2023": {
+        "general": 260,
+        "OBC": 240,
+        "SC": 220,
+        "ST": 200
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["IIT JEE Mathematics by M.L. Khanna", "Aptitude Test by R.S. Aggarwal", "Drawing for JEE Main by R.K. Gupta"],
+      "online_courses": ["Unacademy", "BYJU'S", "Vedantu"],
+      "mock_tests": ["JEE Main Mock Tests by Toprankers", "JEE Main Practice Papers by Careers360"],
+      "previous_year_papers": ["Available on JEE Main official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Architectural Firms", "Urban Planning Departments", "Government Housing Projects"],
+      "salary_range": "INR 35,000 to 1,20,000 per month",
+      "career_growth": "Progression from Junior Architect to Senior Architect or Urban Planner"
+    },
+    "official_details": {
+      "website": "https://jeemain.nta.nic.in",
+      "helpdesk": "011-40759000"
+    }
+  },
+  {
+    "exam_name": "IIMC Entrance Exam",
+    "full_form": "Indian Institute of Mass Communication Entrance Examination",
+    "purpose": "Admission to PG Diploma courses in Journalism (English, Hindi, Regional Languages)",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor’s degree from a recognized university",
+      "age_limit": {
+        "general": 25,
+        "OBC": 28,
+        "SC/ST/PwD": 30
+      },
+      "nationality": "Indian",
+      "other_requirements": "Must meet specific age criteria as of August 1 of the admission year"
+    },
+    "exam_pattern": {
+      "stages": ["Written Test", "Interview"],
+      "mode": "Offline",
+      "subjects": ["General Awareness", "Reasoning", "Language Skills", "Media Awareness"],
+      "total_marks": 100,
+      "negative_marking": true,
+      "duration_minutes": 90
+    },
+    "syllabus": {
+      "General_Awareness": [
+        "Current Affairs",
+        "Indian Polity",
+        "Economy",
+        "Environment",
+        "Science & Technology"
+      ],
+      "Reasoning": [
+        "Logical Reasoning",
+        "Analytical Ability"
+      ],
+      "Language_Skills": [
+        "English/Hindi Language Proficiency",
+        "Comprehension"
+      ],
+      "Media_Awareness": [
+        "History of Indian Media",
+        "Media Ethics",
+        "Media Laws"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Caste Certificate (if applicable)"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 75,
+        "OBC": 70,
+        "SC": 65,
+        "ST": 60
+      },
+      "2023": {
+        "general": 80,
+        "OBC": 75,
+        "SC": 70,
+        "ST": 65
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["IIMC Entrance Exam Guide by Arihant", "General Knowledge by Manohar Pandey"],
+      "online_courses": ["Unacademy", "BYJU'S", "Drishti IAS"],
+      "mock_tests": ["IIMC Mock Tests by Toprankers", "IIMC Practice Papers by Careers360"],
+      "previous_year_papers": ["Available on IIMC official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["NDTV", "Times Group", "India Today", "The Hindu", "Press Information Bureau"],
+      "salary_range": "INR 30,000 to 1,50,000 per month",
+      "career_growth": "Progression from Reporter to Senior Journalist or Editor"
+    },
+    "official_details": {
+      "website": "https://www.iimc.gov.in",
+      "helpdesk": "011-26741072"
+    }
+  },
+  {
+    "exam_name": "UGC NET Journalism and Mass Communication",
+    "full_form": "University Grants Commission National Eligibility Test for Journalism and Mass Communication",
+    "purpose": "Eligibility for Assistant Professor and Junior Research Fellowship in Journalism and Mass Communication",
+    "eligibility_criteria": {
+      "minimum_qualification": "Master’s degree in Journalism and Mass Communication or related field",
+      "age_limit": {
+        "JRF": {
+          "general": 30,
+          "OBC": 33,
+          "SC/ST/PwD": 35
+        },
+        "Assistant_Professor": "No age limit"
+      },
+      "nationality": "Indian",
+      "other_requirements": "Must have secured at least 55% marks in Master's degree"
+    },
+    "exam_pattern": {
+      "stages": ["Single Stage Examination"],
+      "mode": "Computer-Based Test",
+      "papers": [
+        {
+          "name": "Paper I",
+          "subjects": ["Teaching and Research Aptitude", "General Knowledge"]
+        },
+        {
+          "name": "Paper II",
+          "subjects": ["Journalism and Mass Communication"]
+        }
+      ],
+      "total_marks": 300,
+      "negative_marking": false,
+      "duration_minutes": 180
+    },
+    "syllabus": {
+      "Paper_I": [
+        "Teaching Aptitude",
+        "Research Aptitude",
+        "Comprehension",
+        "Communication",
+        "Reasoning",
+        "Logical Reasoning",
+        "Data Interpretation"
+      ],
+      "Paper_II": [
+        "Communication Theories",
+        "Journalism History and Ethics",
+        "Media Laws and Regulations",
+        "Media Research Methods",
+        "Broadcast Journalism",
+        "Digital Media",
+        "Public Relations and Advertising"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Caste Certificate (if applicable)"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 60,
+        "OBC": 55,
+        "SC": 50,
+        "ST": 45
+      },
+      "2023": {
+        "general": 65,
+        "OBC": 60,
+        "SC": 55,
+        "ST": 50
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["UGC NET Journalism and Mass Communication by Arihant", "Journalism and Mass Communication by R.K. Gupta"],
+      "online_courses": ["Unacademy", "BYJU'S", "Gradeup"],
+      "mock_tests": ["UGC NET Mock Tests by Toprankers", "UGC NET Practice Papers by Careers360"],
+      "previous_year_papers": ["Available on UGC NET official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Universities", "Colleges", "Research Institutes", "Media Houses"],
+      "salary_range": "INR 40,000 to 2,00,000 per month",
+      "career_growth": "Progression from Assistant Professor to Professor or Research Head"
+    },
+    "official_details": {
+      "website": "https://ugcnet.nta.ac.in",
+      "helpdesk": "011-40759000"
+    }
+  },
+  {
+    "exam_name": "CUET PG Journalism and Mass Communication",
+    "full_form": "Common University Entrance Test for Postgraduate Journalism and Mass Communication",
+    "purpose": "Admission to MA in Journalism and Mass Communication in participating central universities",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor’s degree in any discipline",
+      "age_limit": "No age limit",
+      "nationality": "Indian",
+      "other_requirements": "Must meet specific eligibility criteria of the participating university"
+    },
+    "exam_pattern": {
+      "stages": ["Single"]
+    },
+    "syllabus": {
+      "General_Awareness": [
+        "Current Affairs",
+        "Indian Polity",
+        "Economy",
+        "Environment",
+        "Science & Technology"
+      ],
+      "Reasoning": [
+        "Logical Reasoning",
+        "Analytical Ability"
+      ],
+      "Language_Skills": [
+        "English/Hindi Language Proficiency",
+        "Comprehension"
+      ],
+      "Media_Awareness": [
+        "History of Indian Media",
+        "Media Ethics",
+        "Media Laws"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Caste Certificate (if applicable)"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 75,
+        "OBC": 70,
+        "SC": 65,
+        "ST": 60
+      },
+      "2023": {
+        "general": 80,
+        "OBC": 75,
+        "SC": 70,
+        "ST": 65
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["CUET PG Journalism and Mass Communication by Arihant", "General Knowledge by Manohar Pandey"],
+      "online_courses": ["Unacademy", "BYJU'S", "Gradeup"],
+      "mock_tests": ["CUET PG Mock Tests by Toprankers", "CUET PG Practice Papers by Careers360"],
+      "previous_year_papers": ["Available on CUET official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Universities", "Colleges", "Research Institutes", "Media Houses"],
+      "salary_range": "INR 40,000 to 2,00,000 per month",
+      "career_growth": "Progression from Assistant Professor to Professor or Research Head"
+    },
+    "official_details": {
+      "website": "https://cuet.nta.nic.in",
+      "helpdesk": "011-40759000"
+    }
+  },
+  {
+    "exam_name": "NID Design Aptitude Test (DAT)",
+    "full_form": "National Institute of Design Design Aptitude Test",
+    "purpose": "Admission to Bachelor of Design (B.Des) and Master of Design (M.Des) programs at NID",
+    "eligibility_criteria": {
+      "B.Des": {
+        "minimum_qualification": "10+2 in any discipline from a recognized board",
+        "age_limit": {
+          "minimum": 20,
+          "maximum": 23,
+          "relaxation": {
+            "OBC": 3,
+            "SC/ST": 3,
+            "PWD": 10
+          }
+        },
+        "nationality": "Indian and Overseas candidates",
+        "other_requirements": "Must meet specific age and educational qualifications"
+      },
+      "M.Des": {
+        "minimum_qualification": "Bachelor's degree of minimum four years duration or equivalent",
+        "age_limit": {
+          "minimum": 23,
+          "maximum": 28,
+          "relaxation": {
+            "OBC": 3,
+            "SC/ST": 3,
+            "PWD": 10
+          }
+        },
+        "nationality": "Indian and Overseas candidates",
+        "other_requirements": "Must meet specific age and educational qualifications"
+      }
+    },
+    "exam_pattern": {
+      "stages": ["Prelims", "Mains"],
+      "mode": "Offline",
+      "prelims": {
+        "duration_minutes": 180,
+        "subjects": ["Design Aptitude Test"]
+      },
+      "mains": {
+        "duration_minutes": 180,
+        "subjects": ["Studio Test", "Personal Interview"]
+      }
+    },
+    "syllabus": {
+      "prelims": ["Logical Reasoning", "Visualization", "Observation Skills", "Design Sensitivity"],
+      "mains": ["Creative Problem Solving", "Design Drawing", "Communication Skills"]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Caste Certificate (if applicable)"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 85,
+        "OBC": 80,
+        "SC": 75,
+        "ST": 70
+      },
+      "2023": {
+        "general": 88,
+        "OBC": 83,
+        "SC": 78,
+        "ST": 73
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["NID Entrance Exam Guide", "Creative Ability Test by R. S. Aggarwal"],
+      "online_courses": ["Unacademy", "BYJU'S", "NID Coaching Classes"],
+      "mock_tests": ["NID Mock Tests", "Design Entrance Mock Tests"],
+      "previous_year_papers": ["Available on NID official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["National Institute of Design", "Various Design Studios", "Multinational Corporations"],
+      "salary_range": "INR 30,000 to 1,00,000 per month",
+      "career_growth": "Opportunities to become Senior Designer, Design Lead, or Creative Director"
+    },
+    "official_details": {
+      "website": "https://www.nid.edu",
+      "helpdesk": "079-2662 3464, 079-2662 3465"
+    }
+  },
+  {
+    "exam_name": "UCEED",
+    "full_form": "Undergraduate Common Entrance Examination for Design",
+    "purpose": "Admission to Bachelor of Design (B.Des) programs at IITs and IIITDM Jabalpur",
+    "eligibility_criteria": {
+      "minimum_qualification": "10+2 in any discipline from a recognized board",
+      "age_limit": {
+        "minimum": 20,
+        "maximum": 23,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 3,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian and Overseas candidates",
+      "other_requirements": "Must meet specific age and educational qualifications"
+    },
+    "exam_pattern": {
+      "stages": ["Single Stage Exam"],
+      "mode": "Online",
+      "duration_minutes": 180,
+      "subjects": ["Part-A: Numerical Answer Type (NAT)", "Part-B: Multiple Select Questions (MSQ)", "Part-C: Multiple Choice Questions (MCQ)"]
+    },
+    "syllabus": {
+      "subjects": ["Visualization and Spatial Ability", "Environmental and Social Awareness", "Analytical and Logical Reasoning", "Design Thinking and Problem Solving", "Observation and Design Sensitivity"]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Caste Certificate (if applicable)"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 150,
+        "OBC": 140,
+        "SC": 130,
+        "ST": 120
+      },
+      "2023": {
+        "general": 155,
+        "OBC": 145,
+        "SC": 135,
+        "ST": 125
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["NID Entrance Exam Guide", "Creative Ability Test by R. S. Aggarwal"],
+      "online_courses": ["Unacademy", "BYJU'S", "UCEED Coaching Classes"],
+      "mock_tests": ["UCEED Mock Tests", "Design Entrance Mock Tests"],
+      "previous_year_papers": ["Available on UCEED official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["IITs", "IIITDM Jabalpur", "Various Design Studios", "Multinational Corporations"],
+      "salary_range": "INR 40,000 to 1,20,000 per month",
+      "career_growth": "Opportunities to become Senior Designer, Design Lead, or Creative Director"
+    },
+    "official_details": {
+      "website": "https://www.uceed.iitb.ac.in/2025/",
+      "helpdesk": "022-2576 7064"
+    }
+  },
+  {
+    "exam_name": "NEET PG 2025",
+    "full_form": "National Eligibility cum Entrance Test for Postgraduate",
+    "purpose": "Admission to MD, MS, PG Diploma, DNB, DrNB, and NBEMS Diploma courses in medical colleges across India",
+    "eligibility_criteria": {
+      "minimum_qualification": "MBBS degree or Provisional MBBS Pass Certificate from a recognized medical college",
+      "internship": "Completion of one year of internship or likely to complete on or before 31st March 2025",
+      "registration": "Permanent or provisional registration with Medical Council of India or State Medical Council"
+    },
+    "exam_pattern": {
+      "mode": "Computer-Based Test (CBT)",
+      "duration_minutes": 210,
+      "total_marks": 800,
+      "negative_marking": true,
+      "marking_scheme": {
+        "correct_answer": "+4",
+        "incorrect_answer": "-1",
+        "unanswered": "0"
+      },
+      "sections": [
+        {
+          "name": "Part A",
+          "subjects": ["Anatomy", "Physiology", "Biochemistry"],
+          "weightage": 50
+        },
+        {
+          "name": "Part B",
+          "subjects": ["Pathology", "Pharmacology", "Microbiology", "Forensic Medicine", "Social and Preventive Medicine"],
+          "weightage": 100
+        },
+        {
+          "name": "Part C",
+          "subjects": ["General Medicine", "General Surgery", "Obstetrics and Gynaecology", "Pediatrics", "Ophthalmology", "ENT", "Psychiatry"],
+          "weightage": 150
+        }
+      ]
+    },
+    "application_process": {
+      "documents_required": ["MBBS Degree Certificate", "Internship Completion Certificate", "Registration Certificate", "Passport-sized Photographs"],
+      "application_fee": {
+        "general": "₹4000",
+        "SC/ST/PWD": "₹2500"
+      },
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 50,
+        "OBC": 45,
+        "SC": 40,
+        "ST": 40
+      },
+      "2023": {
+        "general": 55,
+        "OBC": 50,
+        "SC": 45,
+        "ST": 45
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["Review of Medical Physiology by Ganong", "Pathology for the USMLE Step 1 by Goljan", "First Aid for the USMLE Step 1"],
+      "online_courses": ["PrepLadder", "Marrow", "Unacademy NEET PG"],
+      "mock_tests": ["NEET PG Mock Tests by PrepLadder", "Marrow Test Series"],
+      "previous_year_papers": ["Available on NBE official website"]
+    },
+    "official_details": {
+      "website": "https://nbe.edu.in/",
+      "helpdesk": "011-45593000, 011-45593001"
+    }
+  },
+  {
+    "exam_name": "FMGE 2025",
+    "full_form": "Foreign Medical Graduate Examination",
+    "purpose": "Screening test for Indian citizens or Overseas Citizens of India who have obtained their primary medical qualification from a foreign medical institution",
+    "eligibility_criteria": {
+      "nationality": "Indian or Overseas Citizen of India",
+      "qualification": "Primary medical qualification confirmed by the Indian Embassy in the country of the medical college",
+      "internship": "Completion of internship or likely to complete on or before the prescribed date"
+    },
+    "exam_pattern": {
+      "mode": "Computer-Based Test (CBT)",
+      "duration_minutes": 150,
+      "total_marks": 300,
+      "negative_marking": false,
+      "sections": [
+        {
+          "name": "Part A",
+          "subjects": ["Anatomy", "Physiology", "Biochemistry", "Pathology", "Microbiology", "Pharmacology", "Forensic Medicine"],
+          "weightage": 100
+        },
+        {
+          "name": "Part B",
+          "subjects": ["Medicine", "Surgery", "Obstetrics and Gynaecology", "Pediatrics", "Orthopedics", "ENT", "Ophthalmology", "Community Medicine"],
+          "weightage": 200
+        }
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Primary Medical Qualification Certificate", "Internship Completion Certificate", "Passport-sized Photographs", "Registration Certificate"],
+      "application_fee": "₹5500",
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 150,
+        "OBC": 145,
+        "SC": 140,
+        "ST": 140
+      },
+      "2023": {
+        "general": 160,
+        "OBC": 155,
+        "SC": 150,
+        "ST": 150
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["Review of Medical Physiology by Ganong", "Pathology for the USMLE Step 1 by Goljan", "First Aid for the USMLE Step 1"],
+      "online_courses": ["PrepLadder", "Marrow", "Unacademy FMGE"],
+      "mock_tests": ["FMGE Mock Tests by PrepLadder", "Marrow Test Series"],
+      "previous_year_papers": ["Available on NBE official website"]
+    },
+    "official_details": {
+      "website": "https://nbe.edu.in/",
+      "helpdesk": "011-45593000, 011-45593001"
+    }
+  },
+  {
+    "exam_name": "GATE 2025",
+    "full_form": "Graduate Aptitude Test in Engineering",
+    "purpose": "Admission to postgraduate programs (M.Tech/ M.S.) in IITs, NITs, and other engineering colleges, and recruitment by PSUs",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor's degree in Engineering/ Technology (4 years duration) from a recognized university or equivalent",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 30,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian, and Foreign nationals can also apply",
+      "other_requirements": "Candidates in the final year of their degree can also apply"
+    },
+    "exam_pattern": {
+      "stages": ["Single-stage Examination"],
+      "mode": "Online (Computer Based Test)",
+      "papers": 1,
+      "subjects": ["Engineering Mathematics", "General Aptitude", "Core Engineering Subjects"],
+      "total_marks": 100,
+      "negative_marking": true,
+      "marking_scheme": {
+        "correct_answer": "+1 or +2",
+        "incorrect_answer": "-1 or -2",
+        "unanswered": "0"
+      },
+      "duration_minutes": 180
+    },
+    "syllabus": {
+      "general": ["Engineering Mathematics", "General Aptitude"],
+      "core": ["Civil Engineering", "Mechanical Engineering", "Electrical Engineering", "Electronics and Communication Engineering", "Computer Science"]
+    },
+    "application_process": {
+      "documents_required": ["Degree Certificate/ Provisional Certificate", "Date of Birth Proof", "Passport-sized Photographs"],
+      "application_fee": {
+        "general": "₹1500",
+        "OBC": "₹1500",
+        "SC/ST/PWD": "₹750"
+      },
+      "correction_window": "Available after the application deadline"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 30,
+        "OBC": 27,
+        "SC": 20,
+        "ST": 20
+      },
+      "2023": {
+        "general": 29,
+        "OBC": 26,
+        "SC": 19,
+        "ST": 19
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["GATE Guide by G.K. Publications", "IIT Books for Core Engineering Subjects"],
+      "online_courses": ["Unacademy", "BYJU'S", "Gate Academy"],
+      "mock_tests": ["GATE Mock Tests by Testbook", "Gradeup GATE Tests"],
+      "previous_year_papers": ["Available on IIT official websites"]
+    },
+    "official_details": {
+      "website": "https://gate.iitb.ac.in",
+      "helpdesk": "022-25723424"
+    }
+  },
+  {
+    "exam_name": "ESE 2025",
+    "full_form": "Engineering Services Examination",
+    "purpose": "Recruitment to various technical posts in government departments such as Indian Railways, Public Works Department, Ministry of Defence, etc.",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor's degree in Engineering from a recognized university",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 30,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Candidates must be in the final year of engineering or possess an engineering degree"
+    },
+    "exam_pattern": {
+      "stages": ["Preliminary", "Mains", "Interview"],
+      "mode": "Offline",
+      "preliminary": {
+        "papers": 2,
+        "subjects": ["General Studies", "Engineering Discipline (Core Subject)"],
+        "total_marks": 500,
+        "negative_marking": true,
+        "duration_minutes": 120
+      },
+      "mains": {
+        "papers": 2,
+        "subjects": ["Engineering Discipline", "Optional Paper (Discipline Specific)"],
+        "total_marks": 600,
+        "duration_minutes": 180
+      },
+      "interview": {
+        "total_marks": 200
+      }
+    },
+    "syllabus": {
+      "prelims": {
+        "General Studies": ["Current Affairs", "General Knowledge", "Quantitative Aptitude", "Reasoning Ability"],
+        "Engineering Paper": ["Core Engineering Subjects based on the discipline"]
+      },
+      "mains": {
+        "Discipline Specific": ["Civil Engineering", "Mechanical Engineering", "Electrical Engineering", "Electronics and Telecommunication"]
+      }
+    },
+    "application_process": {
+      "documents_required": ["Engineering Degree", "Caste Certificate (if applicable)", "Proof of Age", "Photo ID"],
+      "application_fee": {
+        "general": "₹200",
+        "SC/ST/PWD": "No fee"
+      },
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 200,
+        "OBC": 180,
+        "SC": 150,
+        "ST": 150
+      },
+      "2023": {
+        "general": 210,
+        "OBC": 190,
+        "SC": 160,
+        "ST": 160
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["Engineering Services Examination by G.K. Publications", "IES Master Series for Engineering"],
+      "online_courses": ["Unacademy", "BYJU'S", "Ace Academy IES"],
+      "mock_tests": ["Testbook ESE Mock Tests", "Gradeup ESE Mock Tests"],
+      "previous_year_papers": ["Available on UPSC official website"]
+    },
+    "official_details": {
+      "website": "https://www.upsc.gov.in",
+      "helpdesk": "011-23385271"
+    }
+  },
+  {
+    "exam_name": "SSC JE 2025",
+    "full_form": "Staff Selection Commission Junior Engineer Examination",
+    "purpose": "Recruitment of Junior Engineers in civil, electrical, mechanical engineering posts in various government departments",
+    "eligibility_criteria": {
+      "minimum_qualification": "Diploma/ Degree in Engineering (Civil/ Electrical/ Mechanical) from a recognized institution",
+      "age_limit": {
+        "minimum": 18,
+        "maximum": 32,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Candidates must be graduates or diploma holders in engineering in relevant disciplines"
+    },
+    "exam_pattern": {
+      "stages": ["Preliminary", "Mains"],
+      "mode": "Offline",
+      "preliminary": {
+        "papers": 1,
+        "subjects": ["General Intelligence & Reasoning", "General Awareness", "Engineering Discipline"],
+        "total_marks": 200,
+        "negative_marking": true,
+        "duration_minutes": 120
+      },
+      "mains": {
+        "papers": 1,
+        "subjects": ["Engineering Discipline (Core Subject)"],
+        "total_marks": 300,
+        "negative_marking": true,
+        "duration_minutes": 180
+      }
+    },
+    "syllabus": {
+      "prelims": {
+        "General Studies": ["General Awareness", "General Intelligence", "Reasoning Ability"],
+        "Engineering Paper": ["Civil/ Mechanical/ Electrical Engineering Basics"]
+      },
+      "mains": {
+        "Discipline Specific": ["Civil Engineering", "Mechanical Engineering", "Electrical Engineering"]
+      }
+    },
+    "application_process": {
+      "documents_required": ["Degree/Diploma in Engineering", "Caste Certificate (if applicable)", "Photo ID", "Photographs"],
+      "application_fee": {
+        "general": "₹100",
+        "SC/ST/PWD": "No fee"
+      },
+      "correction_window": "Available after the application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 130,
+        "OBC": 120,
+        "SC": 110,
+        "ST": 110
+      },
+      "2023": {
+        "general": 140,
+        "OBC": 130,
+        "SC": 120,
+        "ST": 120
+      }
+    }
+  },
+  {
+    "exam_name": "CFA Level I",
+    "full_form": "Chartered Financial Analyst Level I",
+    "purpose": "Certification for financial professionals seeking to build expertise in investment management, portfolio management, and financial analysis",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor’s degree (or equivalent) or final-year students can also apply",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 65,
+        "relaxation": {}
+      },
+      "nationality": "Open to all nationalities",
+      "other_requirements": "Candidates must have a valid passport"
+    },
+    "exam_pattern": {
+      "stages": ["Single-stage Examination"],
+      "mode": "Offline (Paper-based Test)",
+      "papers": 1,
+      "subjects": ["Ethical and Professional Standards", "Quantitative Methods", "Economics", "Financial Reporting and Analysis", "Corporate Finance", "Equity Investments", "Fixed Income", "Derivatives", "Alternative Investments", "Portfolio Management", "Wealth Planning"],
+      "total_marks": 360,
+      "negative_marking": false,
+      "duration_minutes": 240
+    },
+    "syllabus": {
+      "general": ["Ethical and Professional Standards", "Quantitative Methods", "Economics", "Financial Reporting and Analysis", "Corporate Finance"]
+    },
+    "application_process": {
+      "documents_required": ["Bachelor’s Degree Certificate", "Passport Copy", "Passport-sized Photograph"],
+      "correction_window": "No correction window available after application submission"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": "Not published",
+        "OBC": "Not published",
+        "SC": "Not published",
+        "ST": "Not published"
+      },
+      "2023": {
+        "general": "Not published",
+        "OBC": "Not published",
+        "SC": "Not published",
+        "ST": "Not published"
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["CFA Institute Curriculum", "Schweser Study Notes"],
+      "online_courses": ["Kaplan Schweser", "Wiley CFA Review"],
+      "mock_tests": ["CFA Institute Mock Exams", "AnalystPrep CFA Mock Tests"],
+      "previous_year_papers": ["Available on CFA Institute official website"]
+    },
+    "official_details": {
+      "website": "https://www.cfainstitute.org",
+      "helpdesk": "1-800-247-8132"
+    }
+  },
+  {
+    "exam_name": "FRM Part I",
+    "full_form": "Financial Risk Manager Part I",
+    "purpose": "Certification for financial professionals in risk management to demonstrate competency in risk analysis, control, and financial markets",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor’s degree or equivalent work experience",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 65,
+        "relaxation": {}
+      },
+      "nationality": "Open to all nationalities",
+      "other_requirements": "Candidates must have work experience of at least 2 years in risk management or related field"
+    },
+    "exam_pattern": {
+      "stages": ["Single-stage Examination"],
+      "mode": "Online",
+      "papers": 1,
+      "subjects": ["Foundations of Risk Management", "Quantitative Analysis", "Financial Markets and Products", "Valuation and Risk Models"],
+      "total_marks": 400,
+      "negative_marking": true,
+      "duration_minutes": 240
+    },
+    "syllabus": {
+      "general": ["Foundations of Risk Management", "Quantitative Analysis", "Financial Markets and Products", "Valuation and Risk Models"]
+    },
+    "application_process": {
+      "documents_required": ["Bachelor’s Degree Certificate or Work Experience Proof", "Passport-sized Photograph"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 125,
+        "OBC": "Not specified",
+        "SC": "Not specified",
+        "ST": "Not specified"
+      },
+      "2023": {
+        "general": 120,
+        "OBC": "Not specified",
+        "SC": "Not specified",
+        "ST": "Not specified"
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["FRM Part I by GARP", "Risk Management and Financial Institutions by John Hull"],
+      "online_courses": ["Wiley FRM Review", "FRM Study by AnalystPrep"],
+      "mock_tests": ["GARP Official Mock Tests", "Kaplan FRM Mock Exams"],
+      "previous_year_papers": ["Available on GARP official website"]
+    },
+    "official_details": {
+      "website": "https://www.garp.org",
+      "helpdesk": "+1 781-906-1290"
+    }
+  },
+  {
+    "exam_name": "RBI Grade B",
+    "full_form": "Reserve Bank of India Grade B Examination",
+    "purpose": "Recruitment for Grade B Officers in the Reserve Bank of India",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor’s degree in any discipline from a recognized university",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 30,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Candidates must have knowledge of the financial sector"
+    },
+    "exam_pattern": {
+      "stages": ["Preliminary", "Mains", "Interview"],
+      "mode": "Online",
+      "preliminary": {
+        "papers": 1,
+        "subjects": ["Economic and Social Issues", "English Language", "Quantitative Aptitude", "Reasoning Ability"],
+        "total_marks": 200,
+        "negative_marking": true,
+        "duration_minutes": 120
+      },
+      "mains": {
+        "papers": 3,
+        "subjects": ["Economic and Social Issues", "English Writing Skills", "Finance and Management"],
+        "total_marks": 300,
+        "duration_minutes": 180
+      },
+      "interview": {
+        "total_marks": 50
+      }
+    },
+    "syllabus": {
+      "prelims": {
+        "General Studies": ["Economic and Social Issues", "English Language", "Quantitative Aptitude", "Reasoning Ability"]
+      },
+      "mains": {
+        "General Studies": ["Economic and Social Issues", "English Writing Skills", "Finance and Management"]
+      }
+    },
+    "application_process": {
+      "documents_required": ["Degree Certificate", "Caste Certificate (if applicable)", "Photo ID"],
+      "application_fee": {
+        "general": "₹850",
+        "SC/ST/PWD": "₹100"
+      },
+      "correction_window": "Available after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 95,
+        "OBC": 90,
+        "SC": 85,
+        "ST": 80
+      },
+      "2023": {
+        "general": 97,
+        "OBC": 92,
+        "SC": 88,
+        "ST": 83
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["RBI Grade B Officer Exam Guide by RPH Editorial Board", "Indian Economy by Ramesh Singh"],
+      "online_courses": ["Unacademy", "BYJU'S RBI Grade B"],
+      "mock_tests": ["Gradeup RBI Grade B Mock Tests", "Testbook RBI Grade B Mock Exams"],
+      "previous_year_papers": ["Available on RBI official website"]
+    },
+    "official_details": {
+      "website": "https://www.rbi.org.in",
+      "helpdesk": "022-22602228"
+    }
+  },
+  {
+    "exam_name": "IBPS PO",
+    "full_form": "Institute of Banking Personnel Selection Probationary Officer",
+    "purpose": "Recruitment for Probationary Officers in various public sector banks in India",
+    "eligibility_criteria": {
+      "minimum_qualification": "Graduation in any discipline from a recognized university",
+      "age_limit": {
+        "minimum": 20,
+        "maximum": 30,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Candidates should not have any criminal record"
+    },
+    "exam_pattern": {
+      "stages": ["Preliminary", "Mains", "Interview"],
+      "mode": "Online",
+      "preliminary": {
+        "papers": 1,
+        "subjects": ["English Language", "Quantitative Aptitude", "Reasoning Ability"],
+        "total_marks": 100,
+        "negative_marking": true,
+        "duration_minutes": 60
+      },
+      "mains": {
+        "papers": 4,
+        "subjects": ["Reasoning and Computer Aptitude", "General/Economic/Banking Awareness", "English Language", "Data Analysis and Interpretation"],
+        "total_marks": 200,
+        "duration_minutes": 180
+      },
+      "interview": {
+        "total_marks": 100
+      }
+    },
+    "syllabus": {
+      "prelims": {
+        "Reasoning Ability": ["Syllogism", "Blood Relations", "Puzzles"],
+        "Quantitative Aptitude": ["Number Series", "Simplification", "Data Interpretation"],
+        "English Language": ["Reading Comprehension", "Error Detection", "Vocabulary"]
+      },
+      "mains": {
+        "Reasoning and Computer Aptitude": ["Logical Reasoning", "Data Interpretation", "Computer Basics"],
+        "General/Economic/Banking Awareness": ["Current Affairs", "Banking Regulations", "Financial Awareness"],
+        "English Language": ["Essays", "Reading Comprehension", "Vocabulary"],
+        "Data Analysis and Interpretation": ["Data Interpretation", "Graphs and Tables", "Percentages"]
+      }
+    },
+    "application_process": {
+      "documents_required": ["Graduation Certificate", "Caste Certificate (if applicable)", "Photo ID"],
+      "correction_window": "Available after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 100,
+        "OBC": 95,
+        "SC": 90,
+        "ST": 85
+      },
+      "2023": {
+        "general": 105,
+        "OBC": 100,
+        "SC": 95,
+        "ST": 90
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["Quantitative Aptitude by RS Agarwal", "Reasoning Ability by Arun Sharma", "Banking Awareness by Arihant"],
+      "online_courses": ["Testbook", "Gradeup", "BYJU'S"],
+      "mock_tests": ["IBPS PO Mock Tests by Oliveboard", "Gradeup Mock Tests"],
+      "previous_year_papers": ["Available on IBPS official website"]
+    },
+    "official_details": {
+      "website": "https://www.ibps.in",
+      "helpdesk": "1800-102-1222"
+    }
+  },
+  {
+    "exam_name": "SBI PO",
+    "full_form": "State Bank of India Probationary Officer",
+    "purpose": "Recruitment for Probationary Officers in State Bank of India",
+    "eligibility_criteria": {
+      "minimum_qualification": "Graduation in any discipline from a recognized university",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 30,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Candidates must possess a valid passport"
+    },
+    "exam_pattern": {
+      "stages": ["Preliminary", "Mains", "Interview"],
+      "mode": "Online",
+      "preliminary": {
+        "papers": 1,
+        "subjects": ["English Language", "Quantitative Aptitude", "Reasoning Ability"],
+        "total_marks": 100,
+        "negative_marking": true,
+        "duration_minutes": 60
+      },
+      "mains": {
+        "papers": 4,
+        "subjects": ["Reasoning and Computer Aptitude", "General/Economic/Banking Awareness", "English Language", "Data Analysis and Interpretation"],
+        "total_marks": 250,
+        "duration_minutes": 240
+      },
+      "interview": {
+        "total_marks": 50
+      }
+    },
+    "syllabus": {
+      "prelims": {
+        "Reasoning Ability": ["Puzzles", "Blood Relations", "Syllogism"],
+        "Quantitative Aptitude": ["Data Interpretation", "Averages", "Number Series"],
+        "English Language": ["Reading Comprehension", "Error Spotting", "Vocabulary"]
+      },
+      "mains": {
+        "Reasoning and Computer Aptitude": ["Logical Reasoning", "Data Interpretation", "Computer Fundamentals"],
+        "General/Economic/Banking Awareness": ["Current Affairs", "Banking Terms", "Financial Knowledge"],
+        "English Language": ["Reading Comprehension", "Essay Writing", "Vocabulary"],
+        "Data Analysis and Interpretation": ["Graphs", "Tables", "Percentages"]
+      }
+    },
+    "application_process": {
+      "documents_required": ["Graduation Certificate", "Caste Certificate (if applicable)", "Photo ID"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 115,
+        "OBC": 110,
+        "SC": 105,
+        "ST": 100
+      },
+      "2023": {
+        "general": 120,
+        "OBC": 115,
+        "SC": 110,
+        "ST": 105
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["Arihant's SBI PO Guide", "Objective Banking Awareness by Dr. G K Puri"],
+      "online_courses": ["Unacademy", "BYJU'S", "Testbook"],
+      "mock_tests": ["SBI PO Mock Tests by Oliveboard", "Gradeup SBI PO Mock Tests"],
+      "previous_year_papers": ["Available on SBI official website"]
+    },
+    "official_details": {
+      "website": "https://www.sbi.co.in",
+      "helpdesk": "1800-11-2211"
+    }
+  },
+  {
+    "exam_name": "LIC AAO",
+    "full_form": "Life Insurance Corporation of India Assistant Administrative Officer",
+    "purpose": "Recruitment for Assistant Administrative Officers in LIC",
+    "eligibility_criteria": {
+      "minimum_qualification": "Graduation in any discipline from a recognized university",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 30,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Candidates must have a good understanding of insurance sector"
+    },
+    "exam_pattern": {
+      "stages": ["Preliminary", "Mains", "Interview"],
+      "mode": "Online",
+      "preliminary": {
+        "papers": 1,
+        "subjects": ["Reasoning Ability", "Numerical Ability", "English Language"],
+        "total_marks": 100,
+        "negative_marking": true,
+        "duration_minutes": 60
+      },
+      "mains": {
+        "papers": 4,
+        "subjects": ["Reasoning Ability", "Numerical Ability", "English Language", "General Knowledge"],
+        "total_marks": 300,
+        "duration_minutes": 180
+      },
+      "interview": {
+        "total_marks": 50
+      }
+    },
+    "syllabus": {
+      "prelims": {
+        "Reasoning Ability": ["Blood Relations", "Coding-Decoding", "Puzzles"],
+        "Numerical Ability": ["Data Interpretation", "Simplification", "Arithmetic"],
+        "English Language": ["Reading Comprehension", "Spotting Errors", "Vocabulary"]
+      },
+      "mains": {
+        "Reasoning Ability": ["Logical Reasoning", "Data Sufficiency", "Puzzles"],
+        "Numerical Ability": ["Data Interpretation", "Simplification", "Speed Math"],
+        "English Language": ["Reading Comprehension", "Essay Writing", "Vocabulary"],
+        "General Knowledge": ["Current Affairs", "General Knowledge", "Insurance Basics"]
+      }
+    },
+    "application_process": {
+      "documents_required": ["Graduation Certificate", "Caste Certificate (if applicable)", "Photo ID"],
+      "correction_window": "Available after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 100,
+        "OBC": 95,
+        "SC": 90,
+        "ST": 85
+      },
+      "2023": {
+        "general": 105,
+        "OBC": 100,
+        "SC": 95,
+        "ST": 90
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["LIC AAO Guide by Kiran", "General Knowledge by Manohar Pandey"],
+      "online_courses": ["Unacademy", "BYJU'S"],
+      "mock_tests": ["Oliveboard LIC AAO Mock Tests", "Gradeup LIC AAO Mock Tests"],
+      "previous_year_papers": ["Available on LIC official website"]
+    },
+    "official_details": {
+      "website": "https://www.licindia.in",
+      "helpdesk": "022-6827-6827"
+    }
+  },
+  {
+    "exam_name": "Indian Army NDA",
+    "full_form": "National Defence Academy",
+    "purpose": "Recruitment of candidates for the Indian Army, Navy, and Air Force through the NDA program",
+    "eligibility_criteria": {
+      "minimum_qualification": "10+2 (Science stream with Physics and Mathematics)",
+      "age_limit": {
+        "minimum": 16.5,
+        "maximum": 19.5,
+        "relaxation": {
+          "OBC": 0,
+          "SC/ST": 0,
+          "PWD": 0
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Candidates must be unmarried male candidates"
+    },
+    "exam_pattern": {
+      "stages": ["Written Examination", "SSB Interview", "Medical Examination"],
+      "mode": "Offline",
+      "written_examination": {
+        "papers": 2,
+        "subjects": ["Mathematics", "General Ability Test"],
+        "total_marks": 900,
+        "negative_marking": true,
+        "duration_minutes": 180
+      },
+      "ssb_interview": {
+        "total_marks": 900
+      },
+      "medical_examination": {
+        "total_marks": "Pass/Fail"
+      }
+    },
+    "syllabus": {
+      "written_examination": {
+        "Mathematics": [
+          "Algebra",
+          "Trigonometry",
+          "Calculus",
+          "Matrices and Determinants",
+          "Statistics"
+        ],
+        "General Ability Test": [
+          "English",
+          "General Knowledge",
+          "Physics",
+          "Chemistry",
+          "History",
+          "Geography"
+        ]
+      }
+    },
+    "application_process": {
+      "documents_required": ["12th Certificate", "Identity Proof", "Caste Certificate (if applicable)"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 360,
+        "OBC": 340,
+        "SC": 310,
+        "ST": 280
+      },
+      "2023": {
+        "general": 350,
+        "OBC": 330,
+        "SC": 300,
+        "ST": 270
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["NDA Mathematics by RS Agarwal", "General Knowledge by Manohar Pandey"],
+      "online_courses": ["Unacademy", "BYJU'S"],
+      "mock_tests": ["Oliveboard NDA Mock Tests", "Gradeup NDA Mock Tests"],
+      "previous_year_papers": ["Available on UPSC official website"]
+    },
+    "official_details": {
+      "website": "https://www.upsc.gov.in",
+      "helpdesk": "011-23385271, 011-23381125"
+    }
+  },
+  {
+    "exam_name": "Indian Army TES",
+    "full_form": "Technical Entry Scheme",
+    "purpose": "Recruitment of candidates for the Indian Army through the Technical Entry Scheme",
+    "eligibility_criteria": {
+      "minimum_qualification": "12th (with Physics, Chemistry, and Mathematics as subjects)",
+      "age_limit": {
+        "minimum": 16.5,
+        "maximum": 19.5,
+        "relaxation": {
+          "OBC": 0,
+          "SC/ST": 0,
+          "PWD": 0
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Candidates must be unmarried male candidates"
+    },
+    "exam_pattern": {
+      "stages": ["Shortlisting", "SSB Interview", "Medical Examination"],
+      "mode": "Offline",
+      "shortlisting": {
+        "criteria": "Based on 12th percentage",
+        "total_marks": "Varies"
+      },
+      "ssb_interview": {
+        "total_marks": "Varies"
+      },
+      "medical_examination": {
+        "total_marks": "Pass/Fail"
+      }
+    },
+    "syllabus": {
+      "shortlisting": {
+        "Physics": [
+          "Mechanics",
+          "Waves",
+          "Optics"
+        ],
+        "Mathematics": [
+          "Trigonometry",
+          "Calculus",
+          "Algebra"
+        ],
+        "Chemistry": [
+          "Organic Chemistry",
+          "Inorganic Chemistry",
+          "Physical Chemistry"
+        ]
+      }
+    },
+    "application_process": {
+      "documents_required": ["12th Certificate", "Identity Proof", "Caste Certificate (if applicable)"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 80,
+        "OBC": 75,
+        "SC": 70,
+        "ST": 65
+      },
+      "2023": {
+        "general": 78,
+        "OBC": 73,
+        "SC": 68,
+        "ST": 63
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["NDA Mathematics by RS Agarwal", "Physics by H C Verma", "Chemistry by O P Tandon"],
+      "online_courses": ["Unacademy", "BYJU'S"],
+      "mock_tests": ["Oliveboard TES Mock Tests", "Gradeup TES Mock Tests"],
+      "previous_year_papers": ["Available on Indian Army official website"]
+    },
+    "official_details": {
+      "website": "https://www.joinindianarmy.nic.in",
+      "helpdesk": "1800-119-000"
+    }
+  },
+  {
+    "exam_name": "Indian Army AFCAT",
+    "full_form": "Air Force Common Admission Test",
+    "purpose": "Recruitment for Air Force in various branches including the flying and technical branches",
+    "eligibility_criteria": {
+      "minimum_qualification": "Graduation in relevant discipline from a recognized university",
+      "age_limit": {
+        "minimum": 20,
+        "maximum": 24,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Candidates must be physically fit according to AFCAT guidelines"
+    },
+    "exam_pattern": {
+      "stages": ["Written Examination", "AFCAT Interview", "Medical Examination"],
+      "mode": "Online",
+      "written_examination": {
+        "papers": 2,
+        "subjects": ["General Awareness", "Verbal Ability", "Numerical Ability", "Reasoning"],
+        "total_marks": 300,
+        "negative_marking": true,
+        "duration_minutes": 120
+      },
+      "afcat_interview": {
+        "total_marks": 200
+      },
+      "medical_examination": {
+        "total_marks": "Pass/Fail"
+      }
+    },
+    "syllabus": {
+      "written_examination": {
+        "General Awareness": ["Current Affairs", "Sports", "History", "Geography"],
+        "Verbal Ability": ["English Comprehension", "Sentence Completion", "Vocabulary"],
+        "Numerical Ability": ["Data Interpretation", "Algebra", "Arithmetic"],
+        "Reasoning": ["Logical Reasoning", "Analytical Reasoning"]
+      }
+    },
+    "application_process": {
+      "documents_required": ["Graduation Certificate", "Photo ID", "Caste Certificate (if applicable)"],
+      "correction_window": "Available after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 155,
+        "OBC": 150,
+        "SC": 145,
+        "ST": 140
+      },
+      "2023": {
+        "general": 160,
+        "OBC": 155,
+        "SC": 150,
+        "ST": 145
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["AFCAT Guide by Arihant", "Verbal Ability by Wren & Martin"],
+      "online_courses": ["Unacademy", "BYJU'S"],
+      "mock_tests": ["Oliveboard AFCAT Mock Tests", "Gradeup AFCAT Mock Tests"],
+      "previous_year_papers": ["Available on IAF official website"]
+    },
+    "official_details": {
+      "website": "https://afcat.cdac.in",
+      "helpdesk": "020-25503105"
+    }
+  },
+  {
+    "exam_name": "CLAT",
+    "full_form": "Common Law Admission Test",
+    "purpose": "Admission to undergraduate and postgraduate law programs in national law universities in India",
+    "eligibility_criteria": {
+      "minimum_qualification": "For UG: 10+2 (any stream); For PG: LLB degree",
+      "age_limit": {
+        "minimum": 20,
+        "maximum": 22,
+        "relaxation": {
+          "OBC": 2,
+          "SC/ST": 2,
+          "PWD": 2
+        }
+      },
+      "nationality": "Indian, NRI, Foreign Nationals",
+      "other_requirements": "None"
+    },
+    "exam_pattern": {
+      "stages": ["Written Examination"],
+      "mode": "Online",
+      "written_examination": {
+        "papers": 1,
+        "subjects": ["English", "General Knowledge", "Legal Reasoning", "Logical Reasoning", "Quantitative Techniques"],
+        "total_marks": 200,
+        "negative_marking": true,
+        "duration_minutes": 120
+      }
+    },
+    "syllabus": {
+      "written_examination": {
+        "English": ["Comprehension", "Grammar", "Vocabulary"],
+        "General Knowledge": ["Current Affairs", "History", "Geography", "Polity"],
+        "Legal Reasoning": ["Legal principles", "Judgments"],
+        "Logical Reasoning": ["Verbal Reasoning", "Critical Thinking"],
+        "Quantitative Techniques": ["Basic Arithmetic", "Algebra"]
+      }
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "12th Certificate (for UG), LLB Certificate (for PG)"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 95,
+        "OBC": 90,
+        "SC": 85,
+        "ST": 80
+      },
+      "2023": {
+        "general": 97,
+        "OBC": 93,
+        "SC": 88,
+        "ST": 82
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["Universal’s CLAT Guide", "CLAT Previous Year Papers"],
+      "online_courses": ["Unacademy", "BYJU'S"],
+      "mock_tests": ["Gradeup CLAT Mock Tests", "Oliveboard CLAT Mock Tests"],
+      "previous_year_papers": ["Available on CLAT official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["National Law Universities (NLUs)"],
+      "salary_range": "INR 3,00,000 to 10,00,000 per annum (depending on the law firm or company)",
+      "career_growth": "Legal practice, corporate law, legal advisor roles"
+    },
+    "official_details": {
+      "website": "https://clat.ac.in",
+      "helpdesk": "info@clat.ac.in"
+    }
+  },
+  {
+    "exam_name": "NCHMCT JEE",
+    "full_form": "National Council for Hotel Management and Catering Technology Joint Entrance Examination",
+    "purpose": "Admission to undergraduate programs in Hotel Management and Catering Technology offered by NCHMCT affiliated institutes",
+    "eligibility_criteria": {
+      "minimum_qualification": "12th pass with English as a compulsory subject",
+      "age_limit": {
+        "minimum": 17,
+        "maximum": 25,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian and Foreign Nationals",
+      "other_requirements": "Physical fitness required for the course"
+    },
+    "exam_pattern": {
+      "stages": ["Written Examination"],
+      "mode": "Online",
+      "written_examination": {
+        "papers": 1,
+        "subjects": ["English Language", "General Knowledge", "Logical Reasoning", "Aptitude for Service Sector", "Numerical Ability"],
+        "total_marks": 200,
+        "negative_marking": true,
+        "duration_minutes": 180
+      }
+    },
+    "syllabus": {
+      "written_examination": {
+        "English Language": ["Reading Comprehension", "Grammar", "Vocabulary"],
+        "General Knowledge": ["Current Affairs", "History", "Geography"],
+        "Logical Reasoning": ["Syllogisms", "Analogies", "Data Sufficiency"],
+        "Aptitude for Service Sector": ["Customer Service", "Hotel Industry Basics"],
+        "Numerical Ability": ["Percentages", "Profit and Loss", "Simple and Compound Interest"]
+      }
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "12th Marksheet", "Passport Size Photographs"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 125,
+        "OBC": 115,
+        "SC": 105,
+        "ST": 95
+      },
+      "2023": {
+        "general": 130,
+        "OBC": 120,
+        "SC": 110,
+        "ST": 100
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["NCHMCT JEE Previous Year Papers", "Arihant Hotel Management Book"],
+      "online_courses": ["Unacademy", "BYJU'S"],
+      "mock_tests": ["Gradeup NCHMCT Mock Tests", "Oliveboard NCHMCT Mock Tests"],
+      "previous_year_papers": ["Available on NCHMCT official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Hotels", "Resorts", "Tourism Industry", "Hospitality Chains"],
+      "salary_range": "INR 25,000 to 50,000 per month",
+      "career_growth": "Progression from entry-level to managerial and executive positions in hotel industry"
+    },
+    "official_details": {
+      "website": "https://nchm.nic.in",
+      "helpdesk": "011-24629411, 011-24629412"
+    }
+  },
+  {
+    "exam_name": "IIHM ECHAT",
+    "full_form": "International Institute of Hotel Management ECHAT",
+    "purpose": "Admission to hotel management and hospitality programs at IIHM",
+    "eligibility_criteria": {
+      "minimum_qualification": "12th pass or equivalent from a recognized board",
+      "age_limit": {
+        "minimum": 17,
+        "maximum": 22,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5
+        }
+      },
+      "nationality": "Indian and Foreign Nationals",
+      "other_requirements": "Candidates must meet medical fitness requirements"
+    },
+    "exam_pattern": {
+      "stages": ["Written Examination", "Personal Interview"],
+      "mode": "Online",
+      "written_examination": {
+        "papers": 1,
+        "subjects": ["English", "Logical Reasoning", "General Knowledge", "Aptitude for Service Industry"],
+        "total_marks": 100,
+        "negative_marking": true,
+        "duration_minutes": 90
+      },
+      "interview": {
+        "total_marks": 50
+      }
+    },
+    "syllabus": {
+      "written_examination": {
+        "English": ["Grammar", "Vocabulary", "Comprehension"],
+        "Logical Reasoning": ["Puzzles", "Number Series", "Data Sufficiency"],
+        "General Knowledge": ["Current Affairs", "Tourism", "Food and Beverage"],
+        "Aptitude for Service Industry": ["Customer Service", "Basic Hospitality Knowledge"]
+      }
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "12th Marksheet", "Passport Size Photographs"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 85,
+        "OBC": 80,
+        "SC": 75,
+        "ST": 70
+      },
+      "2023": {
+        "general": 90,
+        "OBC": 85,
+        "SC": 80,
+        "ST": 75
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["IIHM ECHAT Guide", "R.S. Aggarwal's Reasoning Book"],
+      "online_courses": ["IIHM Online Learning", "BYJU'S"],
+      "mock_tests": ["Oliveboard ECHAT Mock Tests", "Gradeup ECHAT Mock Tests"],
+      "previous_year_papers": ["Available on IIHM official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Hotels", "Cruise Lines", "Restaurant Chains", "Tourism Industry"],
+      "salary_range": "INR 20,000 to 50,000 per month",
+      "career_growth": "Advancement to managerial roles, operations manager, or hotel manager"
+    },
+    "official_details": {
+      "website": "https://iihm.ac.in",
+      "helpdesk": "1800-209-4343"
+    }
+  },
+  {
+    "exam_name": "CTET",
+    "full_form": "Central Teacher Eligibility Test",
+    "purpose": "To determine the eligibility of candidates for teaching positions in primary and upper primary schools in India.",
+    "eligibility_criteria": {
+      "minimum_qualification": "12th pass with at least 50% marks and a two-year Diploma in Elementary Education or equivalent",
+      "age_limit": {
+        "minimum": 18,
+        "maximum": 35,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Candidates must meet medical and physical fitness requirements"
+    },
+    "exam_pattern": {
+      "stages": ["Written Examination"],
+      "mode": "Offline",
+      "written_examination": {
+        "papers": 2,
+        "subjects": [
+          "Child Development and Pedagogy",
+          "Language I (Hindi/English)",
+          "Language II (Other than Language I)",
+          "Mathematics",
+          "Environmental Studies"
+        ],
+        "total_marks": 150,
+        "negative_marking": false,
+        "duration_minutes": 150
+      }
+    },
+    "syllabus": {
+      "Child Development and Pedagogy": [
+        "Child Development",
+        "Educational Psychology",
+        "Pedagogical Issues"
+      ],
+      "Language I": [
+        "Comprehension",
+        "Grammar",
+        "Pedagogy"
+      ],
+      "Language II": [
+        "Comprehension",
+        "Grammar",
+        "Pedagogy"
+      ],
+      "Mathematics": [
+        "Number System",
+        "Algebra",
+        "Geometry",
+        "Data Handling"
+      ],
+      "Environmental Studies": [
+        "Environmental Issues",
+        "Pedagogical Issues",
+        "Ecology"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Passport Size Photographs"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 60,
+        "OBC": 55,
+        "SC": 50,
+        "ST": 45
+      },
+      "2023": {
+        "general": 65,
+        "OBC": 60,
+        "SC": 55,
+        "ST": 50
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["CTET Previous Year Papers", "Child Development & Pedagogy by R.S. Aggarwal"],
+      "online_courses": ["Unacademy", "BYJU'S"],
+      "mock_tests": ["Gradeup CTET Mock Tests", "Oliveboard CTET Mock Tests"],
+      "previous_year_papers": ["Available on CTET official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Primary Schools", "Upper Primary Schools"],
+      "salary_range": "INR 20,000 to 40,000 per month",
+      "career_growth": "Promotion to higher teaching positions, headteacher roles, or administrative posts"
+    },
+    "official_details": {
+      "website": "https://ctet.nic.in",
+      "helpdesk": "011-22240112"
+    }
+  },
+  {
+    "exam_name": "TET",
+    "full_form": "Teacher Eligibility Test",
+    "purpose": "To determine the eligibility of candidates for teaching posts in schools of various states in India.",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor’s degree with a B.Ed degree from a recognized university",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 40,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Candidates must have passed a recognized teacher training program"
+    },
+    "exam_pattern": {
+      "stages": ["Written Examination"],
+      "mode": "Offline",
+      "written_examination": {
+        "papers": 2,
+        "subjects": [
+          "Child Development and Pedagogy",
+          "Language I (Hindi/English)",
+          "Language II (Other than Language I)",
+          "Mathematics",
+          "Environmental Studies"
+        ],
+        "total_marks": 150,
+        "negative_marking": false,
+        "duration_minutes": 150
+      }
+    },
+    "syllabus": {
+      "Child Development and Pedagogy": [
+        "Educational Psychology",
+        "Child Development",
+        "Pedagogical Issues"
+      ],
+      "Language I": [
+        "Comprehension",
+        "Grammar",
+        "Pedagogy"
+      ],
+      "Language II": [
+        "Comprehension",
+        "Grammar",
+        "Pedagogy"
+      ],
+      "Mathematics": [
+        "Number System",
+        "Algebra",
+        "Geometry",
+        "Data Handling"
+      ],
+      "Environmental Studies": [
+        "Environmental Issues",
+        "Ecology",
+        "Pedagogical Issues"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Passport Size Photographs"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 65,
+        "OBC": 60,
+        "SC": 55,
+        "ST": 50
+      },
+      "2023": {
+        "general": 70,
+        "OBC": 65,
+        "SC": 60,
+        "ST": 55
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": ["TET Previous Year Papers", "Arihant Teacher Eligibility Test Guide"],
+      "online_courses": ["Unacademy", "BYJU'S"],
+      "mock_tests": ["Gradeup TET Mock Tests", "Oliveboard TET Mock Tests"],
+      "previous_year_papers": ["Available on TET official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["State Governments", "Central Government Schools"],
+      "salary_range": "INR 25,000 to 50,000 per month",
+      "career_growth": "Promotions to senior teaching or administrative roles"
+    },
+    "official_details": {
+      "website": "https://ncte.gov.in",
+      "helpdesk": "011-25926408"
+    }
+  },
+  {
+    "exam_name": "MBA Entrance Exams",
+    "full_form": "Master of Business Administration Entrance Exams",
+    "purpose": "To assess the eligibility of candidates for admission to MBA programs in various business schools.",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor's degree from a recognized university",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 27,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Candidates must meet the academic and professional background requirements for specific MBA programs."
+    },
+    "exam_pattern": {
+      "stages": ["Written Examination", "Group Discussion", "Personal Interview"],
+      "mode": "Online and Offline",
+      "written_examination": {
+        "papers": 1,
+        "subjects": ["Quantitative Aptitude", "Logical Reasoning", "Verbal Ability", "General Awareness"],
+        "total_marks": 200,
+        "negative_marking": true,
+        "duration_minutes": 180
+      }
+    },
+    "syllabus": {
+      "Quantitative Aptitude": [
+        "Number Systems",
+        "Percentages",
+        "Averages",
+        "Time and Work",
+        "Probability"
+      ],
+      "Logical Reasoning": [
+        "Series",
+        "Puzzles",
+        "Syllogism",
+        "Blood Relations",
+        "Direction Sense"
+      ],
+      "Verbal Ability": [
+        "Reading Comprehension",
+        "Sentence Correction",
+        "Para Jumbles",
+        "Vocabulary"
+      ],
+      "General Awareness": [
+        "Current Affairs",
+        "Business Awareness",
+        "Economy",
+        "Geography",
+        "History"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Work Experience Certificate (if applicable)"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 80,
+        "OBC": 75,
+        "SC": 70,
+        "ST": 65
+      },
+      "2023": {
+        "general": 85,
+        "OBC": 80,
+        "SC": 75,
+        "ST": 70
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "Quantitative Aptitude by R.S. Aggarwal",
+        "Logical Reasoning by Arun Sharma",
+        "Verbal Ability and Reading Comprehension by Nishit Sinha"
+      ],
+      "online_courses": ["Unacademy", "BYJU'S", "Madhukar's MBA"],
+      "mock_tests": ["Testfunda", "Career Launcher", "Time MBA Mock Tests"],
+      "previous_year_papers": ["Available on respective MBA exam websites"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Private Sector Companies", "Multinational Corporations", "Entrepreneurship"],
+      "salary_range": "INR 8,00,000 to 20,00,000 per year",
+      "career_growth": "From Business Development, Sales Manager to Chief Executive Officer (CEO)"
+    },
+    "official_details": {
+      "website": "https://www.cati.com",
+      "helpdesk": "011-43480300"
+    }
+  },
+  {
+    "exam_name": "XAT",
+    "full_form": "Xavier Aptitude Test",
+    "purpose": "To assess the eligibility of candidates for admission to MBA programs at XLRI and other top business schools.",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor's degree from a recognized university",
+      "age_limit": {
+        "minimum": 22,
+        "maximum": 27,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Work experience is not mandatory but may be an advantage for some programs."
+    },
+    "exam_pattern": {
+      "stages": ["Written Examination", "Group Discussion", "Personal Interview"],
+      "mode": "Online",
+      "written_examination": {
+        "papers": 1,
+        "subjects": ["Verbal and Logical Ability", "Decision Making", "Quantitative Ability", "General Knowledge"],
+        "total_marks": 200,
+        "negative_marking": true,
+        "duration_minutes": 180
+      }
+    },
+    "syllabus": {
+      "Verbal and Logical Ability": [
+        "Reading Comprehension",
+        "Para Jumbles",
+        "Sentence Correction",
+        "Logical Reasoning"
+      ],
+      "Decision Making": [
+        "Business Situations",
+        "Ethical Decision Making",
+        "Case Studies"
+      ],
+      "Quantitative Ability": [
+        "Mathematics",
+        "Data Interpretation",
+        "Algebra",
+        "Geometry"
+      ],
+      "General Knowledge": [
+        "Current Affairs",
+        "Business and Economy",
+        "International Relations"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 85,
+        "OBC": 80,
+        "SC": 75,
+        "ST": 70
+      },
+      "2023": {
+        "general": 88,
+        "OBC": 82,
+        "SC": 78,
+        "ST": 72
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "XAT Preparation Guide by Arun Sharma",
+        "Verbal Ability and Reading Comprehension by Nishit Sinha",
+        "Quantitative Aptitude by R.S. Aggarwal"
+      ],
+      "online_courses": ["Unacademy", "BYJU'S", "Mindworkzz"],
+      "mock_tests": ["XAT Official Mock Tests", "TIME Mock Tests"],
+      "previous_year_papers": ["Available on XAT official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["XLRI", "Jamshedpur", "Other top MBA schools"],
+      "salary_range": "INR 8,00,000 to 18,00,000 per year",
+      "career_growth": "From Business Analyst, Sales Manager to Senior Executive"
+    },
+    "official_details": {
+      "website": "https://www.xatonline.in",
+      "helpdesk": "022-66235922"
+    }
+  },
+  {
+    "exam_name": "CTT",
+    "full_form": "Central Translation Bureau Examination",
+    "purpose": "To recruit candidates for the position of language translators for the Central Government of India.",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor’s degree in any discipline with proficiency in at least two languages, including English.",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 30,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Proficiency in translating documents from one language to another (Indian language to English or vice versa)."
+    },
+    "exam_pattern": {
+      "stages": ["Written Examination", "Skill Test"],
+      "mode": "Offline",
+      "written_examination": {
+        "papers": 2,
+        "subjects": ["Translation Test", "General Knowledge & English"],
+        "total_marks": 300,
+        "negative_marking": true,
+        "duration_minutes": 180
+      },
+      "skill_test": {
+        "marks": 100,
+        "type": "Practical"
+      }
+    },
+    "syllabus": {
+      "Translation Test": [
+        "Translation of passages from English to Hindi or other regional languages",
+        "Translation of passages from Hindi or other regional languages to English"
+      ],
+      "General Knowledge & English": [
+        "Current Affairs",
+        "General Awareness",
+        "English Language Proficiency",
+        "Idioms and Phrases"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Language Proficiency Certificate"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 180,
+        "OBC": 170,
+        "SC": 160,
+        "ST": 150
+      },
+      "2023": {
+        "general": 185,
+        "OBC": 175,
+        "SC": 165,
+        "ST": 155
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "English to Hindi Translation by R.S. Aggarwal",
+        "Dictionary of Idioms & Phrases",
+        "General Knowledge by Manohar Pandey"
+      ],
+      "online_courses": ["Unacademy", "BYJU'S", "Testbook"],
+      "mock_tests": ["CTB Official Mock Tests", "Exampur Translation Tests"],
+      "previous_year_papers": ["Available on the Central Translation Bureau website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Central Government Agencies", "Public Sector Enterprises", "Freelancing opportunities"],
+      "salary_range": "INR 35,000 to 60,000 per month",
+      "career_growth": "Language Translator to Senior Translator, Head of Translation Department"
+    },
+    "official_details": {
+      "website": "https://www.ctb.gov.in",
+      "helpdesk": "011-23385512"
+    }
+  },
+  {
+    "exam_name": "SCTE",
+    "full_form": "State Civil Translator Examination",
+    "purpose": "To recruit language translators for state government departments.",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor’s degree with proficiency in the required language pairs.",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 35,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Fluency in both the source and target languages."
+    },
+    "exam_pattern": {
+      "stages": ["Written Examination", "Practical Translation Test"],
+      "mode": "Offline",
+      "written_examination": {
+        "papers": 2,
+        "subjects": ["Translation Ability", "General Knowledge and Language Proficiency"],
+        "total_marks": 250,
+        "negative_marking": true,
+        "duration_minutes": 180
+      },
+      "practical_translation_test": {
+        "marks": 100,
+        "type": "Practical"
+      }
+    },
+    "syllabus": {
+      "Translation Ability": [
+        "Translation of passages from source to target language",
+        "Legal and Administrative Translation"
+      ],
+      "General Knowledge and Language Proficiency": [
+        "Current Affairs",
+        "Cultural Knowledge of Regions",
+        "Proficiency in Grammar and Syntax"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Language Proficiency Certificate"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 160,
+        "OBC": 150,
+        "SC": 140,
+        "ST": 130
+      },
+      "2023": {
+        "general": 165,
+        "OBC": 155,
+        "SC": 145,
+        "ST": 135
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "Translation Techniques and Practice",
+        "Hindi-English Dictionary",
+        "General Knowledge for Competitive Exams by Manohar Pandey"
+      ],
+      "online_courses": ["BYJU'S", "Testbook", "SCTE Online Learning"],
+      "mock_tests": ["SCTE Practice Papers", "Examrace Translation Tests"],
+      "previous_year_papers": ["Available on the State Government Translation Department website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["State Government", "Public Sector Organizations", "Freelance Translator"],
+      "salary_range": "INR 30,000 to 50,000 per month",
+      "career_growth": "Junior Translator to Senior Translator, Language Head"
+    },
+    "official_details": {
+      "website": "https://www.scte.gov.in",
+      "helpdesk": "080-23456789"
+    }
+  },
+  {
+    "exam_name": "Sports Authority of India (SAI) Coach Recruitment Exam",
+    "full_form": "Sports Authority of India Coach Recruitment Examination",
+    "purpose": "Recruitment of sports coaches to work with various sports teams and athletes under SAI.",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor's degree in Physical Education or equivalent from a recognized university",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 45,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Experience in coaching and recognized certifications in the relevant sport"
+    },
+    "exam_pattern": {
+      "stages": ["Written Examination", "Interview"],
+      "mode": "Offline",
+      "written_examination": {
+        "papers": 2,
+        "subjects": ["Sports General Knowledge", "Physical Education & Coaching Techniques"],
+        "total_marks": 200,
+        "negative_marking": true,
+        "duration_minutes": 120
+      },
+      "interview": {
+        "total_marks": 100
+      }
+    },
+    "syllabus": {
+      "Sports General Knowledge": [
+        "History of Major International and National Sports Events",
+        "Famous Sports Personalities",
+        "Basic Rules of Major Sports"
+      ],
+      "Physical Education & Coaching Techniques": [
+        "Fundamentals of Coaching",
+        "Sports Training Methods",
+        "Physical Fitness and Conditioning"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Coaching Certifications"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 70,
+        "OBC": 65,
+        "SC": 60,
+        "ST": 55
+      },
+      "2023": {
+        "general": 75,
+        "OBC": 70,
+        "SC": 65,
+        "ST": 60
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "Essentials of Sports Coaching by Rainer Martens",
+        "Sports Psychology for Coaches by Turner & Green",
+        "Physical Education Textbook by NCERT"
+      ],
+      "online_courses": ["Unacademy", "BYJU'S", "Sports Coaching Academy"],
+      "mock_tests": ["SAI Coach Mock Tests", "Examrace Sports Tests"],
+      "previous_year_papers": ["Available on SAI Official Website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Sports Authority of India", "State Sports Federations", "Private Sports Academies"],
+      "salary_range": "INR 30,000 to 80,000 per month",
+      "career_growth": "From Junior Coach to Senior Coach, Head Coach"
+    },
+    "official_details": {
+      "website": "https://www.sportsauthorityofindia.gov.in",
+      "helpdesk": "011-24654014"
+    }
+  },
+  {
+    "exam_name": "All India Sports Talent Search Examination (AISTSE)",
+    "full_form": "All India Sports Talent Search Examination",
+    "purpose": "To discover and recruit young sports talent for national and international competitions.",
+    "eligibility_criteria": {
+      "minimum_qualification": "At least 10th grade education",
+      "age_limit": {
+        "minimum": 12,
+        "maximum": 21,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Physical fitness and talent in one or more recognized sports"
+    },
+    "exam_pattern": {
+      "stages": ["Written Examination", "Physical Fitness Test", "Skill Test"],
+      "mode": "Offline",
+      "written_examination": {
+        "papers": 1,
+        "subjects": ["General Knowledge", "Sports Science"],
+        "total_marks": 100,
+        "negative_marking": false,
+        "duration_minutes": 90
+      },
+      "physical_fitness_test": {
+        "marks": 50,
+        "type": "Physical Ability Tests"
+      },
+      "skill_test": {
+        "marks": 50,
+        "type": "Sport-Specific Performance Test"
+      }
+    },
+    "syllabus": {
+      "General Knowledge": [
+        "Current Affairs related to Sports",
+        "Famous Indian and International Athletes",
+        "Major National and International Sports Events"
+      ],
+      "Sports Science": [
+        "Basic Principles of Physical Fitness",
+        "Nutrition for Athletes",
+        "Injury Prevention and Management"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Sports Performance Record"],
+      "correction_window": "Available for 5 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 85,
+        "OBC": 80,
+        "SC": 75,
+        "ST": 70
+      },
+      "2023": {
+        "general": 90,
+        "OBC": 85,
+        "SC": 80,
+        "ST": 75
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "Sports Science for Athletes by William D. McArdle",
+        "General Knowledge for Competitive Exams by Manohar Pandey",
+        "Basic Sports Training by Frank Dick"
+      ],
+      "online_courses": ["Unacademy", "BYJU'S", "National Sports Academy"],
+      "mock_tests": ["AISTSE Mock Tests", "Sports Talent Online Exams"],
+      "previous_year_papers": ["Available on AISTSE Official Website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["National Sports Federations", "Olympic Associations", "Private Sports Academies"],
+      "salary_range": "INR 25,000 to 60,000 per month",
+      "career_growth": "Junior Athlete to International Athlete, National Coach"
+    },
+    "official_details": {
+      "website": "https://www.aistse.in",
+      "helpdesk": "011-23456789"
+    }
+  },
+  {
+    "exam_name": "National Institute of Securities Markets (NISM) Series",
+    "full_form": "National Institute of Securities Markets Certification Examination",
+    "purpose": "Certification exam for various roles in the securities markets, including trading, risk management, and compliance.",
+    "eligibility_criteria": {
+      "minimum_qualification": "Graduation in any discipline or relevant work experience in securities markets",
+      "age_limit": {
+        "minimum": 18,
+        "maximum": 60,
+        "relaxation": {}
+      },
+      "nationality": "Indian",
+      "other_requirements": "No specific additional requirements"
+    },
+    "exam_pattern": {
+      "stages": ["Single-stage exam"],
+      "mode": "Online",
+      "exam_details": {
+        "papers": 1,
+        "subjects": ["Securities Market", "Financial Markets", "Trading & Risk Management"],
+        "total_marks": 100,
+        "negative_marking": false,
+        "duration_minutes": 120
+      }
+    },
+    "syllabus": {
+      "Securities Market": [
+        "Introduction to Securities Market",
+        "Market Participants",
+        "Regulations and Compliance"
+      ],
+      "Financial Markets": [
+        "Primary and Secondary Markets",
+        "Stock Exchanges and Trading Systems",
+        "Market Liquidity"
+      ],
+      "Trading & Risk Management": [
+        "Types of Trading",
+        "Risk Assessment and Mitigation",
+        "Trading Strategies"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Graduation Certificate or Work Experience Proof"],
+      "correction_window": "Not available after submission"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 60,
+        "OBC": 55,
+        "SC": 50,
+        "ST": 45
+      },
+      "2023": {
+        "general": 65,
+        "OBC": 60,
+        "SC": 55,
+        "ST": 50
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "Capital Markets: Theories and Practices by Prasanna Chandra",
+        "Securities Markets Series by NISM"
+      ],
+      "online_courses": ["NISM Website", "Coursera – Trading and Financial Markets", "Udemy – Stock Market Basics"],
+      "mock_tests": ["NISM Online Practice Exams", "TradeSmart Mock Tests"],
+      "previous_year_papers": ["Available on NISM official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Brokers", "Investment Firms", "Banks", "Private Trading Platforms"],
+      "salary_range": "INR 30,000 to 2,00,000 per month",
+      "career_growth": "From Junior Trader to Senior Trader, Portfolio Manager, Risk Manager"
+    },
+    "official_details": {
+      "website": "https://www.nism.ac.in",
+      "helpdesk": "022-26530006"
+    }
+  },
+  {
+    "exam_name": "Bombay Stock Exchange (BSE) Trading Certification",
+    "full_form": "Bombay Stock Exchange Trading Certification Examination",
+    "purpose": "Certification for individuals looking to enter the trading industry or enhance their existing skills in stock market operations.",
+    "eligibility_criteria": {
+      "minimum_qualification": "Undergraduate degree or relevant work experience in financial markets",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 55,
+        "relaxation": {}
+      },
+      "nationality": "Indian",
+      "other_requirements": "Basic understanding of financial markets and instruments"
+    },
+    "exam_pattern": {
+      "stages": ["Single-stage exam"],
+      "mode": "Online",
+      "exam_details": {
+        "papers": 1,
+        "subjects": ["Stock Market Basics", "Derivatives Trading", "Risk Management", "Regulations"],
+        "total_marks": 100,
+        "negative_marking": true,
+        "duration_minutes": 90
+      }
+    },
+    "syllabus": {
+      "Stock Market Basics": [
+        "Introduction to Indian Stock Markets",
+        "Stock Exchanges and Trading Platforms",
+        "Market Operations"
+      ],
+      "Derivatives Trading": [
+        "Types of Derivatives",
+        "Futures and Options",
+        "Trading Strategies"
+      ],
+      "Risk Management": [
+        "Risk Identification",
+        "Risk Mitigation Techniques",
+        "Margining and Leverage"
+      ],
+      "Regulations": [
+        "SEBI Rules and Regulations",
+        "Investor Protection",
+        "Compliance in Stock Trading"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Academic Credentials", "Proof of Previous Work Experience"],
+      "correction_window": "Available for 5 days after application submission"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 70,
+        "OBC": 65,
+        "SC": 60,
+        "ST": 55
+      },
+      "2023": {
+        "general": 75,
+        "OBC": 70,
+        "SC": 65,
+        "ST": 60
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "Stock Market Essentials by Nisha Dutt",
+        "Derivatives Markets by Robert Kolb",
+        "Financial Markets by Fabozzi"
+      ],
+      "online_courses": ["BSE Website", "Coursera – Stock Market Essentials", "Udemy – Basics of Derivatives"],
+      "mock_tests": ["BSE Practice Exams", "TestnLearn Mock Tests"],
+      "previous_year_papers": ["Available on BSE official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Stock Brokers", "Banks", "Investment Advisors", "Hedge Funds"],
+      "salary_range": "INR 40,000 to 1,50,000 per month",
+      "career_growth": "From Junior Trader to Senior Trader, Risk Analyst, Portfolio Manager"
+    },
+    "official_details": {
+      "website": "https://www.bseindia.com",
+      "helpdesk": "022-22728000"
+    }
+  },
+  {
+    "exam_name": "CSIR UGC NET",
+    "full_form": "Council of Scientific and Industrial Research University Grants Commission National Eligibility Test",
+    "purpose": "Eligibility test for Junior Research Fellowship (JRF) and Lecturership in the field of science.",
+    "eligibility_criteria": {
+      "minimum_qualification": "Master’s degree in relevant field with minimum 55% marks",
+      "age_limit": {
+        "minimum": 28,
+        "maximum": 38,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Valid UGC NET qualification required for lectureship"
+    },
+    "exam_pattern": {
+      "stages": ["Single-stage exam"],
+      "mode": "Offline",
+      "exam_details": {
+        "papers": 3,
+        "subjects": ["General Science", "Subject-specific", "Research Aptitude"],
+        "total_marks": 300,
+        "negative_marking": true,
+        "duration_minutes": 180
+      }
+    },
+    "syllabus": {
+      "General Science": [
+        "Logical Reasoning",
+        "Data Interpretation",
+        "Current Affairs"
+      ],
+      "Subject-specific": [
+        "Physics",
+        "Chemistry",
+        "Life Sciences",
+        "Mathematical Sciences"
+      ],
+      "Research Aptitude": [
+        "Research Methods",
+        "Scientific Writing",
+        "Ethical Practices in Research"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Master's Degree Certificate", "Category Certificate (if applicable)"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 105,
+        "OBC": 95,
+        "SC": 85,
+        "ST": 80
+      },
+      "2023": {
+        "general": 110,
+        "OBC": 100,
+        "SC": 90,
+        "ST": 85
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "CSIR NET Life Sciences by V. K. Sharma",
+        "UGC NET Paper 1 (Teaching and Research Aptitude) by Arihant",
+        "CSIR NET General Paper by Dr. R. S. Aggarwal"
+      ],
+      "online_courses": ["Unacademy CSIR NET", "BYJU'S", "GradeUp"],
+      "mock_tests": ["CSIR NET Mock Tests by Testbook", "Vision CSIR NET Mock Series"],
+      "previous_year_papers": ["Available on CSIR HRDG website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["CSIR Laboratories", "Private Research Institutes", "Academic Institutions"],
+      "salary_range": "INR 31,000 to 80,000 per month",
+      "career_growth": "Progresses from JRF to SRF to permanent faculty/researcher roles"
+    },
+    "official_details": {
+      "website": "https://www.csirhrdg.res.in",
+      "helpdesk": "011-2900 1300"
+    }
+  },
+  {
+    "exam_name": "ISRO Scientist/Engineer Exam",
+    "full_form": "Indian Space Research Organisation Scientist/Engineer Exam",
+    "purpose": "Recruitment for Scientist/Engineer roles in ISRO for various departments.",
+    "eligibility_criteria": {
+      "minimum_qualification": "B.Tech/B.E. in relevant field with first-class marks",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 35,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Strong foundation in the relevant engineering discipline"
+    },
+    "exam_pattern": {
+      "stages": ["Written Exam", "Interview"],
+      "mode": "Offline",
+      "exam_details": {
+        "papers": 2,
+        "subjects": ["Engineering Mathematics", "Technical Subjects (Mechanical/Electrical/Computer Science)"],
+        "total_marks": 200,
+        "negative_marking": true,
+        "duration_minutes": 120
+      }
+    },
+    "syllabus": {
+      "Engineering Mathematics": [
+        "Calculus",
+        "Linear Algebra",
+        "Differential Equations",
+        "Probability and Statistics"
+      ],
+      "Technical Subjects": [
+        "Control Systems",
+        "Electrical Circuits",
+        "Computer Programming",
+        "Mechanics of Solids"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Engineering Degree Certificate", "Category Certificate (if applicable)"],
+      "correction_window": "Not available after submission"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 125,
+        "OBC": 115,
+        "SC": 100,
+        "ST": 90
+      },
+      "2023": {
+        "general": 130,
+        "OBC": 120,
+        "SC": 105,
+        "ST": 95
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "Engineering Mathematics by B.S. Grewal",
+        "Control Systems by Nagrath & Gopal",
+        "ISRO Scientist/Engineer Previous Papers by R. Gupta"
+      ],
+      "online_courses": ["ISRO Preparation on Unacademy", "BYJU'S ISRO Exam Prep", "Testbook ISRO Mock Tests"],
+      "mock_tests": ["ISRO Mock Tests by Testbook", "GradeUp ISRO Mock Tests"],
+      "previous_year_papers": ["Available on ISRO website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["ISRO", "Other Space Research Organizations", "Private Space Agencies"],
+      "salary_range": "INR 56,100 to 1,77,500 per month",
+      "career_growth": "From Scientist to Senior Scientist to Project Manager"
+    },
+    "official_details": {
+      "website": "https://www.isro.gov.in",
+      "helpdesk": "080-22022431"
+    }
+  },
+  {
+    "exam_name": "DRDO Scientist Exam",
+    "full_form": "Defence Research and Development Organisation Scientist Exam",
+    "purpose": "Recruitment for the position of Scientist in DRDO for various research and development roles.",
+    "eligibility_criteria": {
+      "minimum_qualification": "B.Tech/B.E. in relevant discipline with a minimum of 60% marks",
+      "age_limit": {
+        "minimum": 18,
+        "maximum": 28,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Strong problem-solving and analytical skills"
+    },
+    "exam_pattern": {
+      "stages": ["Written Exam", "Interview"],
+      "mode": "Offline",
+      "exam_details": {
+        "papers": 2,
+        "subjects": ["General Awareness", "Technical Subjects (Computer Science, Electronics, Mechanical, Civil)"],
+        "total_marks": 300,
+        "negative_marking": true,
+        "duration_minutes": 180
+      }
+    },
+    "syllabus": {
+      "General Awareness": [
+        "General Knowledge",
+        "Current Affairs",
+        "General Science"
+      ],
+      "Technical Subjects": [
+        "Mathematics",
+        "Computer Science",
+        "Mechanical Engineering",
+        "Electronics and Communication"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "B.Tech Degree", "Category Certificate (if applicable)"],
+      "correction_window": "Available for 5 days after application submission"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 140,
+        "OBC": 130,
+        "SC": 120,
+        "ST": 110
+      },
+      "2023": {
+        "general": 145,
+        "OBC": 135,
+        "SC": 125,
+        "ST": 115
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "DRDO Scientist Technical by Arihant",
+        "General Awareness for DRDO by Manohar Pandey",
+        "Engineering Mathematics by R. K. Jain"
+      ],
+      "online_courses": ["DRDO Preparation on Unacademy", "BYJU'S DRDO Exam Prep", "Testbook DRDO Mock Tests"],
+      "mock_tests": ["DRDO Mock Tests by Testbook", "GradeUp DRDO Mock Tests"],
+      "previous_year_papers": ["Available on DRDO official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["DRDO", "Other Defence Research Organizations", "Private Defense Companies"],
+      "salary_range": "INR 56,100 to 1,77,500 per month",
+      "career_growth": "From Scientist to Senior Scientist to Project Manager"
+    },
+    "official_details": {
+      "website": "https://www.drdo.gov.in",
+      "helpdesk": "011-23902401"
+    }
+  },
+  {
+    "exam_name": "ACE Certification Exam",
+    "full_form": "American Council on Exercise Certification Exam",
+    "purpose": "Certification for Nutrition and Fitness professionals, qualifying them to become a certified Nutrition Coach.",
+    "eligibility_criteria": {
+      "minimum_qualification": "High school diploma or equivalent; some exams may require a background in health and fitness.",
+      "age_limit": {
+        "minimum": 18,
+        "maximum": 40,
+        "relaxation": {
+          "OBC": 2,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Any",
+      "other_requirements": "At least 1 year of experience or study in nutrition-related fields (optional)"
+    },
+    "exam_pattern": {
+      "stages": ["Written Exam"],
+      "mode": "Online",
+      "exam_details": {
+        "papers": 1,
+        "subjects": ["Nutrition Fundamentals", "Health and Wellness", "Exercise Physiology", "Dietary Analysis"],
+        "total_marks": 100,
+        "negative_marking": false,
+        "duration_minutes": 120
+      }
+    },
+    "syllabus": {
+      "Nutrition Fundamentals": [
+        "Macronutrients and Micronutrients",
+        "Dietary Guidelines",
+        "Food Safety"
+      ],
+      "Health and Wellness": [
+        "Personal Wellness",
+        "Psychology of Eating",
+        "Chronic Disease Prevention"
+      ],
+      "Exercise Physiology": [
+        "Energy Systems",
+        "Muscle Function and Performance",
+        "Impact of Exercise on Health"
+      ],
+      "Dietary Analysis": [
+        "Nutritional Assessment Techniques",
+        "Nutrition Analysis Software",
+        "Meal Planning"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "High School Diploma or equivalent", "Experience Letter (optional)"],
+      "correction_window": "Not available after submission"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 80,
+        "OBC": 75,
+        "SC": 70,
+        "ST": 65
+      },
+      "2023": {
+        "general": 85,
+        "OBC": 80,
+        "SC": 75,
+        "ST": 70
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "Nutrition and Physical Degeneration by Weston A. Price",
+        "ACE Fitness Nutrition Manual",
+        "Advanced Nutrition and Human Metabolism by Sareen S. Gropper"
+      ],
+      "online_courses": [
+        "ACE Nutrition Certification Course",
+        "Coursera - Introduction to Nutrition",
+        "Udemy - Nutrition Coach Certification"
+      ],
+      "mock_tests": ["ACE Nutrition Mock Exams", "Exam Edge ACE Nutrition Practice Tests"],
+      "previous_year_papers": ["Available on ACE official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Fitness Centers", "Private Coaching Institutions", "Online Nutrition Counseling Platforms"],
+      "salary_range": "INR 35,000 to 70,000 per month",
+      "career_growth": "Progresses from entry-level nutrition coach to senior coaching positions"
+    },
+    "official_details": {
+      "website": "https://www.acefitness.org",
+      "helpdesk": "1-800-825-3636"
+    }
+  },
+  {
+    "exam_name": "ISSN Certified Sports Nutritionist Exam",
+    "full_form": "International Society of Sports Nutrition Certified Sports Nutritionist Exam",
+    "purpose": "Certification for professionals aiming to work as sports nutritionists and dietitians in the fitness industry.",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor's degree in a relevant field (e.g., Nutrition, Exercise Science)",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 40,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Any",
+      "other_requirements": "2 years of experience in sports nutrition (recommended)"
+    },
+    "exam_pattern": {
+      "stages": ["Written Exam", "Practical Assessment"],
+      "mode": "Online",
+      "exam_details": {
+        "papers": 2,
+        "subjects": ["Sports Nutrition", "Exercise Science", "Supplements and Ergogenic Aids"],
+        "total_marks": 200,
+        "negative_marking": true,
+        "duration_minutes": 180
+      }
+    },
+    "syllabus": {
+      "Sports Nutrition": [
+        "Nutrient Timing",
+        "Macronutrient Requirements for Athletes",
+        "Supplements for Sports Performance"
+      ],
+      "Exercise Science": [
+        "Exercise Physiology",
+        "Metabolism and Exercise",
+        "Hydration and Performance"
+      ],
+      "Supplements and Ergogenic Aids": [
+        "Vitamins and Minerals in Sports",
+        "Popular Sports Supplements",
+        "Caffeine and Performance"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Bachelor’s Degree", "Experience Letter (if applicable)"],
+      "correction_window": "Available for 5 days after application submission"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 150,
+        "OBC": 140,
+        "SC": 130,
+        "ST": 120
+      },
+      "2023": {
+        "general": 155,
+        "OBC": 145,
+        "SC": 135,
+        "ST": 125
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "Sports Nutrition by Asker Jeukendrup",
+        "Nutrition for Sport and Exercise by Melinda Manore",
+        "The Science and Fine Art of Food and Nutrition by Arnold Ehret"
+      ],
+      "online_courses": [
+        "ISSN Sports Nutrition Certification",
+        "Coursera - Sports Nutrition",
+        "Udemy - Sports Nutrition Masterclass"
+      ],
+      "mock_tests": ["ISSN Mock Exams", "Nutrition Exam Practice Tests by Study.com"],
+      "previous_year_papers": ["Available on ISSN official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Sports Teams", "Athletic Clubs", "Fitness Centers", "Online Coaching Platforms"],
+      "salary_range": "INR 50,000 to 1,00,000 per month",
+      "career_growth": "Progresses from sports nutritionist to head of nutrition departments in sports organizations"
+    },
+    "official_details": {
+      "website": "https://www.sportsnutritionsociety.org",
+      "helpdesk": "1-888-525-1002"
+    }
+  },
+  {
+    "exam_name": "National Nutritionist Certification Exam (NNCE)",
+    "full_form": "National Nutritionist Certification Exam",
+    "purpose": "Certification for individuals aiming to become certified nutritionists in India.",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor’s Degree in Food Science, Nutrition, or related fields",
+      "age_limit": {
+        "minimum": 21,
+        "maximum": 35,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Experience in nutrition consultation is preferred"
+    },
+    "exam_pattern": {
+      "stages": ["Written Exam", "Practical Exam"],
+      "mode": "Offline",
+      "exam_details": {
+        "papers": 2,
+        "subjects": ["Nutrition Theory", "Practical Case Studies"],
+        "total_marks": 250,
+        "negative_marking": false,
+        "duration_minutes": 150
+      }
+    },
+    "syllabus": {
+      "Nutrition Theory": [
+        "Nutrient Functions and Metabolism",
+        "Dietary Planning and Assessment",
+        "Nutrition in Disease Prevention"
+      ],
+      "Practical Case Studies": [
+        "Meal Planning for Specific Conditions",
+        "Nutrition Counselling Skills",
+        "Client Dietary Management"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Degree Certificate", "Experience Letter (if applicable)"],
+      "correction_window": "Available for 7 days after submission"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 180,
+        "OBC": 170,
+        "SC": 160,
+        "ST": 150
+      },
+      "2023": {
+        "general": 185,
+        "OBC": 175,
+        "SC": 165,
+        "ST": 155
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "Nutrition and Dietetics by S. S. Karkera",
+        "Clinical Nutrition by M. S. Chandra",
+        "Textbook of Nutrition by Mudambi"
+      ],
+      "online_courses": [
+        "National Nutritionist Certification Course",
+        "Udemy - Nutrition Basics",
+        "Coursera - Clinical Nutrition"
+      ],
+      "mock_tests": ["NNCE Mock Exams", "Testbook NNCE Mock Tests"],
+      "previous_year_papers": ["Available on NNCE official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Hospitals", "Health Centers", "Dietary Consultancies", "Private Nutrition Practices"],
+      "salary_range": "INR 30,000 to 70,000 per month",
+      "career_growth": "Progresses from nutritionist to senior roles in healthcare management"
+    },
+    "official_details": {
+      "website": "https://www.nnce.in",
+      "helpdesk": "011-43542422"
+    }
+  },
+  {
+    "exam_name": "ACE Certified Personal Trainer Exam",
+    "full_form": "American Council on Exercise Certified Personal Trainer Exam",
+    "purpose": "Certification for individuals wishing to become certified personal trainers in the fitness industry.",
+    "eligibility_criteria": {
+      "minimum_qualification": "High school diploma or equivalent; some exams may require basic knowledge in exercise science.",
+      "age_limit": {
+        "minimum": 18,
+        "maximum": 40,
+        "relaxation": {
+          "OBC": 2,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Any",
+      "other_requirements": "Some exams may require experience in fitness or related fields"
+    },
+    "exam_pattern": {
+      "stages": ["Written Exam", "Practical Assessment"],
+      "mode": "Online/Offline",
+      "exam_details": {
+        "papers": 1,
+        "subjects": ["Exercise Science", "Client Assessment", "Program Design", "Fitness Training Techniques"],
+        "total_marks": 100,
+        "negative_marking": false,
+        "duration_minutes": 120
+      }
+    },
+    "syllabus": {
+      "Exercise Science": [
+        "Human Anatomy & Physiology",
+        "Kinesiology and Biomechanics",
+        "Exercise Physiology"
+      ],
+      "Client Assessment": [
+        "Health History Evaluation",
+        "Fitness Assessment",
+        "Setting Goals and Program Design"
+      ],
+      "Program Design": [
+        "Strength Training",
+        "Cardio Training",
+        "Flexibility & Mobility"
+      ],
+      "Fitness Training Techniques": [
+        "Exercise Demonstrations",
+        "Motivating Clients",
+        "Client Safety and Injury Prevention"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Fitness Experience Letter (if applicable)"],
+      "correction_window": "Not available after submission"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 80,
+        "OBC": 75,
+        "SC": 70,
+        "ST": 65
+      },
+      "2023": {
+        "general": 85,
+        "OBC": 80,
+        "SC": 75,
+        "ST": 70
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "ACE Personal Trainer Manual",
+        "NSCA’s Essentials of Personal Training",
+        "NASM Essentials of Personal Fitness Training"
+      ],
+      "online_courses": [
+        "ACE Personal Trainer Certification Course",
+        "NASM Certified Personal Trainer (CPT)",
+        "Udemy - Personal Trainer Mastery"
+      ],
+      "mock_tests": ["ACE Certified Personal Trainer Mock Exams", "TestPrep ACE Practice Tests"],
+      "previous_year_papers": ["Available on ACE official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Gyms", "Fitness Centers", "Online Personal Training Platforms", "Sports Teams"],
+      "salary_range": "INR 25,000 to 50,000 per month",
+      "career_growth": "Progresses from personal trainer to senior fitness coach or gym manager"
+    },
+    "official_details": {
+      "website": "https://www.acefitness.org",
+      "helpdesk": "1-800-825-3636"
+    }
+  },
+  {
+    "exam_name": "NASM Certified Personal Trainer Exam",
+    "full_form": "National Academy of Sports Medicine Certified Personal Trainer Exam",
+    "purpose": "Certification for professionals aiming to work as personal trainers in fitness and sports.",
+    "eligibility_criteria": {
+      "minimum_qualification": "High school diploma or equivalent; prior experience in fitness or a related field is preferred.",
+      "age_limit": {
+        "minimum": 18,
+        "maximum": 40,
+        "relaxation": {
+          "OBC": 2,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Any",
+      "other_requirements": "CPR/AED Certification required"
+    },
+    "exam_pattern": {
+      "stages": ["Written Exam"],
+      "mode": "Online",
+      "exam_details": {
+        "papers": 1,
+        "subjects": ["Exercise Science", "Client Assessment", "Program Design", "Nutrition Basics"],
+        "total_marks": 200,
+        "negative_marking": true,
+        "duration_minutes": 150
+      }
+    },
+    "syllabus": {
+      "Exercise Science": [
+        "Human Anatomy and Physiology",
+        "Kinesiology and Biomechanics",
+        "Exercise Physiology"
+      ],
+      "Client Assessment": [
+        "Health History and Evaluation",
+        "Physical Assessments and Testing",
+        "Exercise Readiness and Screening"
+      ],
+      "Program Design": [
+        "Strength Training Programs",
+        "Endurance Programs",
+        "Flexibility and Mobility Programs"
+      ],
+      "Nutrition Basics": [
+        "Basic Nutrition Principles",
+        "Nutrient Timing for Athletes",
+        "Hydration and Performance"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "High School Diploma or equivalent", "CPR Certification"],
+      "correction_window": "Available for 5 days after submission"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 150,
+        "OBC": 145,
+        "SC": 140,
+        "ST": 130
+      },
+      "2023": {
+        "general": 155,
+        "OBC": 150,
+        "SC": 145,
+        "ST": 135
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "NASM Essentials of Personal Fitness Training",
+        "NSCA's Essentials of Personal Training",
+        "Strength Training Anatomy by Frederic Delavier"
+      ],
+      "online_courses": [
+        "NASM Certified Personal Trainer Course",
+        "Udemy - NASM CPT Exam Prep",
+        "Coursera - Fitness and Nutrition"
+      ],
+      "mock_tests": ["NASM Certified Personal Trainer Mock Exams", "Fitness Trainer Practice Tests by Study.com"],
+      "previous_year_papers": ["Available on NASM official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Fitness Clubs", "Online Fitness Platforms", "Sports Organizations", "Personal Training Businesses"],
+      "salary_range": "INR 30,000 to 60,000 per month",
+      "career_growth": "Progresses from personal trainer to gym manager, wellness coach, or fitness director"
+    },
+    "official_details": {
+      "website": "https://www.nasm.org",
+      "helpdesk": "1-800-460-6276"
+    }
+  },
+  {
+    "exam_name": "International Sports Sciences Association (ISSA) Personal Trainer Certification Exam",
+    "full_form": "International Sports Sciences Association Personal Trainer Certification Exam",
+    "purpose": "Global certification for individuals wishing to become certified personal trainers with ISSA.",
+    "eligibility_criteria": {
+      "minimum_qualification": "High school diploma or equivalent; prior experience in fitness or related fields is beneficial.",
+      "age_limit": {
+        "minimum": 18,
+        "maximum": 40,
+        "relaxation": {
+          "OBC": 2,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Any",
+      "other_requirements": "CPR/AED Certification"
+    },
+    "exam_pattern": {
+      "stages": ["Written Exam", "Practical Demonstration"],
+      "mode": "Online/Offline",
+      "exam_details": {
+        "papers": 1,
+        "subjects": ["Exercise Science", "Client Assessment", "Program Design", "Client Motivation"],
+        "total_marks": 100,
+        "negative_marking": false,
+        "duration_minutes": 120
+      }
+    },
+    "syllabus": {
+      "Exercise Science": [
+        "Human Anatomy and Physiology",
+        "Muscle Mechanics",
+        "Energy Systems in Exercise"
+      ],
+      "Client Assessment": [
+        "Screening and Health History",
+        "Fitness Assessments",
+        "Goal Setting and Monitoring"
+      ],
+      "Program Design": [
+        "Strength and Resistance Training",
+        "Cardiovascular Conditioning",
+        "Flexibility Training"
+      ],
+      "Client Motivation": [
+        "Behavior Change Strategies",
+        "Motivational Interviewing",
+        "Building Client Relationships"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "High School Diploma", "CPR/AED Certification"],
+      "correction_window": "Not available after submission"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 85,
+        "OBC": 80,
+        "SC": 75,
+        "ST": 70
+      },
+      "2023": {
+        "general": 90,
+        "OBC": 85,
+        "SC": 80,
+        "ST": 75
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "ISSA Personal Training Manual",
+        "NSCA Essentials of Personal Training",
+        "ACE Personal Trainer Manual"
+      ],
+      "online_courses": [
+        "ISSA Certified Personal Trainer Course",
+        "Udemy - Personal Trainer Certification",
+        "Coursera - Fitness and Wellness Coaching"
+      ],
+      "mock_tests": ["ISSA Personal Trainer Exam Mock Tests", "ISSA Practice Exams"],
+      "previous_year_papers": ["Available on ISSA official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Fitness Centers", "Sports Teams", "Online Training Platforms", "Personal Training Studios"],
+      "salary_range": "INR 35,000 to 60,000 per month",
+      "career_growth": "Progresses from personal trainer to senior fitness coach or gym owner"
+    },
+    "official_details": {
+      "website": "https://www.issaonline.com",
+      "helpdesk": "1-800-892-4772"
+    }
+  },
+  {
+    "exam_name": "SSC CGL Exam",
+    "full_form": "Staff Selection Commission Combined Graduate Level Examination",
+    "purpose": "Recruitment for various Group B and Group C posts in Government Ministries and Departments",
+    "eligibility_criteria": {
+      "minimum_qualification": "Bachelor's degree from a recognized university",
+      "age_limit": {
+        "minimum": 18,
+        "maximum": 32,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "Some posts may require specific educational qualifications and experience"
+    },
+    "exam_pattern": {
+      "stages": ["Tier 1", "Tier 2", "Tier 3", "Tier 4"],
+      "mode": "Online",
+      "tier_1": {
+        "papers": 1,
+        "subjects": ["General Intelligence & Reasoning", "General Awareness", "Quantitative Aptitude", "English Comprehension"],
+        "total_marks": 200,
+        "negative_marking": true,
+        "duration_minutes": 60
+      },
+      "tier_2": {
+        "papers": 4,
+        "subjects": ["Quantitative Ability", "English Language and Comprehension", "General Studies (Finance and Economics)"],
+        "total_marks": 800,
+        "duration_minutes": 120
+      },
+      "tier_3": {
+        "papers": 1,
+        "subjects": ["Descriptive Paper in English or Hindi"],
+        "total_marks": 100,
+        "duration_minutes": 60
+      },
+      "tier_4": {
+        "papers": 1,
+        "subjects": ["Computer Proficiency Test (CPT) or Data Entry Skill Test (DEST)"],
+        "total_marks": 100,
+        "duration_minutes": "Varies"
+      }
+    },
+    "syllabus": {
+      "tier_1": [
+        "General Intelligence and Reasoning",
+        "General Awareness",
+        "Quantitative Aptitude",
+        "English Comprehension"
+      ],
+      "tier_2": [
+        "Quantitative Ability",
+        "English Language and Comprehension",
+        "General Studies (Finance and Economics)"
+      ],
+      "tier_3": [
+        "English Comprehension and Writing Skills"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates", "Caste Certificate (if applicable)"],
+      "correction_window": "Available for 10 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 135,
+        "OBC": 130,
+        "SC": 120,
+        "ST": 110
+      },
+      "2023": {
+        "general": 140,
+        "OBC": 135,
+        "SC": 125,
+        "ST": 115
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "R.S. Aggarwal Reasoning",
+        "Quantitative Aptitude by R.S. Agarwal",
+        "Lucent's General Knowledge"
+      ],
+      "online_courses": ["Unacademy", "BYJU's", "Gradeup"],
+      "mock_tests": ["Oliveboard", "Testbook"],
+      "previous_year_papers": ["Available on SSC official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Ministry of Finance", "Ministry of External Affairs", "Ministry of Defence"],
+      "salary_range": "INR 35,400 to 1,12,400 per month",
+      "career_growth": "Progresses from Assistant to Deputy Secretary"
+    },
+    "official_details": {
+      "website": "https://ssc.nic.in",
+      "helpdesk": "011-24217400"
+    }
+  },
+  {
+    "exam_name": "RRB NTPC",
+    "full_form": "Railway Recruitment Board Non-Technical Popular Categories",
+    "purpose": "Recruitment for various non-technical posts in Indian Railways",
+    "eligibility_criteria": {
+      "minimum_qualification": "12th Pass or Graduate from a recognized university",
+      "age_limit": {
+        "minimum": 18,
+        "maximum": 30,
+        "relaxation": {
+          "OBC": 3,
+          "SC/ST": 5,
+          "PWD": 10
+        }
+      },
+      "nationality": "Indian",
+      "other_requirements": "For certain posts, knowledge of local language may be required"
+    },
+    "exam_pattern": {
+      "stages": ["Preliminary Exam", "Mains Exam", "Skill Test"],
+      "mode": "Online",
+      "preliminary": {
+        "papers": 1,
+        "subjects": ["General Awareness", "Mathematics", "General Intelligence and Reasoning", "General Science"],
+        "total_marks": 100,
+        "negative_marking": true,
+        "duration_minutes": 90
+      },
+      "mains": {
+        "papers": 1,
+        "subjects": ["General Awareness", "Mathematics", "General Intelligence and Reasoning", "General Science"],
+        "total_marks": 120,
+        "duration_minutes": 120
+      },
+      "skill_test": {
+        "total_marks": 100
+      }
+    },
+    "syllabus": {
+      "preliminary": [
+        "General Awareness",
+        "Mathematics",
+        "General Intelligence and Reasoning",
+        "General Science"
+      ],
+      "mains": [
+        "General Awareness",
+        "Mathematics",
+        "General Intelligence and Reasoning",
+        "General Science"
+      ]
+    },
+    "application_process": {
+      "documents_required": ["Photo ID", "Educational Certificates"],
+      "correction_window": "Available for 7 days after application closure"
+    },
+    "cutoff_trends": {
+      "2024": {
+        "general": 90,
+        "OBC": 85,
+        "SC": 80,
+        "ST": 75
+      },
+      "2023": {
+        "general": 95,
+        "OBC": 90,
+        "SC": 85,
+        "ST": 80
+      }
+    },
+    "preparation_resources": {
+      "recommended_books": [
+        "Arihant General Knowledge",
+        "R.S. Aggarwal Quantitative Aptitude",
+        "Lucent's General Science"
+      ],
+      "online_courses": ["Unacademy", "BYJU's", "Gradeup"],
+      "mock_tests": ["Testbook", "Oliveboard"],
+      "previous_year_papers": ["Available on RRB official website"]
+    },
+    "career_opportunities": {
+      "recruiting_bodies": ["Indian Railways"],
+      "salary_range": "INR 19,900 to 63,200 per month",
+      "career_growth": "Progresses from junior assistant to station master"
+    },
+    "official_details": {
+      "website": "https://www.rrbcdg.gov.in",
+      "helpdesk": "139"
+    }
+  }
+]

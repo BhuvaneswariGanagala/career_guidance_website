@@ -1,0 +1,143 @@
+{
+  "after_10th": {
+    "intermediate": {
+      "duration_years": 2,
+      "streams": {
+        "Science": ["MPC", "BiPC", "Library Science"],
+        "Commerce": ["CEC"],
+        "Arts": ["MEC", "HEC"]
+      }
+    },
+    "Polytechnic": {
+      "duration_years": 3,
+      "branches": [
+        "Mechanical", "Computer Science", "Civil", "EEE", "IT", "Automobile",
+        "Electronics & Communication", "Bio-Technology", "Electrical", "Chemical",
+        "Aeronautical", "Agriculture", "Architecture", "Bio-Medical", "Marine Technology",
+        "Mining Technology", "Leather Technology", "Textile Technology",
+        "Petroleum Technology", "Plastic Technology", "Rubber Technology"
+      ]
+    },
+    "iti": {
+      "duration_years": 2,
+      "courses": [
+        "Fitter", "Computer", "Civil (Draughtsman)", "Mechanical",
+        "Radio & TV", "Motor Vehicle", "Diesel", "Marine",
+        "Electrician", "Plumber", "Surveyor", "Electrical", "Machine Tools",
+        "Welder", "Firemen", "Cookery", "Paint Technology"
+      ]
+    },
+    "paramedical": {
+      "duration_years": 3,
+      "courses": [
+        "DLMT", "DHFMM", "DOA", "DOT", "Health Inspector", "Sanitary Inspector"
+      ]
+    },
+    "short_term_courses": {
+      "duration": "6 months / 1 year",
+      "courses": [
+        "DTP", "PGDCA", "Tally", "Internet", "Graphics", "Animation",
+        "Web Designing", "Cyber Security"
+      ]
+    },
+    "others": [
+      "Beauty & Cosmetology",
+      "Jewelry Designing",
+      "Fashion Designing",
+      "Photography"
+    ]
+  },
+
+  "after_12th": {
+    "engineering": {
+      "eligible_stream": "MPC",
+      "duration_years": 4,
+      "entrance_tests": ["EAMCET", "IIT", "AIEEE", "BITSAT"],
+      "branches": [
+        "CSE", "IT", "ECE", "EEE", "Civil", "Mechanical", "Chemical",
+        "Aeronautical", "Aerospace", "Agricultural", "Automobile", "Bio-Medical",
+        "Bio-Technology", "Ceramic", "Industrial", "Environmental", "Marine",
+        "Mining", "Silk & Textile"
+      ]
+    },
+    "medical": {
+      "eligible_stream": "BiPC",
+      "duration_years": 5,
+      "entrance_tests": ["EAMCET", "NEET"],
+      "courses": [
+        "MBBS", "BDS", "BAMS", "BHMS", "BUMS", "BNYS", "B.Sc Agriculture",
+        "BVSc", "BPT"
+      ],
+      "allied_health_sciences": [
+        "B.Pharm", "B.Sc Nursing", "BOT", "B.Sc Anesthesia Tech", "B.Sc Cardiac Tech",
+        "B.Sc Medical Lab Tech", "B.Sc Radio Therapy Tech", "B.Sc Optometry",
+        "B.Sc Nuclear Medicine", "B.Sc Operation Theatre", "B.Sc Physician Assistant",
+        "BMLT"
+      ],
+      "paramedical": ["Dialysis Technician", "ECG Technician", "X-Ray Technician", "Operation Theatre Technician"]
+    },
+    "degree": {
+      "duration_years": 3,
+      "streams": {
+        "BA": [
+          "BA-HEP", "BA-HTP", "BA-Linguistics", "BA-Economics", "BA-Psychology",
+          "BA-Fine Arts", "BA-Political Science", "BA-Sociology", "BA-Library Science"
+        ],
+        "B.Sc": [
+          "B.Sc-MPC", "B.Sc-MEC", "B.Sc-Applied Math", "B.Sc-BZC/CBZ", "B.Sc-Horticulture",
+          "B.Sc-Computer Science", "B.Sc-Home Science", "B.Sc-Bio-Chemistry"
+        ],
+        "B.Com": [
+          "B.Com-Regular", "B.Com-Computers", "B.Com-Bank Management", "B.Com-Tax Procedure"
+        ],
+        "Others": [
+          "B.Sc-Microbiology", "B.Sc-Bio-Tech", "B.Sc-Anthropology", "B.Sc-Dairy Science"
+        ],
+        "LLB": [
+          "BBA (Business Admin)", "BCA (Computer Applications)", "BBM (Business Management)",
+          "BAF", "BFM", "BMS"
+        ],
+        "Dual Degrees (4 Years)": [
+          "BA + B.Ed", "B.Sc + B.Ed", "BA + LLB", "B.Com + LLB", "BBM + LLB", "BBA + LLB"
+        ],
+        "Professional Courses": {
+          "courses": ["ICWA", "CS", "CA"],
+          "steps": ["CPT", "IPCC", "ITT", "Article ship", "Final Exam"]
+        }
+      }
+    },
+    "teaching": {
+      "courses": [
+        "D.Ed (2 years, entrance)",
+        "UPDED (2 years, PET)",
+        "ECCED (Early Childhood Education)",
+        "LPT (1 year Language Pandit)"
+      ]
+    },
+    "defense": ["Army", "Navy", "Air Force (via NDA)"],
+    "others": {
+      "fields": [
+        "Foreign Languages", "Fire Safety", "Journalism", "Home Science", "Tourism",
+        "Hotel Management", "Rural Development", "Designing", "Film Making", "Management"
+      ],
+      "designing": ["Fashion", "Interior", "Jewelry"],
+      "film_making": ["Direction", "Screen Writing", "Cinematography", "Sound", "Editing", "Action"],
+      "management": ["Finance", "Event", "Hotel"]
+    }
+  },
+
+  "after_graduation": {
+    "engineering_students": ["Job", "M.Tech", "MBA"],
+    "medical_students": ["Job", "Practice", "MS", "MD"],
+    "degree_students": {
+      "BA": ["MA", "B.Ed", "MBA", "LLB", "PhD"],
+      "B.Sc": ["M.Sc", "B.Ed", "LLB", "PhD"],
+      "B.Com": ["M.Com", "MBA", "LLB", "PhD"],
+      "LLB": ["DTL", "DLL", "LLM", "PhD"],
+      "BCA": ["MCA", "MBA", "M.Sc Computer", "PhD"],
+      "BBA/BBM": ["MBA", "PhD"]
+    },
+    "teaching_students": ["B.Ed", "B.P.Ed", "M.Ed", "PhD"],
+    "others": ["Post Graduation"]
+  }
+}
