@@ -79,7 +79,7 @@ const {isLoggedIn}=useAuth();
                 : "hover:text-orange-400 border-b-2 border-transparent hover:border-orange-400 transition duration-200"
             }
           >
-            Colleges
+            Universities
           </NavLink>
           <NavLink
             to="/community"
@@ -138,23 +138,64 @@ const {isLoggedIn}=useAuth();
         </nav>
       </header>
 
-      {/* Mobile Menu */}
       {isMobileMenuOpen && (
         <div className="md:hidden bg-white shadow-md absolute top-16 left-0 right-0 z-50 px-6 py-4">
           <nav className="flex flex-col gap-4 text-lg">
-            <NavLink to="/">Home</NavLink>
+            <NavLink
+              to="/"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className={({ isActive }) => (isActive ? "text-blue-600 font-semibold" : "text-gray-800")}
+            >
+              Home
+            </NavLink>
 
-            <NavLink to="/awareness">Awareness</NavLink>
+            <NavLink
+              to="/awareness"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className={({ isActive }) => (isActive ? "text-blue-600 font-semibold" : "text-gray-800")}
+            >
+              Awareness
+            </NavLink>
 
-            <NavLink to="/companies">Companies</NavLink>
+            <NavLink
+              to="/companies"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className={({ isActive }) => (isActive ? "text-blue-600 font-semibold" : "text-gray-800")}
+            >
+              Companies
+            </NavLink>
 
-            <NavLink to="/contact">Contact Us</NavLink>
+            <NavLink
+              to="/contact"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className={({ isActive }) => (isActive ? "text-blue-600 font-semibold" : "text-gray-800")}
+            >
+              Contact Us
+            </NavLink>
 
-            <NavLink to="/register">Register</NavLink>
+            <NavLink
+              to="/register"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className={({ isActive }) => (isActive ? "text-blue-600 font-semibold" : "text-gray-800")}
+            >
+              Register
+            </NavLink>
 
-            <NavLink to="/login">Login</NavLink>
-             <NavLink to="/colleges">Colleges</NavLink>
+            <NavLink
+              to="/login"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className={({ isActive }) => (isActive ? "text-blue-600 font-semibold" : "text-gray-800")}
+            >
+              Login
+            </NavLink>
 
+            <NavLink
+              to="/colleges"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className={({ isActive }) => (isActive ? "text-blue-600 font-semibold" : "text-gray-800")}
+            >
+              Colleges
+            </NavLink>
           </nav>
         </div>
       )}
