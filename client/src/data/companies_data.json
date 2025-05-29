@@ -46,7 +46,7 @@
       ],
       "career_growth": "Senior Manager → Regional Head → National Head",
       "salary_range": "₹4–6 LPA",
-      "image": "https://i0.wp.com/deshicompanies.com/wp-content/uploads/2020/09/ITC-Limited.jpg?resize=768%2C432&ssl=1"
+      "image": "https://logo.clearbit.com/https://www.itcportal.com/"
     },
     {
       "company_name": "National Dairy Development Board (NDDB)",
@@ -93,7 +93,7 @@
       ],
       "career_growth": "Officer → Senior Officer → Manager",
       "salary_range": "₹5–7 LPA",
-      "image": "https://www.nddb.coop/sites/default/files/field/image/NDS%20Logo.jpg"
+      "image": "https://logo.clearbit.com/https://www.nddb.coop/"
     },
     {
       "company_name": "Mahindra Agribusiness Division",
@@ -140,7 +140,7 @@
       ],
       "career_growth": "Senior Manager → Regional Manager → National Head",
       "salary_range": "₹6–8 LPA",
-      "image": "https://i.ytimg.com/vi/hHkYcJtX90k/maxresdefault.jpg/"
+      "image": "https://logo.clearbit.com/https://www.mahindra.com/"
     },
     {
       "company_name": "Rallis India",
@@ -187,7 +187,7 @@
       ],
       "career_growth": "Executive → Senior Executive → Manager",
       "salary_range": "₹3–5 LPA",
-      "image": "https://indiancompanies.in/wp-content/uploads/2020/06/Rallis-India-Limited.png"
+      "image": "https://logo.clearbit.com/https://www.rallis.com/"
     },
     {
       "company_name": "IFFCO",
@@ -325,7 +325,7 @@
       "related_exams": [
         "CSIR-UGC NET",
         "GATE"
-      ],    
+      ],
       "career_growth": "Scientist → Sr. Scientist → Lab Head",
       "salary_range": "₹8–12 LPA",
       "image": "https://logo.clearbit.com/https://www.cropscience.bayer.in/"
@@ -375,7 +375,7 @@
       ],
       "career_growth": "Engineer → Senior Engineer → Service Manager",
       "salary_range": "₹4–7 LPA",
-      "image": "https://logos-world.net/wp-content/uploads/2020/09/John-Deere-Logo.png"
+      "image": "https://logo.clearbit.com/https://www.deere.co.in/"
     },
     {
       "company_name": "Syngenta",
@@ -468,7 +468,7 @@
       ],
       "career_growth": "Chemist → Sr. Chemist → R&D Manager",
       "salary_range": "₹7–10 LPA",
-      "image": "https://secure-cdn.scdn6.secure.raxcdn.com/media/userfiles/subsite_28/files/corteva.jpg"
+      "image": "https://logo.clearbit.com/https://www.corteva.in/"
     },
     {
       "company_name": "Archer Daniels Midland (ADM)",
@@ -514,7 +514,7 @@
       ],
       "career_growth": "Trader → Senior Trader → Desk Head",
       "salary_range": "₹8–12 LPA",
-      "image": "https://logos-world.net/wp-content/uploads/2022/05/Archer-Daniels-Midland-Symbol-700x394.png"
+      "image": "https://logo.clearbit.com/https://www.adm.com/"
     },
     {
       "company_name": "BASF India",
@@ -607,8 +607,7 @@
       ],
       "career_growth": "Representative → Senior Rep → Sales Manager",
       "salary_range": "₹5–8 LPA",
-      "image": "https://logo.clearbit.com/yara.co.in"
-
+      "image": "https://logo.clearbit.com/https://www.yara.co.in/"
     },
     {
       "company_name": "Olam International",
@@ -655,7 +654,7 @@
       ],
       "career_growth": "Officer → Senior Officer → Procurement Manager",
       "salary_range": "₹6–9 LPA",
-      "image": "https://logo.clearbit.com/olamgroup.com/"
+      "image": "https://logo.clearbit.com/https://www.olamgroup.com/"
     },
     {
       "company_name": "Kubota Agricultural Machinery",
@@ -702,7 +701,7 @@
       ],
       "career_growth": "Technician → Senior Technician → Service Manager",
       "salary_range": "₹3–5 LPA",
-      "image": "https://logo.clearbit.com/kubota.co.in/"
+      "image": "https://logo.clearbit.com/https://www.kubota.co.in/"
     },
     {
       "company_name": "Nutrien Ltd.",
@@ -749,7 +748,7 @@
       ],
       "career_growth": "Agronomist → Sr. Agronomist → Regional Agronomy Lead",
       "salary_range": "₹6–9 LPA",
-      "image": "https://logo.clearbit.com/nutrien.com/"
+      "image": "https://logo.clearbit.com/https://www.nutrien.com/"
     },
     {
       "company_name": "Rabobank",
@@ -795,7 +794,7 @@
       ],
       "career_growth": "Analyst → Senior Analyst → Relationship_Manager",
       "salary_range": "₹7–10 LPA",
-      "image": "https://logo.clearbit.com/rabobank.com"
+      "image": "https://logo.clearbit.com/https://www.rabobank.com"
     },
     {
       "company_name": "Land O'Lakes",
@@ -841,39 +840,12 @@
       ],
       "career_growth": "Consultant → Senior Consultant  → Project Lead",
       "salary_range": "₹5–8 LPA",
-      "image": "https://logo.clearbit.com/landolakesinc.com/"
+      "image": "https://logo.clearbit.com/https://www.landolakesinc.com/"
     }
   ],
   "architecture": [
     {
-      "company_name": "Architectural Design Firm (India)",
-      "industry_type": "Architecture, Engineering, Construction",
-      "opportunities": [
-        "Urban development",
-        "residential and commercial projects",
-        "infrastructure planning"
-      ],
-      "job_roles": [
-        "Design Architect",
-        "Project Architect",
-        "Urban Planner",
-        "Landscape Architect"
-      ],
-      "recruitment_process": [
-        "Portfolio review",
-        "technical interview",
-        "design task or test"
-      ],
-      "socialmedia_links": {
-        "linkedin": "",
-        "twitter": "",
-        "facebook": "",
-        "website": ""
-      },
-      "image": ""
-    },
-    {
-      "company_name": "Urban Planning Department (India)",
+      "company_name": "Urban Planning Department",
       "industry_type": "Urban Planning, Government Agencies",
       "opportunities": [
         "City planning",
@@ -889,42 +861,16 @@
         "Government exams or direct recruitment",
         "followed by interview"
       ],
-      "socialmedia_links": {
-        "linkedin": "",
-        "twitter": "",
-        "facebook": "",
-        "website": ""
-      },
-      "image": ""
-    },
-    {
-      "company_name": "International Architecture Firm (USA)",
-      "industry_type": "Architecture, Construction, Real Estate",
-      "opportunities": [
-        "Commercial and residential projects",
-        "green building design",
-        "urban development"
-      ],
-      "job_roles": [
-        "Design Architect",
-        "Project Manager",
-        "Sustainability Consultant"
-      ],
-      "recruitment_process": [
-        "Resume and portfolio review",
-        "multiple interviews",
-        "licensing required"
+      "location" : [
+        "Hyderabad"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "twitter": "",
-        "facebook": "",
-        "website": ""
+        "website": "https://www.hmda.gov.in/planning-department/"
       },
-      "image": ""
+      "image": "https://logo.clearbit.com/https://www.hmda.gov.in"
     },
     {
-      "company_name": "Landscape Architecture Firm (USA)",
+      "company_name": "Integral Designs",
       "industry_type": "Landscape Design, Environmental Planning",
       "opportunities": [
         "Urban parks",
@@ -939,16 +885,16 @@
         "Portfolio submission",
         "interviews with design and planning focus"
       ],
+      "location": [
+        "New Delhi"
+      ],
       "socialmedia_links": {
-        "linkedin": "",
-        "twitter": "",
-        "facebook": "",
-        "website": ""
+        "website": "https://integraldesigns.org/"
       },
-      "image": ""
+      "image": "https://logo.clearbit.com/https://integraldesigns.org/"
     },
     {
-      "company_name": "Architecture Practice (UK)",
+      "company_name": "Skidmore, Owings & Merill",
       "industry_type": "Architecture, Urban Development",
       "opportunities": [
         "Residential and commercial building design",
@@ -964,15 +910,12 @@
         "RIBA Part 3 qualification"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "twitter": "",
-        "facebook": "",
-        "website": ""
+        "website": "https://www.som.com/"
       },
-      "image": ""
+      "image": "https://logo.clearbit.com/https://www.som.com/"
     },
     {
-      "company_name": "Urban Design Studio (UK)",
+      "company_name": "Urban Design Studio",
       "industry_type": "Urban Planning, Design Consultancy",
       "opportunities": [
         "City regeneration projects",
@@ -989,15 +932,12 @@
         "prior experience evaluation"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "twitter": "",
-        "facebook": "",
-        "website": ""
+        "website": "https://www.udsflorida.com/"
       },
-      "image": ""
+      "image": "https://logo.clearbit.com/https://www.udsflorida.com/"
     },
     {
-      "company_name": "Architecture Consultancy (Australia)",
+      "company_name": "Vastushilpa Consultancy",
       "industry_type": "Architecture, Construction",
       "opportunities": [
         "Eco-friendly design",
@@ -1014,15 +954,12 @@
         "registration with local board"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "twitter": "",
-        "facebook": "",
-        "website": ""
+        "website": "https://www.sangath.org/"
       },
-      "image": ""
+      "image": "https://logo.clearbit.com/https://www.sangath.org/"
     },
     {
-      "company_name": "Construction Project Management Firm (Australia)",
+      "company_name": "Larsen & Toubro",
       "industry_type": "Construction, Project Management",
       "opportunities": [
         "Managing large-scale residential and commercial developments"
@@ -1034,63 +971,17 @@
       "recruitment_process": [
         "Interview based on project management background and technical skills"
       ],
-      "socialmedia_links": {
-        "linkedin": "",
-        "twitter": "",
-        "facebook": "",
-        "website": ""
-      },
-      "image": ""
-    },
-    {
-      "company_name": "Real Estate Developer (UAE)",
-      "industry_type": "Architecture, Real Estate Development",
-      "opportunities": [
-        "Luxury high-rise design",
-        "urban infrastructure",
-        "tourism-based architecture"
-      ],
-      "job_roles": [
-        "Design Architect",
-        "Project Architect"
-      ],
-      "recruitment_process": [
-        "Portfolio review",
-        "interview",
-        "visa sponsorship procedures"
+      "location": [
+        "Ahmedabad",
+        "Hyderabad",
+        "New Delhi",
+        "Bangalore",
+        "Chennai"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "twitter": "",
-        "facebook": "",
-        "website": ""
+        "website": "https://www.larsentoubro.com/"
       },
-      "image": ""
-    },
-    {
-      "company_name": "Urban Planning Authority (UAE)",
-      "industry_type": "Urban Planning, Government",
-      "opportunities": [
-        "Smart city development",
-        "public transportation",
-        "infrastructure planning"
-      ],
-      "job_roles": [
-        "Urban Planner",
-        "City Designer"
-      ],
-      "recruitment_process": [
-        "Portfolio assessment",
-        "technical interviews",
-        "government application process"
-      ],
-      "socialmedia_links": {
-        "linkedin": "",
-        "twitter": "",
-        "facebook": "",
-        "website": ""
-      },
-      "image": ""
+      "image": "https://logo.clearbit.com/https://www.larsentoubro.com/"
     },
     {
       "company_name": "Morphogenesis",
@@ -1119,7 +1010,7 @@
         "youtube": "",
         "website": "https://www.morphogenesis.org"
       },
-      "image": "https://logo.clearbit.com/morphogenesis.org"
+      "image": "https://logo.clearbit.com/https://www.morphogenesis.org"
     },
     {
       "company_name": "Sanjay Puri Architects",
@@ -1147,7 +1038,7 @@
         "youtube": "",
         "website": "https://www.sanjaypuriarchitects.com"
       },
-      "image": "https://logo.clearbit.com/sanjaypuriarchitects.com"
+      "image": "https://logo.clearbit.com/https://www.sanjaypuriarchitects.com"
     },
     {
       "company_name": "Gensler",
@@ -1177,7 +1068,7 @@
         "youtube": "https://www.youtube.com/user/GenslerTV",
         "website": "https://www.gensler.com"
       },
-      "image": "https://logo.clearbit.com/gensler.com"
+      "image": "https://logo.clearbit.com/https://www.gensler.com"
     },
     {
       "company_name": "Perkins and Will",
@@ -1207,7 +1098,7 @@
         "youtube": "https://www.youtube.com/user/PerkinsWillGlobal",
         "website": "https://www.perkinswill.com"
       },
-      "image": "https://logo.clearbit.com/perkinswill.com"
+      "image": "https://logo.clearbit.com/https://www.perkinswill.com"
     },
     {
       "company_name": "Foster + Partners",
@@ -1237,7 +1128,7 @@
         "youtube": "https://www.youtube.com/user/FosterandPartners",
         "website": "https://www.fosterandpartners.com"
       },
-      "image": "https://logo.clearbit.com/fosterandpartners.com"
+      "image": "https://logo.clearbit.com/https://www.fosterandpartners.com"
     },
     {
       "company_name": "Zaha Hadid Architects",
@@ -1267,7 +1158,7 @@
         "youtube": "https://www.youtube.com/user/ZahaHadidArchitects",
         "website": "https://www.zaha-hadid.com"
       },
-      "image": "https://logo.clearbit.com/zaha-hadid.com"
+      "image": "https://logo.clearbit.com/https://www.zaha-hadid.com"
     },
     {
       "company_name": "Hafeez Contractor",
@@ -1295,7 +1186,7 @@
         "youtube": "",
         "website": "http://www.hafeezcontractor.com"
       },
-      "image": "https://logo.clearbit.com/hafeezcontractor.com"
+      "image": "https://logo.clearbit.com/http://www.hafeezcontractor.com"
     },
     {
       "company_name": "CP Kukreja Architects",
@@ -1323,7 +1214,7 @@
         "youtube": "",
         "website": "https://www.cpkukreja.com"
       },
-      "image": "https://logo.clearbit.com/cpkukreja.com"
+      "image": "https://logo.clearbit.com/https://www.cpkukreja.com"
     },
     {
       "company_name": "AECOM",
@@ -1353,7 +1244,7 @@
         "youtube": "https://www.youtube.com/user/AECOMTechnology",
         "website": "https://www.aecom.com"
       },
-      "image": "https://logo.clearbit.com/aecom.com"
+      "image": "https://logo.clearbit.com/https://www.aecom.com"
     },
     {
       "company_name": "Nikken Sekkei",
@@ -1381,9 +1272,9 @@
         "facebook": "",
         "instagram": "",
         "youtube": "",
-        "website": "https://www.nikken.co.jp/en"
+        "website": "https://www.nikken.co.jp"
       },
-      "image": "https://logo.clearbit.com/nikken.co.jp/en"
+      "image": "https://logo.clearbit.com/https://www.nikken.co.jp"
     },
     {
       "company_name": "DLR Group",
@@ -1406,14 +1297,15 @@
         "Shanghai"
       ],
       "socialmedia_links": {
-        "linkedin": "https://www.linkedin.com/company/d"
+        "linkedin": "https://www.linkedin.com/company/d",
+        "website": "https://www.dlrgroup.com/"
       },
-      "image": ""
+      "image": "https://logo.clearbit.com/https://www.dlrgroup.com/"
     }
   ],
   "banking": [
     {
-      "company_name": "Public Sector Banks, Private Banks, Cooperative Banks",
+      "company_name": "SBI bank",
       "industry_type": "Banking",
       "opportunities": [
         "Bank Probationary Officer (PO)"
@@ -1430,15 +1322,12 @@
         "RBI Grade B Exam"
       ],
       "socialmedia_links": {
-        "linkedin": "https://www.linkedin.com/company/public-sector-banks",
-        "twitter": "https://twitter.com/publicsectorbanks",
-        "facebook": "https://www.facebook.com/publicsectorbanks",
-        "website": "https://www.publicsectorbanks.com"
+        "website": "https://www.onlinesbi.sbi/"
       },
-      "image": "https://logo.clearbit.com/publicsectorbanks.com"
+      "image": "https://logo.clearbit.com/https://www.onlinesbi.sbi/"
     },
     {
-      "company_name": "Public Sector Banks, Private Banks, Foreign Banks",
+      "company_name": "ICICI Bank",
       "industry_type": "Banking",
       "opportunities": [
         "Branch Manager"
@@ -1456,12 +1345,9 @@
         "RBI Grade B Exam (for senior roles)"
       ],
       "socialmedia_links": {
-        "linkedin": "https://www.linkedin.com/company/private-banks",
-        "twitter": "https://twitter.com/privatebanks",
-        "facebook": "https://www.facebook.com/privatebanks",
-        "website": "https://www.privatebanks.com"
+        "website": "https://www.icicibank.com/"
       },
-      "image": "https://logo.clearbit.com/privatebanks.com"
+      "image": "https://logo.clearbit.com/https://www.icicibank.com/"
     },
     {
       "company_name": "Banks, Non-Banking Financial Companies (NBFCs)",
@@ -1479,15 +1365,12 @@
         "NISM Certifications"
       ],
       "socialmedia_links": {
-        "linkedin": "https://www.linkedin.com/company/nbfcs",
-        "twitter": "https://twitter.com/nbfcs",
-        "facebook": "https://www.facebook.com/nbfcs",
-        "website": "https://www.nbfcs.com"
+        "website": "https://www.muthootfinance.com/"
       },
-      "image": "https://logo.clearbit.com/nbfcs.com"
+      "image": "https://logo.clearbit.com/https://www.muthootfinance.com/"
     },
     {
-      "company_name": "Banks, Financial Institutions",
+      "company_name": "Bank of India",
       "industry_type": "Banking",
       "opportunities": [
         "Treasury Manager"
@@ -1502,15 +1385,12 @@
         "NISM Treasury Certification"
       ],
       "socialmedia_links": {
-        "linkedin": "https://www.linkedin.com/company/financial-institutions",
-        "twitter": "https://twitter.com/financialinstitutions",
-        "facebook": "https://www.facebook.com/financialinstitutions",
-        "website": "https://www.financialinstitutions.com"
+        "website": "https://bankofindia.co.in/"
       },
-      "image": "https://logo.clearbit.com/financialinstitutions.com"
+      "image": "https://logo.clearbit.com/https://bankofindia.co.in/"
     },
     {
-      "company_name": "Banks, Investment Firms, Wealth Management Companies",
+      "company_name": "HDFC Wealth Management",
       "industry_type": "Banking",
       "opportunities": [
         "Investment Advisor"
@@ -1522,15 +1402,12 @@
         "NISM Investment Advisor Certification"
       ],
       "socialmedia_links": {
-        "linkedin": "https://www.linkedin.com/company/investment-advisors",
-        "twitter": "https://twitter.com/investmentadvisors",
-        "facebook": "https://www.facebook.com/investmentadvisors",
-        "website": "https://www.investmentadvisors.com"
+        "website": "https://v.hdfcbank.com/wealth/index.html"
       },
-      "image": "https://logo.clearbit.com/investmentadvisors.com"
+      "image": "https://logo.clearbit.com/https://hdfcbank.com"
     },
     {
-      "company_name": "Banks, Credit Unions",
+      "company_name": "Andhra Pradesh State Co-operative Bank Limited",
       "industry_type": "Banking",
       "opportunities": [
         "Bank Teller"
@@ -1542,12 +1419,9 @@
       ],
       "recruitment_process": [],
       "socialmedia_links": {
-        "linkedin": "https://www.linkedin.com/company/bank-tellers",
-        "twitter": "https://twitter.com/banktellers",
-        "facebook": "https://www.facebook.com/banktellers",
-        "website": "https://www.banktellers.com"
+        "website": "https://tms.apcob.org"
       },
-      "image": "https://logo.clearbit.com/banktellers.com"
+      "image": "https://logo.clearbit.com/https://tms.apcob.org"
     }
   ],
   "defence": [
@@ -1579,7 +1453,7 @@
         "facebook": "https://www.facebook.com/USArmy",
         "website": "https://www.army.mil"
       },
-      "image": "https://logo.clearbit.com/army.mil"
+      "image": "https://logo.clearbit.com/https://www.army.mil"
     },
     {
       "company_name": "U.S. Navy Active Duty, Navy Reserve",
@@ -1608,7 +1482,7 @@
         "facebook": "https://www.facebook.com/USNavy",
         "website": "https://www.navy.mil"
       },
-      "image": "https://logo.clearbit.com/navy.mil"
+      "image": "https://logo.clearbit.com/https://www.navy.mil"
     },
     {
       "company_name": "U.S. Air Force Active Duty, Air National Guard, Air Force Reserve",
@@ -1638,7 +1512,7 @@
         "facebook": "https://www.facebook.com/USAirForce",
         "website": "https://www.airforce.com"
       },
-      "image": "https://logo.clearbit.com/airforce.com"
+      "image": "https://logo.clearbit.com/https://www.airforce.com"
     },
     {
       "company_name": "U.S. Marine Corps Active Duty, Marine Corps Reserve",
@@ -1660,7 +1534,7 @@
         "facebook": "https://www.facebook.com/USMarineCorps",
         "website": "https://www.marines.com"
       },
-      "image": "https://logo.clearbit.com/marines.com"
+      "image": "https://logo.clearbit.com/https://www.marines.com"
     },
     {
       "company_name": "U.S. Coast Guard Active Duty, Coast Guard Reserve",
@@ -1684,7 +1558,7 @@
         "facebook": "https://www.facebook.com/USCoastGuard",
         "website": "https://www.uscg.mil"
       },
-      "image": "https://logo.clearbit.com/uscg.mil"
+      "image": "https://logo.clearbit.com/https://www.uscg.mil"
     },
     {
       "company_name": "Department of Defense and Post-Service Employers",
@@ -1724,10 +1598,10 @@
         "facebook": "https://www.facebook.com/DeptofDefense",
         "website": "https://www.defense.gov"
       },
-      "image": "https://logo.clearbit.com/defense.gov"
+      "image": "https://logo.clearbit.com/https://www.defense.gov"
     }
   ],
-  "designing": [
+  "designer": [
     {
       "company_name": "Wipro",
       "industry_type": "IT Services",
@@ -1752,7 +1626,7 @@
         "linkedin": "https://www.linkedin.com/company/wipro",
         "website": "https://www.wipro.com"
       },
-      "image": "https://logo.clearbit.com/wipro.com"
+      "image": "https://logo.clearbit.com/https://www.wipro.com"
     },
     {
       "company_name": "Tata Consultancy Services (TCS)",
@@ -1778,7 +1652,7 @@
         "linkedin": "https://www.linkedin.com/company/tata-consultancy-services",
         "website": "https://www.tcs.com"
       },
-      "image": "https://logo.clearbit.com/tcs.com"
+      "image": "https://logo.clearbit.com/https://www.tcs.com"
     },
     {
       "company_name": "Infosys",
@@ -1804,7 +1678,7 @@
         "linkedin": "https://www.linkedin.com/company/infosys",
         "website": "https://www.infosys.com"
       },
-      "image": "https://logo.clearbit.com/infosys.com"
+      "image": "https://logo.clearbit.com/https://www.infosys.com"
     },
     {
       "company_name": "Adobe",
@@ -1831,7 +1705,7 @@
         "linkedin": "https://www.linkedin.com/company/adobe",
         "website": "https://www.adobe.com"
       },
-      "image": "https://logo.clearbit.com/adobe.com"
+      "image": "https://logo.clearbit.com/https://www.adobe.com"
     },
     {
       "company_name": "Frog Design",
@@ -1858,7 +1732,7 @@
         "linkedin": "https://www.linkedin.com/company/frog",
         "website": "https://www.frogdesign.com"
       },
-      "image": "https://logo.clearbit.com/frogdesign.com"
+      "image": "https://logo.clearbit.com/https://www.frogdesign.com"
     },
     {
       "company_name": "IDEO",
@@ -1885,7 +1759,7 @@
         "linkedin": "https://www.linkedin.com/company/ideo",
         "website": "https://www.ideo.com"
       },
-      "image": "https://logo.clearbit.com/ideo.com"
+      "image": "https://logo.clearbit.com/https://www.ideo.com"
     },
     {
       "company_name": "Landor & Fitch",
@@ -1912,7 +1786,7 @@
         "linkedin": "https://www.linkedin.com/company/landor",
         "website": "https://www.landor.com"
       },
-      "image": "https://logo.clearbit.com/landor.com"
+      "image": "https://logo.clearbit.com/https://www.landor.com"
     },
     {
       "company_name": "Pentagram",
@@ -1939,7 +1813,7 @@
         "linkedin": "https://www.linkedin.com/company/pentagram",
         "website": "https://www.pentagram.com"
       },
-      "image": "https://logo.clearbit.com/pentagram.com"
+      "image": "https://logo.clearbit.com/https://www.pentagram.com"
     },
     {
       "company_name": "Zaha Hadid Architects",
@@ -1965,7 +1839,7 @@
         "linkedin": "https://www.linkedin.com/company/zaha-hadid-architects",
         "website": "https://www.zaha-hadid.com"
       },
-      "image": "https://logo.clearbit.com/zaha-hadid.com"
+      "image": "https://logo.clearbit.com/https://www.zaha-hadid.com"
     },
     {
       "company_name": "Gensler",
@@ -1992,7 +1866,7 @@
         "linkedin": "https://www.linkedin.com/company/gensler",
         "website": "https://www.gensler.com"
       },
-      "image": "https://logo.clearbit.com/gensler.com"
+      "image": "https://logo.clearbit.com/https://www.gensler.com"
     },
     {
       "company_name": "Design Cafe",
@@ -2018,7 +1892,7 @@
         "linkedin": "https://www.linkedin.com/company/design-cafe",
         "website": "https://www.designcafe.com"
       },
-      "image": "https://logo.clearbit.com/designcafe.com"
+      "image": "https://logo.clearbit.com/https://www.designcafe.com"
     },
     {
       "company_name": "Studio Lotus",
@@ -2044,7 +1918,7 @@
         "linkedin": "https://www.linkedin.com/company/studio-lotus",
         "website": "https://www.studiolotus.in"
       },
-      "image": "https://logo.clearbit.com/studiolotus.in"
+      "image": "https://logo.clearbit.com/https://www.studiolotus.in"
     },
     {
       "company_name": "Elephant Design",
@@ -2070,7 +1944,7 @@
         "linkedin": "https://www.linkedin.com/company/elephantdesign",
         "website": "https://www.elephantdesign.com"
       },
-      "image": "https://logo.clearbit.com/elephantdesign.com"
+      "image": "https://logo.clearbit.com/https://www.elephantdesign.com"
     },
     {
       "company_name": "NID (National Institute of Design)",
@@ -2095,7 +1969,7 @@
         "linkedin": "https://www.linkedin.com/school/nidindia",
         "website": "https://www.nid.edu"
       },
-      "image": "https://logo.clearbit.com/nid.edu"
+      "image": "https://logo.clearbit.com/https://www.nid.edu"
     },
     {
       "company_name": "NIFT (National Institute of Fashion Technology)",
@@ -2120,7 +1994,7 @@
         "linkedin": "https://www.linkedin.com/school/niftindia",
         "website": "https://www.nift.ac.in"
       },
-      "image": "https://logo.clearbit.com/nift.ac.in"
+      "image": "https://logo.clearbit.com/https://www.nift.ac.in"
     },
     {
       "company_name": "IIT Bombay (Industrial Design Centre)",
@@ -2145,7 +2019,7 @@
         "linkedin": "https://www.linkedin.com/school/iitbombay",
         "website": "https://www.idc.iitb.ac.in"
       },
-      "image": "https://logo.clearbit.com/idc.iitb.ac.in"
+      "image": "https://logo.clearbit.com/https://www.idc.iitb.ac.in"
     }
   ],
   "doctor": [
@@ -2173,7 +2047,7 @@
         "facebook": "https://www.facebook.com/communityhealthcenters",
         "website": "https://www.communityhealthcenters.com"
       },
-      "image": "https://logo.clearbit.com/communityhealthcenters.com"
+      "image": "https://media.istockphoto.com/id/1524913019/vector/hospital-building-vector-illustration-in-flat-style-design.jpg?s=612x612&w=0&k=20&c=WVl257GwZBvckU_e5SNu0CCG3gL9EbCMZPwINLcxdj4="
     },
     {
       "company_name": "Hospitals, Women's Health Clinics, Academic Medical Centers",
@@ -2199,7 +2073,7 @@
         "facebook": "https://www.facebook.com/hospitals",
         "website": "https://www.hospitals.com"
       },
-      "image": "https://logo.clearbit.com/hospitals.com"
+      "image": "https://media.istockphoto.com/id/1524913019/vector/hospital-building-vector-illustration-in-flat-style-design.jpg?s=612x612&w=0&k=20&c=WVl257GwZBvckU_e5SNu0CCG3gL9EbCMZPwINLcxdj4="
     },
     {
       "company_name": "Cardiology Groups, Hospitals, Academic Medical Centers",
@@ -2225,7 +2099,7 @@
         "facebook": "https://www.facebook.com/cardiologygroups",
         "website": "https://www.cardiologygroups.com"
       },
-      "image": "https://logo.clearbit.com/cardiologygroups.com"
+      "image": "https://media.istockphoto.com/id/1524913019/vector/hospital-building-vector-illustration-in-flat-style-design.jpg?s=612x612&w=0&k=20&c=WVl257GwZBvckU_e5SNu0CCG3gL9EbCMZPwINLcxdj4="
     },
     {
       "company_name": "Hospitals, Academic Medical Centers, Research Institutions",
@@ -2251,7 +2125,7 @@
         "facebook": "https://www.facebook.com/academicmedcenters",
         "website": "https://www.academicmedcenters.com"
       },
-      "image": "https://logo.clearbit.com/academicmedcenters.com"
+      "image": "https://media.istockphoto.com/id/1524913019/vector/hospital-building-vector-illustration-in-flat-style-design.jpg?s=612x612&w=0&k=20&c=WVl257GwZBvckU_e5SNu0CCG3gL9EbCMZPwINLcxdj4="
     },
     {
       "company_name": "Hospitals, Imaging Centers, Emergency Departments",
@@ -2277,7 +2151,7 @@
         "facebook": "https://www.facebook.com/radiologygroups",
         "website": "https://www.radiologygroups.com"
       },
-      "image": "https://logo.clearbit.com/radiologygroups.com"
+      "image": "https://media.istockphoto.com/id/1524913019/vector/hospital-building-vector-illustration-in-flat-style-design.jpg?s=612x612&w=0&k=20&c=WVl257GwZBvckU_e5SNu0CCG3gL9EbCMZPwINLcxdj4="
     },
     {
       "company_name": "Hospitals, Academic Medical Centers, Research Institutions",
@@ -2305,10 +2179,10 @@
         "facebook": "https://www.facebook.com/neurosurgerygroups",
         "website": "https://www.neurosurgerygroups.com"
       },
-      "image": "https://logo.clearbit.com/neurosurgerygroups.com"
+      "image": "https://media.istockphoto.com/id/1524913019/vector/hospital-building-vector-illustration-in-flat-style-design.jpg?s=612x612&w=0&k=20&c=WVl257GwZBvckU_e5SNu0CCG3gL9EbCMZPwINLcxdj4="
     }
   ],
-  "engineering": [
+  "engineer": [
     {
       "company_name": "Tech Companies, Software Development Firms, IT Consultancies",
       "industry_type": "Information Technology",
@@ -2331,7 +2205,7 @@
         "facebook": "https://www.facebook.com/techcompanies",
         "website": "https://www.techcompanies.com"
       },
-      "image": "https://logo.clearbit.com/techcompanies.com"
+      "image": "https://logo.clearbit.com/https://www.techcompanies.com"
     },
     {
       "company_name": "Construction Firms, Engineering Consultancies, Infrastructure Companies",
@@ -2349,12 +2223,9 @@
         "and project management assessments."
       ],
       "socialmedia_links": {
-        "linkedin": "https://www.linkedin.com/company/construction-firms",
-        "twitter": "https://twitter.com/constructionfirms",
-        "facebook": "https://www.facebook.com/constructionfirms",
-        "website": "https://www.constructionfirms.com"
+        "website": "https://www.bricknbolt.com/"
       },
-      "image": "https://logo.clearbit.com/constructionfirms.com"
+      "image": "https://logo.clearbit.com/https://www.bricknbolt.com"
     },
     {
       "company_name": "Manufacturing Companies, Automotive Firms, Aerospace Industries",
@@ -2371,12 +2242,9 @@
         "and engineering assessments."
       ],
       "socialmedia_links": {
-        "linkedin": "https://www.linkedin.com/company/manufacturing-companies",
-        "twitter": "https://twitter.com/manufacturingco",
-        "facebook": "https://www.facebook.com/manufacturingcompanies",
         "website": "https://www.manufacturingcompanies.com"
       },
-      "image": "https://logo.clearbit.com/manufacturingcompanies.com"
+      "image": "https://assets-news.housing.com/news/wp-content/uploads/2023/09/07142225/Top-7-manufacturing-companies-in-Karnataka-f.jpg"
     },
     {
       "company_name": "Power Generation Companies, Electrical Engineering Firms",
@@ -2393,12 +2261,9 @@
         "and engineering assessments."
       ],
       "socialmedia_links": {
-        "linkedin": "https://www.linkedin.com/company/power-generation",
-        "twitter": "https://twitter.com/powergeneration",
-        "facebook": "https://www.facebook.com/powergeneration",
         "website": "https://www.powergeneration.com"
       },
-      "image": "https://logo.clearbit.com/powergeneration.com"
+      "image": "https://www.power-technology.com/wp-content/uploads/sites/21/2020/10/Feature-Image-Top-ten-power-companies-in-2020.jpg"
     },
     {
       "company_name": "Chemical Manufacturing Companies, Pharmaceutical Firms",
@@ -2415,12 +2280,9 @@
         "and technical assessments."
       ],
       "socialmedia_links": {
-        "linkedin": "https://www.linkedin.com/company/chemical-manufacturing",
-        "twitter": "https://twitter.com/chemicalmanufacturing",
-        "facebook": "https://www.facebook.com/chemicalmanufacturing",
         "website": "https://www.chemicalmanufacturing.com"
       },
-      "image": "https://logo.clearbit.com/chemicalmanufacturing.com"
+      "image": "https://s7d1.scene7.com/is/image/CENODS/09927-cover-basf?$responsive$&wid=700&qlt=90,0&resMode=sharp2"
     },
     {
       "company_name": "AI and Robotics Companies, Tech Startups",
@@ -2443,7 +2305,7 @@
         "facebook": "https://www.facebook.com/airobotics",
         "website": "https://www.airobotics.com"
       },
-      "image": "https://logo.clearbit.com/airobotics.com"
+      "image": "https://logo.clearbit.com/https://www.airobotics.com"
     },
     {
       "company_name": "Data Analytics Firms, IT Consultancies, Tech Companies",
@@ -2465,7 +2327,7 @@
         "facebook": "https://www.facebook.com/dataanalytics",
         "website": "https://www.dataanalytics.com"
       },
-      "image": "https://logo.clearbit.com/dataanalytics.com"
+      "image": "https://logo.clearbit.com/https://www.dataanalytics.com"
     }
   ],
   "finance": [
@@ -2486,12 +2348,9 @@
         "CAIA"
       ],
       "socialmedia_links": {
-        "linkedin": "https://www.linkedin.com/company/financial-analysts",
-        "twitter": "https://twitter.com/financialanalysts",
-        "facebook": "https://www.facebook.com/financialanalysts",
         "website": "https://www.financialanalysts.com"
       },
-      "image": "https://logo.clearbit.com/financialanalysts.com"
+      "image": "https://t4.ftcdn.net/jpg/00/61/06/27/240_F_61062796_NF87GPnWV0fQ2LhoYNlyjev0PocRwZj9.jpg"
     },
     {
       "company_name": "Investment Banks, Financial Advisory Firms, Consulting Firms",
@@ -2509,12 +2368,9 @@
         "MBA Entrance Exams"
       ],
       "socialmedia_links": {
-        "linkedin": "https://www.linkedin.com/company/investment-banking",
-        "twitter": "https://twitter.com/investmentbankers",
-        "facebook": "https://www.facebook.com/investmentbankers",
         "website": "https://www.investmentbanking.com"
       },
-      "image": "https://logo.clearbit.com/investmentbanking.com"
+      "image": "https://t4.ftcdn.net/jpg/00/61/06/27/240_F_61062796_NF87GPnWV0fQ2LhoYNlyjev0PocRwZj9.jpg"
     },
     {
       "company_name": "Accounting Firms, Corporates, Banks, Government Organizations, Consulting Firms",
@@ -2534,12 +2390,9 @@
         "CA Final"
       ],
       "socialmedia_links": {
-        "linkedin": "https://www.linkedin.com/company/charteredaccountants",
-        "twitter": "https://twitter.com/charteredaccountants",
-        "facebook": "https://www.facebook.com/charteredaccountants",
         "website": "https://www.charteredaccountants.com"
       },
-      "image": "https://logo.clearbit.com/charteredaccountants.com"
+      "image": "https://t4.ftcdn.net/jpg/00/61/06/27/240_F_61062796_NF87GPnWV0fQ2LhoYNlyjev0PocRwZj9.jpg"
     },
     {
       "company_name": "Banks, Credit Rating Agencies, Financial Institutions",
@@ -2556,12 +2409,9 @@
         "NISM Certifications"
       ],
       "socialmedia_links": {
-        "linkedin": "https://www.linkedin.com/company/credit-analysts",
-        "twitter": "https://twitter.com/creditanalysts",
-        "facebook": "https://www.facebook.com/creditanalysts",
         "website": "https://www.creditanalysts.com"
       },
-      "image": "https://logo.clearbit.com/creditanalysts.com"
+      "image": "https://t4.ftcdn.net/jpg/00/61/06/27/240_F_61062796_NF87GPnWV0fQ2LhoYNlyjev0PocRwZj9.jpg"
     },
     {
       "company_name": "Banks, Financial Institutions, Consulting Firms",
@@ -2577,12 +2427,9 @@
         "PRM (Professional Risk Manager)"
       ],
       "socialmedia_links": {
-        "linkedin": "https://www.linkedin.com/company/risk-managers",
-        "twitter": "https://twitter.com/riskmanagers",
-        "facebook": "https://www.facebook.com/riskmanagers",
         "website": "https://www.riskmanagers.com"
       },
-      "image": "https://logo.clearbit.com/riskmanagers.com"
+      "image": "https://t4.ftcdn.net/jpg/00/61/06/27/240_F_61062796_NF87GPnWV0fQ2LhoYNlyjev0PocRwZj9.jpg"
     }
   ],
   "hotel management": [
@@ -2616,7 +2463,7 @@
         "facebook": "https://www.facebook.com/marriott",
         "website": "https://www.marriott.com"
       },
-      "image": "https://logo.clearbit.com/marriott.com"
+      "image": "https://logo.clearbit.com/https://www.marriott.com"
     },
     {
       "company_name": "Hilton",
@@ -2647,7 +2494,7 @@
         "facebook": "https://www.facebook.com/Hilton",
         "website": "https://www.hilton.com"
       },
-      "image": "https://logo.clearbit.com/hilton.com"
+      "image": "https://logo.clearbit.com/https://www.hilton.com"
     },
     {
       "company_name": "Taj Hotels",
@@ -2676,7 +2523,7 @@
         "facebook": "https://www.facebook.com/TajHotels",
         "website": "https://www.tajhotels.com"
       },
-      "image": "https://logo.clearbit.com/tajhotels.com"
+      "image": "https://logo.clearbit.com/https://www.tajhotels.com"
     },
     {
       "company_name": "Hyatt",
@@ -2705,7 +2552,7 @@
         "facebook": "https://www.facebook.com/Hyatt",
         "website": "https://www.hyatt.com"
       },
-      "image": "https://logo.clearbit.com/hyatt.com"
+      "image": "https://logo.clearbit.com/https://www.hyatt.com"
     },
     {
       "company_name": "Accor",
@@ -2734,7 +2581,7 @@
         "facebook": "https://www.facebook.com/accorhotels",
         "website": "https://group.accor.com"
       },
-      "image": "https://logo.clearbit.com/group.accor.com"
+      "image": "https://logo.clearbit.com/https://group.accor.com"
     },
     {
       "company_name": "InterContinental Hotels Group",
@@ -2763,7 +2610,7 @@
         "facebook": "https://www.facebook.com/InterContinental",
         "website": "https://www.ihg.com"
       },
-      "image": "https://logo.clearbit.com/ihg.com"
+      "image": "https://logo.clearbit.com/https://www.ihg.com"
     }
   ],
   "insurance": [
@@ -2788,7 +2635,7 @@
         "facebook": "https://www.facebook.com/insuranceunderwriters",
         "website": "https://www.insuranceunderwriters.com"
       },
-      "image": "https://logo.clearbit.com/insuranceunderwriters.com"
+      "image": "https://logo.clearbit.com/https://www.insuranceunderwriters.com"
     },
     {
       "company_name": "Life Insurance Companies, General Insurance Companies, Brokers",
@@ -2808,7 +2655,7 @@
         "facebook": "https://www.facebook.com/insuranceagents",
         "website": "https://www.insuranceagents.com"
       },
-      "image": "https://logo.clearbit.com/insuranceagents.com"
+      "image": "https://logo.clearbit.com/https://www.insuranceagents.com"
     },
     {
       "company_name": "Insurance Companies, Adjusting Firms",
@@ -2830,7 +2677,7 @@
         "facebook": "https://www.facebook.com/claimsadjusters",
         "website": "https://www.claimsadjusters.com"
       },
-      "image": "https://logo.clearbit.com/claimsadjusters.com"
+      "image": "https://alltimedesign.com/wp-content/uploads/2024/06/Insurance-logos-1.jpg"
     },
     {
       "company_name": "Insurance Companies, Consulting Firms, Government Agencies",
@@ -2854,7 +2701,7 @@
         "facebook": "https://www.facebook.com/actuaries",
         "website": "https://www.actuaries.com"
       },
-      "image": "https://logo.clearbit.com/actuaries.com"
+      "image": "https://alltimedesign.com/wp-content/uploads/2024/06/Insurance-logos-1.jpg"
     },
     {
       "company_name": "Insurance Companies, Consulting Firms",
@@ -2872,7 +2719,7 @@
         "facebook": "https://www.facebook.com/riskmanagers",
         "website": "https://www.riskmanagers.com"
       },
-      "image": "https://logo.clearbit.com/riskmanagers.com"
+      "image": "https://alltimedesign.com/wp-content/uploads/2024/06/Insurance-logos-1.jpg"
     }
   ],
   "journalism": [
@@ -2906,7 +2753,7 @@
         "India"
       ],
       "average_salary": "₹3L - ₹8L per annum",
-      "image": "https://logo.clearbit.com/timesofindia.indiatimes.com/"
+      "image": "https://logo.clearbit.com/https://timesofindia.indiatimes.com/"
     },
     {
       "company_name": "BBC News",
@@ -2937,7 +2784,7 @@
         "United Kingdom"
       ],
       "average_salary": "₹4.9L - ₹9.7L per annum",
-      "image": "https://logo.clearbit.com/bbc.com/news"
+      "image": "https://logo.clearbit.com/https://www.bbc.com"
     },
     {
       "company_name": "Hindustan Times",
@@ -2967,7 +2814,7 @@
         "India"
       ],
       "average_salary": "₹5L - ₹13L per annum",
-      "image": "https://logo.clearbit.com/hindustantimes.com/"
+      "image": "https://logo.clearbit.com/https://www.hindustantimes.com/"
     },
     {
       "company_name": "India Today Group",
@@ -2999,7 +2846,7 @@
         "India"
       ],
       "average_salary": "₹4L - ₹10L per annum",
-      "image": "https://logo.clearbit.com/indiatoday.in/"
+      "image": "https://logo.clearbit.com/https://www.indiatoday.in/"
     },
     {
       "company_name": "Zee News",
@@ -3030,7 +2877,7 @@
         "India"
       ],
       "average_salary": "₹3L - ₹7L per annum",
-      "image": "https://logo.clearbit.com/zeenews.india.com/"
+      "image": "https://logo.clearbit.com/https://zeenews.india.com/"
     },
     {
       "company_name": "CNN-News18",
@@ -3060,7 +2907,7 @@
         "India"
       ],
       "average_salary": "₹4L - ₹10L per annum",
-      "image": "https://logo.clearbit.com/news18.com/"
+      "image": "https://logo.clearbit.com/https://www.news18.com/"
     }
   ],
   "language translator": [
@@ -3084,7 +2931,7 @@
         "facebook": "https://www.facebook.com",
         "website": "https://www.ata-chronicle.online"
       },
-      "image": "https://logo.clearbit.com/ata-chronicle.online"
+      "image": "https://logo.clearbit.com/https://www.ata-chronicle.online"
     },
     {
       "company_name": "Tech Companies",
@@ -3108,7 +2955,7 @@
         "facebook": "https://www.facebook.com",
         "website": "https://www.atanet.org"
       },
-      "image": "https://logo.clearbit.com/atanet.org"
+      "image": "https://logo.clearbit.com/https://www.atanet.org"
     },
     {
       "company_name": "Law Firms",
@@ -3132,7 +2979,7 @@
         "facebook": "https://www.facebook.com",
         "website": "https://www.atanet.org"
       },
-      "image": "https://logo.clearbit.com/atanet.org"
+      "image": "https://logo.clearbit.com/https://www.atanet.org"
     },
     {
       "company_name": "Hospitals",
@@ -3156,7 +3003,7 @@
         "facebook": "https://www.facebook.com",
         "website": "https://www.ata-chronicle.online"
       },
-      "image": "https://logo.clearbit.com/ata-chronicle.online"
+      "image": "https://logo.clearbit.com/https://www.ata-chronicle.online"
     },
     {
       "company_name": "Banks and Investment Firms",
@@ -3180,7 +3027,7 @@
         "facebook": "https://www.facebook.com",
         "website": "https://www.atanet.org"
       },
-      "image": "https://logo.clearbit.com/atanet.org"
+      "image": "https://logo.clearbit.com/https://www.atanet.org"
     },
     {
       "company_name": "Research Institutes",
@@ -3204,7 +3051,7 @@
         "facebook": "https://www.facebook.com",
         "website": "https://www.ata-chronicle.online"
       },
-      "image": "https://logo.clearbit.com/ata-chronicle.online"
+      "image": "https://logo.clearbit.com/https://www.ata-chronicle.online"
     },
     {
       "company_name": "Advertising Agencies",
@@ -3228,7 +3075,7 @@
         "facebook": "https://www.facebook.com",
         "website": "https://www.ata-chronicle.online"
       },
-      "image": "https://logo.clearbit.com/ata-chronicle.online"
+      "image": "https://logo.clearbit.com/https://www.ata-chronicle.online"
     },
     {
       "company_name": "Dubbing Studios",
@@ -3252,7 +3099,7 @@
         "facebook": "https://www.facebook.com",
         "website": "https://www.ata-chronicle.online"
       },
-      "image": "https://logo.clearbit.com/ata-chronicle.online"
+      "image": "https://logo.clearbit.com/https://www.ata-chronicle.online"
     },
     {
       "company_name": "Tech Companies & App Developers",
@@ -3276,7 +3123,7 @@
         "facebook": "https://www.facebook.com",
         "website": "https://www.atanet.org"
       },
-      "image": "https://logo.clearbit.com/atanet.org"
+      "image": "https://logo.clearbit.com/https://www.atanet.org"
     },
     {
       "company_name": "International Organizations",
@@ -3300,7 +3147,7 @@
         "facebook": "https://www.facebook.com",
         "website": "https://www.ata-chronicle.online"
       },
-      "image": "https://logo.clearbit.com/ata-chronicle.online"
+      "image": "https://logo.clearbit.com/https://www.ata-chronicle.online"
     }
   ],
   "law and government": [
@@ -3327,7 +3174,7 @@
         "facebook": "https://www.facebook.com/kochharandco",
         "website": "https://www.kochhar.com"
       },
-      "image": "https://logo.clearbit.com/kochhar.com"
+      "image": "https://logo.clearbit.com/https://www.kochhar.com"
     },
     {
       "company_name": "Corporate Legal Partners",
@@ -3351,7 +3198,7 @@
         "facebook": "https://www.facebook.com/corporatelegalpartners",
         "website": ""
       },
-      "image": "https://logo.clearbit.com/corporatelegalpartners.com"
+      "image": "https://media.licdn.com/dms/image/v2/C560BAQGRp5UKX4RRpw/company-logo_200_200/company-logo_200_200/0/1631381731837?e=2147483647&v=beta&t=-ACs_BEVUk-szQcWi8eNspPYeQlC2nA5Ta_jFkxvFF0"
     },
     {
       "company_name": "Ministry of Law and Justice, India",
@@ -3374,7 +3221,7 @@
         "facebook": "https://www.facebook.com/MoLJIndia",
         "website": "https://lawmin.gov.in"
       },
-      "image": "https://logo.clearbit.com/lawmin.gov.in"
+      "image": "https://logo.clearbit.com/https://lawmin.gov.in"
     },
     {
       "company_name": "National Legal Services Authority (NALSA)",
@@ -3397,7 +3244,7 @@
         "facebook": "https://www.facebook.com/NALSAIndia",
         "website": "https://nalsa.gov.in"
       },
-      "image": "https://logo.clearbit.com/nalsa.gov.in"
+      "image": "https://logo.clearbit.com/https://nalsa.gov.in"
     },
     {
       "company_name": "Andhra Pradesh Police",
@@ -3420,7 +3267,7 @@
         "facebook": "https://www.facebook.com/AndhraPradeshPolice",
         "website": "https://citizen.appolice.gov.in"
       },
-      "image": "https://logo.clearbit.com/citizen.appolice.gov.in"
+      "image": "https://4.imimg.com/data4/AT/YK/MY-3648905/police-logo-1000x1000.jpg"
     },
     {
       "company_name": "Ministry of External Affairs, India",
@@ -3442,7 +3289,7 @@
         "facebook": "https://www.facebook.com/MEAIndia",
         "website": "https://www.mea.gov.in"
       },
-      "image": "https://logo.clearbit.com/mea.gov.in"
+      "image": "https://logo.clearbit.com/https://www.mea.gov.in"
     },
     {
       "company_name": "Comptroller and Auditor General of India (CAG)",
@@ -3464,7 +3311,7 @@
         "facebook": "https://www.facebook.com/CAGIndia/",
         "website": "https://www.cag.gov.in"
       },
-      "image": "https://logo.clearbit.com/cag.gov.in"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/CAG_Official_logo.png"
     },
     {
       "company_name": "Election Commission of India",
@@ -3488,7 +3335,7 @@
         "facebook": "https://www.facebook.com/ElectionCommissionofIndia/",
         "website": "https://eci.gov.in"
       },
-      "image": "https://logo.clearbit.com/eci.gov.in"
+      "image": "https://logo.clearbit.com/https://eci.gov.in"
     },
     {
       "company_name": "Central Bureau of Investigation (CBI)",
@@ -3534,7 +3381,7 @@
         "facebook": "https://www.facebook.com/IndiaLawOffices/",
         "website": "https://www.indialawoffices.com"
       },
-      "image": "https://logo.clearbit.com/indialawoffices.com"
+      "image": "https://logo.clearbit.com/https://www.indialawoffices.com"
     }
   ],
   "literature": [
@@ -3556,10 +3403,9 @@
         "Jaipur, India"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
+        "website": "https://ajaymeruvmoubooks.com/"
       },
-      "image": "https://www.vidyavision.com/CollegeUploads/Logos/2020-02-12-15-32-56_kkklogo.png"
+      "image": "https://ajaymeruvmoubooks.com/assets/images/logo.png"
     },
     {
       "company_name": "Team TechQart Pvt. Ltd.",
@@ -3578,13 +3424,12 @@
         "Rajasthan, India"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
+        "website": "https://techqart.com/"
       },
-      "image": "https://teamquest-inc.com.ph/home/img/logo2.png"
+      "image": "https://logo.clearbit.com/https://techqart.com/"
     },
     {
-      "company_name": "Academy Sirsa",
+      "company_name": "United Sirsa Academy",
       "industry_type": "Education",
       "opportunities": [
         "PGT English Literature Teacher"
@@ -3601,10 +3446,9 @@
         "Sirsa, India"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
+        "website": "https://www.thesirsaschool.com/"
       },
-      "image": "https://play-lh.googleusercontent.com/xDVW0iJK_K44HkhbmXXmyH7_AzGpanGWHQzsZ6J1LprN1tzBJLPzxp39hrvm-6nkDg"
+      "image": "https://logo.clearbit.com/https://www.thesirsaschool.com/"
     },
     {
       "company_name": "King's College London",
@@ -3628,7 +3472,7 @@
         "linkedin": "https://www.linkedin.com/school/kings-college-london/",
         "website": "https://www.kcl.ac.uk"
       },
-      "image": "https://logo.clearbit.com/kcl.ac.uk"
+      "image": "https://logo.clearbit.com/https://www.kcl.ac.uk"
     },
     {
       "company_name": "Ivy League International Academy",
@@ -3647,120 +3491,9 @@
         "Canada"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
+        "website": "https://ivyleagueacademy.in/"
       },
-      "image": "https://schoolcred.ca/wp-content/uploads/2021/06/886040-300x283.png"
-    },
-    {
-      "company_name": "Shilianhui Education",
-      "industry_type": "Education",
-      "opportunities": [
-        "High School Literature Teacher"
-      ],
-      "job_roles": [
-        "English Teacher"
-      ],
-      "recruitment_process": [
-        "Application Review",
-        "Interview"
-      ],
-      "location": [
-        "Shanghai, China"
-      ],
-      "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
-      },
-      "image": "https://static.vecteezy.com/system/resources/previews/016/700/538/non_2x/education-logo-design-template-vector.jpg"
-    },
-    {
-      "company_name": "Explorelife",
-      "industry_type": "Education",
-      "opportunities": [
-        "English Literature Teacher"
-      ],
-      "job_roles": [
-        "English Teacher"
-      ],
-      "recruitment_process": [
-        "Application Review",
-        "Interview"
-      ],
-      "location": [
-        "China"
-      ],
-      "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
-      },
-      "image": "https://cdn.shopify.com/s/files/1/0472/9074/5000/products/auslogoblack_2400x.jpg?v=1607401513"
-    },
-    {
-      "company_name": "Huizhou University",
-      "industry_type": "Education",
-      "opportunities": [
-        "English Language Instructor"
-      ],
-      "job_roles": [
-        "Lecturer"
-      ],
-      "recruitment_process": [
-        "Application Review",
-        "Interview"
-      ],
-      "location": [
-        "Huizhou, China"
-      ],
-      "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
-      },
-      "image": "https://www.alluniversity.info/img/uni/logo1547.jpg?v=a1B8VKAVUCLD6pse7pXd0Pr9OWlYFw8XH_4pLpipJ2g"
-    },
-    {
-      "company_name": "Seton Elite",
-      "industry_type": "Education",
-      "opportunities": [
-        "University General Education Lecturer"
-      ],
-      "job_roles": [
-        "Lecturer"
-      ],
-      "recruitment_process": [
-        "Application Review",
-        "Interview"
-      ],
-      "location": [
-        "China"
-      ],
-      "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
-      },
-      "image": "https://user-content.givegab.com/uploads/group/logo/472803/d156229b53d190be7599be2d95a681c1d7e4546e.png"
-    },
-    {
-      "company_name": "Xinyuandi Cultural Communication Co.Ltd",
-      "industry_type": "Education",
-      "opportunities": [
-        "Subject Teachers for International Schools"
-      ],
-      "job_roles": [
-        "English Teacher"
-      ],
-      "recruitment_process": [
-        "Application Review",
-        "Interview"
-      ],
-      "location": [
-        "China"
-      ],
-      "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
-      },
-      "image": "https://beijing.lps-china.com/wp-content/uploads/sites/3/2019/05/A16_Logo.jpg"
+      "image": "https://logo.clearbit.com/https://ivyleagueacademy.in/"
     },
     {
       "company_name": "Bloomsbury Publishing",
@@ -3784,7 +3517,7 @@
         "linkedin": "https://www.linkedin.com/company/bloomsbury-publishing/",
         "website": "https://www.bloomsbury.com/uk/connect/work-with-us/"
       },
-      "image": "https://logo.clearbit.com/bloomsbury.com/uk/connect/work-with-us/"
+      "image": "https://logo.clearbit.com/https://www.bloomsbury.com"
     },
     {
       "company_name": "The Wylie Agency",
@@ -3803,10 +3536,9 @@
         "New York, USA"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
+        "website": "https://wylieagency.com/"
       },
-      "image": "https://literaryagencies.com/wp-content/uploads/Wylie-Agency-USA-Literary-Agencies.jpg"
+      "image": "https://wylieagency.com/images/logo_h.gif"
     },
     {
       "company_name": "IES Abroad",
@@ -3827,10 +3559,9 @@
         "Dublin, Ireland"
       ],
       "socialmedia_links": {
-        "linkedin": "",
         "website": "https://www.iesabroad.org/intern-abroad/fields/creative-writing-english-publishing"
       },
-      "image": "https://logo.clearbit.com/iesabroad.org/intern-abroad/fields/creative-writing-english-publishing"
+      "image": "https://logo.clearbit.com/https://www.iesabroad.org"
     },
     {
       "company_name": "Writers & Artists",
@@ -3852,7 +3583,7 @@
         "linkedin": "",
         "website": "https://www.writersandartists.co.uk/opportunities-and-internships-agencies"
       },
-      "image": "https://logo.clearbit.com/writersandartists.co.uk/opportunities-and-internships-agencies"
+      "image": "https://logo.clearbit.com/https://www.writersandartists.co.uk"
     },
     {
       "company_name": "eTutorsZone",
@@ -3871,10 +3602,9 @@
         "Remote"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
+        "website": "https://etutorszone.com/"
       },
-      "image": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/j2vyheynliqbbmpnwu8c"
+      "image": "https://logo.clearbit.com/https://etutorszone.com/"
     },
     {
       "company_name": "Monk Prayogshala",
@@ -3894,9 +3624,9 @@
       ],
       "socialmedia_links": {
         "linkedin": "",
-        "website": ""
+        "website": "https://www.monkprayogshala.in/"
       },
-      "image": "https://www.michael.muthukrishna.com/wp-content/uploads/2021/04/monk-prayogshala-conference.png"
+      "image": "https://logo.clearbit.com/https://www.monkprayogshala.in/"
     },
     {
       "company_name": "RxLogix",
@@ -3916,9 +3646,9 @@
       ],
       "socialmedia_links": {
         "linkedin": "",
-        "website": ""
+        "website": "https://www.rxlogix.com/"
       },
-      "image": "https://cutshort.io/horizontal-og-image?img=https://cdn.cutshort.io/public/companies/59a7db190adfdb705f967137/rxlogix-logo"
+      "image": "https://logo.clearbit.com/https://www.rxlogix.com/"
     },
     {
       "company_name": "Foundation of Healthcare Technologies Society",
@@ -3937,10 +3667,9 @@
         "New Delhi, India"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
+        "website": "https://fhts.ac.in/"
       },
-      "image": "https://fhts.ac.in/wp-content/uploads/logo-caf.png"
+      "image": "https://logo.clearbit.com/https://fhts.ac.in/"
     },
     {
       "company_name": "ProPharma Group",
@@ -3959,10 +3688,9 @@
         "Hyderabad, India"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
+        "website": "https://www.propharmagroup.com/"
       },
-      "image": "https://app.scientist.com/providers/propharma-group/logo"
+      "image": "https://logo.clearbit.com/https://www.propharmagroup.com/"
     },
     {
       "company_name": "Cactus Communications",
@@ -3981,10 +3709,9 @@
         "Mumbai, India"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
+        "website": "https://cactusglobal.com/"
       },
-      "image": "https://images.squarespace-cdn.com/content/v1/5faae3db9cf099364cb9c407/eb5ac544-3a05-48e0-9325-cfbe54e4f6b2/Cureus+Logo.jpeg"
+      "image": "https://logo.clearbit.com/https://cactusglobal.com/"
     },
     {
       "company_name": "Cureus",
@@ -4003,10 +3730,9 @@
         "Remote"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
+        "website": "https://www.cureus.com/"
       },
-      "image": "https://images.squarespace-cdn.com/content/v1/5faae3db9cf099364cb9c407/eb5ac544-3a05-48e0-9325-cfbe54e4f6b2/Cureus+Logo.jpeg"
+      "image": "https://logo.clearbit.com/https://www.cureus.com/"
     },
     {
       "company_name": "Elsevier",
@@ -4025,10 +3751,9 @@
         "Remote"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
+        "website": "https://www.elsevier.com/"
       },
-      "image": "https://logonoid.com/images/elsevier-logo.png"
+      "image": "https://logo.clearbit.com/https://www.elsevier.com/"
     },
     {
       "company_name": "Medpace",
@@ -4047,10 +3772,9 @@
         "Remote"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
+        "website": "https://www.medpace.com/"
       },
-      "image": "https://www.ccmpcapital.com/wp-content/uploads/2016/06/medpace.png"
+      "image": "https://logo.clearbit.com/https://www.medpace.com/"
     },
     {
       "company_name": "QuintilesIMS",
@@ -4069,10 +3793,9 @@
         "Remote"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "website": ""
+        "website": "https://www.iqvia.com/"
       },
-      "image": "https://gacetamedica.com/wp-content/uploads/2020/01/image_content_60536_20161004161302.png"
+      "image": "https://logo.clearbit.com/https://www.iqvia.com/"
     }
   ],
   "politics": [
@@ -4099,7 +3822,7 @@
         "facebook": "https://www.facebook.com/IndianPAC/",
         "website": "https://www.indianpac.com/"
       },
-      "image": "https://logo.clearbit.com/indianpac.com/"
+      "image": "https://logo.clearbit.com/https://www.indianpac.com/"
     },
     {
       "company_name": "Varahe Analytics",
@@ -4120,9 +3843,9 @@
         "linkedin": "https://www.linkedin.com/company/varahe-analytics/",
         "twitter": "https://twitter.com/varaheanalytics",
         "facebook": "https://www.facebook.com/varaheanalytics/",
-        "website": "https://www.varaheanalytics.com/"
+        "website": "https://varahe.com/"
       },
-      "image": "https://logo.clearbit.com/varaheanalytics.com/"
+      "image": "https://varahe.com/assets/Logo-OG-2NAUQBk6.png"
     },
     {
       "company_name": "Inclusive Minds",
@@ -4146,7 +3869,7 @@
         "facebook": "https://www.facebook.com/inclusiveminds/",
         "website": "https://www.inclusiveminds.in/"
       },
-      "image": "https://logo.clearbit.com/inclusiveminds.in/"
+      "image": "https://logo.clearbit.com/https://www.inclusiveminds.in/"
     },
     {
       "company_name": "Nation with NaMo",
@@ -4169,7 +3892,7 @@
         "facebook": "https://www.facebook.com/nationwithnamo/",
         "website": "https://www.nationwithnamo.com/"
       },
-      "image": "https://logo.clearbit.com/nationwithnamo.com/"
+      "image": "https://logo.clearbit.com/https://www.nationwithnamo.com/"
     },
     {
       "company_name": "Cambridge Analytica (Historical Reference)",
@@ -4186,12 +3909,9 @@
         "Company is no longer operational"
       ],
       "socialmedia_links": {
-        "linkedin": "",
-        "twitter": "",
-        "facebook": "",
-        "website": ""
+        "website": "https://cambridgeanalytica.org/"
       },
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/03/cambridge-analytica-logo-1-scaled.jpg?fit=2560%2C1707&quality=50&strip=all&ssl=1"
+      "image": "https://logo.clearbit.com/https://cambridgeanalytica.org/"
     },
     {
       "company_name": "SKDK",
@@ -4210,12 +3930,9 @@
         "followed by interviews"
       ],
       "socialmedia_links": {
-        "linkedin": "https://www.linkedin.com/company/skdk/",
-        "twitter": "https://twitter.com/SKDK",
-        "facebook": "https://www.facebook.com/SKDKnickerbocker/",
-        "website": "https://www.skdk.com/"
+        "website": "https://www.skdknick.com/"
       },
-      "image": "https://logo.clearbit.com/skdk.com/"
+      "image": "https://logo.clearbit.com/https://www.skdknick.com/"
     },
     {
       "company_name": "GQR Research",
@@ -4239,7 +3956,7 @@
         "facebook": "https://www.facebook.com/gqrresearch/",
         "website": "https://www.gqrr.com/"
       },
-      "image": "https://logo.clearbit.com/gqrr.com/"
+      "image": "https://logo.clearbit.com/https://www.gqrr.com/"
     },
     {
       "company_name": "The Messina Group",
@@ -4263,7 +3980,7 @@
         "facebook": "https://www.facebook.com/TheMessinaGroup/",
         "website": "https://www.themessinagroup.com/"
       },
-      "image": "https://logo.clearbit.com/themessinagroup.com/"
+      "image": "https://logo.clearbit.com/https://www.themessinagroup.com/"
     }
   ],
   "scientists indian": [
@@ -4291,7 +4008,7 @@
         "facebook": "https://www.facebook.com/DRDOIndia",
         "website": "https://www.drdo.gov.in"
       },
-      "image": "https://logo.clearbit.com/drdo.gov.in"
+      "image": "https://logo.clearbit.com/https://www.drdo.gov.in"
     },
     {
       "company_name": "ISRO – Indian Space Research Organisation",
@@ -4316,7 +4033,7 @@
         "facebook": "https://www.facebook.com/ISRO",
         "website": "https://www.isro.gov.in"
       },
-      "image": "https://logo.clearbit.com/isro.gov.in"
+      "image": "https://logo.clearbit.com/https://www.isro.gov.in"
     },
     {
       "company_name": "CSIR – Council of Scientific and Industrial Research",
@@ -4341,7 +4058,7 @@
         "facebook": "https://www.facebook.com/csirindia",
         "website": "https://www.csir.res.in"
       },
-      "image": "https://logo.clearbit.com/csir.res.in"
+      "image": "https://logo.clearbit.com/https://www.csir.res.in"
     },
     {
       "company_name": "ICMR – Indian Council of Medical Research",
@@ -4365,7 +4082,7 @@
         "facebook": "https://www.facebook.com/icmr.india",
         "website": "https://www.icmr.nic.in"
       },
-      "image": "https://logo.clearbit.com/icmr.nic.in"
+      "image": "https://logo.clearbit.com/https://www.icmr.nic.in"
     },
     {
       "company_name": "ICAR – Indian Council of Agricultural Research",
@@ -4390,7 +4107,7 @@
         "facebook": "https://www.facebook.com/Indian-Council-of-Agricultural-Research-ICAR-162201279137019/",
         "website": "https://www.icar.org.in"
       },
-      "image": "https://logo.clearbit.com/icar.org.in"
+      "image": "https://logo.clearbit.com/https://www.icar.org.in"
     },
     {
       "company_name": "BARC – Bhabha Atomic Research Centre",
@@ -4415,7 +4132,7 @@
         "facebook": "https://www.facebook.com/BhabhaAtomicResearchCentre",
         "website": "https://www.barc.gov.in"
       },
-      "image": "https://logo.clearbit.com/barc.gov.in"
+      "image": "https://logo.clearbit.com/https://www.barc.gov.in"
     },
     {
       "company_name": "IISc – Indian Institute of Science",
@@ -4438,7 +4155,7 @@
         "facebook": "https://www.facebook.com/IIScBangalore",
         "website": "https://www.iisc.ac.in"
       },
-      "image": "https://logo.clearbit.com/iisc.ac.in"
+      "image": "https://logo.clearbit.com/https://www.iisc.ac.in"
     },
     {
       "company_name": "IICT – Indian Institute of Chemical Technology",
@@ -4463,7 +4180,7 @@
         "facebook": "https://www.facebook.com/iicthyd",
         "website": "https://www.iictindia.org"
       },
-      "image": "https://logo.clearbit.com/iictindia.org"
+      "image": "https://logo.clearbit.com/https://www.iictindia.org"
     },
     {
       "company_name": "NIO – National Institute of Oceanography",
@@ -4488,7 +4205,7 @@
         "facebook": "https://www.facebook.com/NIOindia",
         "website": "https://www.nio.org"
       },
-      "image": "https://logo.clearbit.com/nio.org"
+      "image": "https://logo.clearbit.com/https://www.nio.org"
     },
     {
       "company_name": "INCOIS – Indian National Centre for Ocean Information Services",
@@ -4512,7 +4229,7 @@
         "facebook": "https://www.facebook.com/incois.india",
         "website": "https://www.incois.gov.in"
       },
-      "image": "https://logo.clearbit.com/incois.gov.in"
+      "image": "https://logo.clearbit.com/https://www.incois.gov.in"
     },
     {
       "company_name": "NPL – National Physical Laboratory",
@@ -4537,7 +4254,7 @@
         "facebook": "https://www.facebook.com/nplindia",
         "website": "https://www.nplindia.org"
       },
-      "image": "https://logo.clearbit.com/nplindia.org"
+      "image": "https://logo.clearbit.com/https://www.nplindia.org"
     },
     {
       "company_name": "NCL – National Chemical Laboratory",
@@ -4562,7 +4279,7 @@
         "facebook": "https://www.facebook.com/NCLIndia",
         "website": "https://www.ncl-india.org"
       },
-      "image": "https://logo.clearbit.com/ncl-india.org"
+      "image": "https://logo.clearbit.com/https://www.ncl-india.org"
     },
     {
       "company_name": "TIFR – Tata Institute of Fundamental Research",
@@ -4586,7 +4303,7 @@
         "facebook": "https://www.facebook.com/TIFRIndia",
         "website": "https://www.tifr.res.in"
       },
-      "image": "https://logo.clearbit.com/tifr.res.in"
+      "image": "https://logo.clearbit.com/https://www.tifr.res.in"
     },
     {
       "company_name": "IITs and NITs – Indian Institutes of Technology / National Institutes of Technology",
@@ -4611,7 +4328,7 @@
         "facebook": "https://www.facebook.com/IITs",
         "website": "https://www.iitsystem.ac.in"
       },
-      "image": "https://logo.clearbit.com/iitsystem.ac.in"
+      "image": "https://logo.clearbit.com/https://www.iitsystem.ac.in"
     }
   ],
   "scientists international": [
@@ -4643,7 +4360,7 @@
         "facebook": "https://www.facebook.com/NASA",
         "website": "https://www.nasa.gov"
       },
-      "image": "https://logo.clearbit.com/nasa.gov"
+      "image": "https://logo.clearbit.com/https://www.nasa.gov"
     },
     {
       "company_name": "CERN – European Organization for Nuclear Research",
@@ -4672,7 +4389,7 @@
         "facebook": "https://www.facebook.com/CERN",
         "website": "https://www.cern.ch"
       },
-      "image": "https://logo.clearbit.com/cern.ch"
+      "image": "https://logo.clearbit.com/https://www.cern.ch"
     },
     {
       "company_name": "WHO – World Health Organization",
@@ -4700,7 +4417,7 @@
         "facebook": "https://www.facebook.com/WorldHealthOrganization",
         "website": "https://www.who.int"
       },
-      "image": "https://logo.clearbit.com/who.int"
+      "image": "https://logo.clearbit.com/https://www.who.int"
     },
     {
       "company_name": "UNESCO – United Nations Educational, Scientific and Cultural Organization",
@@ -4727,7 +4444,7 @@
         "facebook": "https://www.facebook.com/unesco",
         "website": "https://www.unesco.org"
       },
-      "image": "https://logo.clearbit.com/unesco.org"
+      "image": "https://logo.clearbit.com/https://www.unesco.org"
     },
     {
       "company_name": "MIT/Harvard Research Labs",
@@ -4755,7 +4472,7 @@
         "facebook": "https://www.facebook.com/MIT",
         "website": "https://www.mit.edu"
       },
-      "image": "https://logo.clearbit.com/mit.edu"
+      "image": "https://logo.clearbit.com/https://www.mit.edu"
     },
     {
       "company_name": "Max Planck Institutes",
@@ -4784,7 +4501,7 @@
         "facebook": "https://www.facebook.com/MaxPlanckSociety",
         "website": "https://www.mpg.de/en"
       },
-      "image": "https://logo.clearbit.com/mpg.de/en"
+      "image": "https://logo.clearbit.com/https://www.mpg.de/en"
     },
     {
       "company_name": "Oxford and Cambridge Research Centres",
@@ -4811,7 +4528,7 @@
         "facebook": "https://www.facebook.com/OxfordUniversity",
         "website": "https://www.ox.ac.uk"
       },
-      "image": "https://logo.clearbit.com/ox.ac.uk"
+      "image": "https://logo.clearbit.com/https://www.ox.ac.uk"
     }
   ],
   "skilled trades": [
@@ -4843,7 +4560,7 @@
         "facebook": "https://www.facebook.com/GeneralElectric",
         "website": "https://www.ge.com"
       },
-      "image": "https://logo.clearbit.com/ge.com"
+      "image": "https://logo.clearbit.com/https://www.ge.com"
     },
     {
       "company_name": "Siemens",
@@ -4873,7 +4590,7 @@
         "facebook": "https://www.facebook.com/Siemens",
         "website": "https://www.siemens.com"
       },
-      "image": "https://logo.clearbit.com/siemens.com"
+      "image": "https://logo.clearbit.com/https://www.siemens.com"
     },
     {
       "company_name": "Roto-Rooter",
@@ -4901,7 +4618,7 @@
         "facebook": "https://www.facebook.com/RotoRooter",
         "website": "https://www.rotorooter.com"
       },
-      "image": "https://logo.clearbit.com/rotorooter.com"
+      "image": "https://logo.clearbit.com/https://www.rotorooter.com"
     },
     {
       "company_name": "John Moore Services",
@@ -4928,7 +4645,7 @@
         "facebook": "https://www.facebook.com/JohnMooreServices",
         "website": "https://www.johnmooreservices.com"
       },
-      "image": "https://logo.clearbit.com/johnmooreservices.com"
+      "image": "https://logo.clearbit.com/https://www.johnmooreservices.com"
     },
     {
       "company_name": "Ford",
@@ -4954,7 +4671,7 @@
         "facebook": "https://www.facebook.com/Ford",
         "website": "https://www.ford.com"
       },
-      "image": "https://logo.clearbit.com/ford.com"
+      "image": "https://logo.clearbit.com/https://www.ford.com"
     },
     {
       "company_name": "GM",
@@ -4979,7 +4696,7 @@
         "facebook": "https://www.facebook.com/gm",
         "website": "https://www.gm.com"
       },
-      "image": "https://logo.clearbit.com/gm.com"
+      "image": "https://logo.clearbit.com/https://www.gm.com"
     },
     {
       "company_name": "Nissan",
@@ -5004,7 +4721,7 @@
         "facebook": "https://www.facebook.com/Nissan",
         "website": "https://www.nissan-global.com"
       },
-      "image": "https://logo.clearbit.com/nissan-global.com"
+      "image": "https://logo.clearbit.com/https://www.nissan-global.com"
     },
     {
       "company_name": "Tesla",
@@ -5029,7 +4746,7 @@
         "facebook": "https://www.facebook.com/Tesla",
         "website": "https://www.tesla.com"
       },
-      "image": "https://logo.clearbit.com/tesla.com"
+      "image": "https://logo.clearbit.com/https://www.tesla.com"
     },
     {
       "company_name": "First Solar",
@@ -5053,7 +4770,7 @@
         "facebook": "https://www.facebook.com/FirstSolar",
         "website": "https://www.firstsolar.com"
       },
-      "image": "https://logo.clearbit.com/firstsolar.com"
+      "image": "https://logo.clearbit.com/https://www.firstsolar.com"
     },
     {
       "company_name": "SunPower",
@@ -5078,7 +4795,7 @@
         "facebook": "https://www.facebook.com/SunPower",
         "website": "https://www.sunpower.com"
       },
-      "image": "https://logo.clearbit.com/sunpower.com"
+      "image": "https://logo.clearbit.com/https://www.sunpower.com"
     },
     {
       "company_name": "ADT Security Services",
@@ -5105,7 +4822,7 @@
         "facebook": "https://www.facebook.com/ADT",
         "website": "https://www.adt.com"
       },
-      "image": "https://logo.clearbit.com/adt.com"
+      "image": "https://logo.clearbit.com/https://www.adt.com"
     },
     {
       "company_name": "Honeywell",
@@ -5132,7 +4849,7 @@
         "facebook": "https://www.facebook.com/Honeywell",
         "website": "https://www.honeywell.com"
       },
-      "image": "https://logo.clearbit.com/honeywell.com"
+      "image": "https://logo.clearbit.com/https://www.honeywell.com"
     }
   ],
   "sports": [
@@ -5156,7 +4873,7 @@
         "facebook": "https://www.facebook.com",
         "website": "https://www.schoolsandcolleges.com"
       },
-      "image": "https://logo.clearbit.com/schoolsandcolleges.com"
+      "image": "https://img.freepik.com/free-vector/school-building-educational-institution-college_107791-1051.jpg?ga=GA1.1.1612380038.1740815869&semt=ais_items_boosted&w=740"
     },
     {
       "company_name": "Government Schools, State Government Sports Departments",
@@ -5174,9 +4891,9 @@
         "linkedin": "https://www.linkedin.com",
         "twitter": "https://www.twitter.com",
         "facebook": "https://www.facebook.com",
-        "website": "https://www.governmentschools.com"
+        "website": "https://education.gov.in"
       },
-      "image": "https://logo.clearbit.com/governmentschools.com"
+      "image": "https://logo.clearbit.com/https://education.gov.in"
     },
     {
       "company_name": "Government Sports Academies, Private Coaching Institutes, Sports Clubs",
@@ -5196,7 +4913,7 @@
         "facebook": "https://www.facebook.com",
         "website": "https://www.sportstraining.com"
       },
-      "image": "https://logo.clearbit.com/sportstraining.com"
+      "image": "https://logo.clearbit.com/https://education.gov.in"
     },
     {
       "company_name": "State Sports Federations, Government Sports Departments",
@@ -5218,7 +4935,7 @@
         "facebook": "https://www.facebook.com",
         "website": "https://www.sports.gov.in"
       },
-      "image": "https://logo.clearbit.com/sports.gov.in"
+      "image": "https://logo.clearbit.com/https://education.gov.in"
     },
     {
       "company_name": "Sports Authority of India, Government Sports Academies",
@@ -5238,7 +4955,7 @@
         "facebook": "https://www.facebook.com",
         "website": "https://www.sportsauthorityofindia.gov.in"
       },
-      "image": "https://logo.clearbit.com/sportsauthorityofindia.gov.in"
+      "image": "https://logo.clearbit.com/https://education.gov.in"
     },
     {
       "company_name": "Indian Army, Indian Navy, Police Training Centers",
@@ -5258,7 +4975,7 @@
         "facebook": "https://www.facebook.com",
         "website": "https://www.indianarmy.nic.in"
       },
-      "image": "https://logo.clearbit.com/indianarmy.nic.in"
+      "image": "https://logo.clearbit.com/https://www.indianarmy.nic.in"
     },
     {
       "company_name": "State Sports Federations, National Sports Development Authority",
@@ -5276,9 +4993,9 @@
         "linkedin": "https://www.linkedin.com",
         "twitter": "https://www.twitter.com",
         "facebook": "https://www.facebook.com",
-        "website": "https://www.sportsdevelopment.gov.in"
+        "website": "https://www.nationalysaef.com/"
       },
-      "image": "https://logo.clearbit.com/sportsdevelopment.gov.in"
+      "image": "https://www.nationalysaef.com/public/temp/409/ec39e02851c2521728f2c95c7488dbde.jpg"
     },
     {
       "company_name": "Government Sports Academies, National Institutes of Sports",
@@ -5298,7 +5015,7 @@
         "facebook": "https://www.facebook.com",
         "website": "https://www.sportsnutrition.in"
       },
-      "image": "https://logo.clearbit.com/sportsnutrition.in"
+      "image": "https://logo.clearbit.com/https://education.gov.in"
     },
     {
       "company_name": "Sports Research Institutes, National Sports Institutes",
@@ -5316,9 +5033,9 @@
         "linkedin": "https://www.linkedin.com",
         "twitter": "https://www.twitter.com",
         "facebook": "https://www.facebook.com",
-        "website": "https://www.sportsresearchinstitute.gov.in"
+        "website": "https://smri.in"
       },
-      "image": "https://logo.clearbit.com/sportsresearchinstitute.gov.in"
+      "image": "https://logo.clearbit.com/https://smri.in"
     },
     {
       "company_name": "Government Sports Departments, Private Sports Event Organizers",
@@ -5338,10 +5055,10 @@
         "facebook": "https://www.facebook.com",
         "website": "https://www.sportseventorganizer.com"
       },
-      "image": "https://logo.clearbit.com/sportseventorganizer.com"
+      "image": "https://logo.clearbit.com/https://education.gov.in"
     }
   ],
-  "teachers": [
+  "teaching": [
     {
       "company_name": "Government Schools",
       "industry_type": "Education",
@@ -5365,7 +5082,7 @@
         "facebook": "https://www.facebook.com/govtschools",
         "website": "https://education.gov.in"
       },
-      "image": "https://logo.clearbit.com/education.gov.in"
+      "image": "https://logo.clearbit.com/https://education.gov.in"
     },
     {
       "company_name": "Private Schools",
@@ -5392,7 +5109,7 @@
         "facebook": "https://www.facebook.com/privateschools",
         "website": "https://privateschools.edu"
       },
-      "image": "https://logo.clearbit.com/privateschools.edu"
+      "image": "https://img.freepik.com/free-vector/school-building-educational-institution-college_107791-1051.jpg?ga=GA1.1.1612380038.1740815869&semt=ais_items_boosted&w=740"
     },
     {
       "company_name": "International Schools",
@@ -5418,7 +5135,7 @@
         "facebook": "https://www.facebook.com/intlschools",
         "website": "https://international-schools.org"
       },
-      "image": "https://logo.clearbit.com/international-schools.org"
+      "image": "https://logo.clearbit.com/https://international-schools.org"
     },
     {
       "company_name": "NGOs",
@@ -5444,7 +5161,7 @@
         "facebook": "https://www.facebook.com/educationngos",
         "website": "https://education-ngos.org"
       },
-      "image": "https://logo.clearbit.com/education-ngos.org"
+      "image": "https://t4.ftcdn.net/jpg/05/26/35/07/240_F_526350772_taMM7EVaoDzWAashADdBrYkjH24hqS3c.jpg"
     },
     {
       "company_name": "Universities",
@@ -5470,7 +5187,7 @@
         "facebook": "https://www.facebook.com/university",
         "website": "https://www.university.edu"
       },
-      "image": "https://logo.clearbit.com/university.edu"
+      "image": "https://t3.ftcdn.net/jpg/04/91/76/62/240_F_491766294_h4j7LbW2YgfbNHhq7F8GboIc1XyBSEY5.jpg"
     },
     {
       "company_name": "Vocational Training Institutes",
@@ -5492,7 +5209,7 @@
         "facebook": "https://www.facebook.com/vocationaltraininginstitutes",
         "website": "https://vocationaltraining.edu"
       },
-      "image": "https://logo.clearbit.com/vocationaltraining.edu"
+      "image": "https://img.freepik.com/free-vector/school-building-educational-institution-college_107791-1051.jpg?ga=GA1.1.1612380038.1740815869&semt=ais_items_boosted&w=740"
     },
     {
       "company_name": "Online Education Platforms",
@@ -5514,8 +5231,7 @@
         "facebook": "https://www.facebook.com/onlineeducationplatforms",
         "website": "https://onlineeducation.com"
       },
-      "image": "https://logo.clearbit.com/onlineeducation.com"
-
+      "image": "https://logo.clearbit.com/https://onlineeducation.com"
     },
     {
       "company_name": "Educational Publishers",
@@ -5536,7 +5252,7 @@
         "facebook": "https://www.facebook.com/educationalpublishers",
         "website": "https://educationalpublishers.com"
       },
-      "image": "https://vectorseek.com/wp-content/uploads/2023/12/Independence-Educational-Publishers-Logo-Vector.svg-.png"
+      "image": "https://img.freepik.com/free-vector/school-building-educational-institution-college_107791-1051.jpg?ga=GA1.1.1612380038.1740815869&semt=ais_items_boosted&w=740"
     },
     {
       "company_name": "Schools",
@@ -5563,7 +5279,7 @@
         "facebook": "https://www.facebook.com/schools",
         "website": "https://schools.edu"
       },
-      "image": "https://logo.clearbit.com/schools.com"
+      "image": "https://img.freepik.com/free-vector/school-building-educational-institution-college_107791-1051.jpg?ga=GA1.1.1612380038.1740815869&semt=ais_items_boosted&w=740"
     }
   ]
 }

@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Eye, EyeOff } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../store/auth";
-const URL = "http://localhost:5000/api/auth/login";
+const URL = "https://my-career-compass.onrender.com/api/auth/login";
 export const Login = () => {
     const [formData, setFormData] = useState({
         email: '',

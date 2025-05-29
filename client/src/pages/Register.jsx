@@ -1,7 +1,7 @@
  import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAuth } from "../store/auth";
-const URL = "http://localhost:5000/api/auth/register";
+const URL = "https://my-career-compass-website.onrender.com/api/auth/register";
 export const Register = () => {
     const [formData, setFormData] = useState({
         username: '',
