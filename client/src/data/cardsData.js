@@ -1,7 +1,7 @@
 export const cardsData = [
   {
     title: "Agriculture",
-    image: "agriculture.jpeg",
+    image: "https://www.shutterstock.com/image-photo/agricultural-engineers-working-field-600nw-1721507938.jpg",
     description: "Feeding the future with roots deep in tradition.",
     moreInfo: [
       "Agriculture professionals work in farming, crop management, soil health, and agribusiness.",
@@ -14,7 +14,7 @@ export const cardsData = [
   },
   {
     title: "Doctor",
-    image: "doctor.jpg",
+    image:"https://cdn.pixabay.com/photo/2016/08/10/20/26/blood-pressure-1584223_1280.jpg",
     description: "Healing lives with care, skill, and compassion daily.",
     moreInfo: [
       "Doctors diagnose illnesses, treat patients, and promote health and well-being.",
@@ -27,7 +27,7 @@ export const cardsData = [
   },
   {
     title: "Police",
-    image: "police.jpg",
+    image: "https://puthiyasiragugal.wordpress.com/wp-content/uploads/2018/12/police-training-academy.jpg",
     description: "Serving justice with courage, honor, and true integrity.",
     moreInfo: [
       "Police officers maintain law and order, prevent crimes, and ensure public safety.",
@@ -40,7 +40,7 @@ export const cardsData = [
   },
   {
     title: "Nutritionist",
-    image: "nutrition.jpeg",
+    image: "https://www.vlccinstitute.com/sites/default/files/2022-06/1-large-nutrition.jpg",
     description: "Fueling bodies with balance, power, and smart choices.",
     moreInfo: [
       "Nutritionists guide people on healthy eating and diet plans.",
@@ -54,7 +54,7 @@ export const cardsData = [
   },
   {
     title: "Architect",
-    image: "architect.jpeg",
+    image: "https://srist.in/wp-content/uploads/2022/05/architecture-srist.webp",
     description: "Designing dreams with lines, vision, and creative strength.",
     moreInfo: [
       "Architects design buildings and structures that are functional, safe, and visually appealing.",
@@ -67,7 +67,7 @@ export const cardsData = [
   },
   {
     title: "Language Translator",
-    image: "language.jpeg",
+    image: "https://media.istockphoto.com/id/2012078733/photo/translator-app-language-course-and-e-learning-concept-person-use-smartphone-with-translator.jpg?s=612x612&w=0&k=20&c=fYrAJh1HdQJiuLBr_kzoNMsl_2p7_QK4SQJ7R1TGkvw=",
     description: "Bridging cultures with words, meaning, and fluent harmony.",
     moreInfo: [
       "Language translators convert written or spoken content from one language to another.",
@@ -80,7 +80,7 @@ export const cardsData = [
   },
   {
     title: "Hotel Management",
-    image: "hotel_management.jpeg",
+    image: "https://leapscholar.com/blog/wp-content/uploads/2022/03/shutterstock_1451239550-min-scaled-1-1024x683.jpg",
     description: "Creating comfort with service, grace, and smiling hospitality.",
     moreInfo: [
       "Hotel management includes managing hospitality operations and services.",
@@ -94,7 +94,7 @@ export const cardsData = [
   },
   {
     title: "Finance",
-    image: "finance.jpeg",
+    image: "https://imarticus.org/blog/wp-content/uploads/2021/09/shutterstock_1729190293-1024x683.jpg",
     description: "Growing wealth with insight, numbers, and wise strategy.",
     moreInfo: [
       "Finance professionals manage money, investments, and financial planning.",
@@ -107,7 +107,7 @@ export const cardsData = [
   },
   {
     title: "Defence",
-    image: "defence.jpeg",
+    image: "https://5.imimg.com/data5/XN/SQ/GV/SELLER-95184562/self-defence-course-500x500.jpg",
     description: "Guarding peace with strength, loyalty, and fearless heart.",
     moreInfo: [
       "Defence careers involve protecting the nation through armed forces.",
@@ -121,7 +121,7 @@ export const cardsData = [
   },
   {
     title: "Fashion Designer",
-    image: "fasion.jpeg",
+    image: "https://img.freepik.com/free-photo/medium-shot-smiley-woman-indoors_23-2148875315.jpg",
     description: "Styling lives with color, trends, and bold expression.",
     moreInfo: [
       "Fashion designers create clothing, accessories, and style trends.",
@@ -134,7 +134,7 @@ export const cardsData = [
   },
   {
     title: "Engineering",
-    image: "engineering.jpeg",
+    image: "https://cdn.itm.ac.in/2024/05/tech-jobs-in-India--6--3.webp",
     description: "Building tomorrow with logic, tools, and bright ideas.",
     moreInfo: [
       "Engineers solve problems using science, math, and technology.",
@@ -147,7 +147,7 @@ export const cardsData = [
   },
   {
     title: "Banking",
-    image: "banking.jpeg",
+    image: "https://www.cheggindia.com/wp-content/uploads/2024/08/cg-74055-banking-course-v2-1024x683.jpg",
     description: "Empowering dreams with savings, trust, and smart planning.",
     moreInfo: [
       "Bankers manage money, loans, investments, and customer services.",
@@ -160,7 +160,7 @@ export const cardsData = [
   },
   {
     title: "Insurance",
-    image: "insurance.jpeg",
+    image: "https://cdn1.expresscomputer.in/wp-content/uploads/2022/10/25095943/EC_Insurance_Insurtech_technology_750.jpg",
     description: "Protecting futures with safety, support, and firm assurance.",
     moreInfo: [
       "Insurance professionals assess risk, sell policies, and support claim processes.",
@@ -173,7 +173,7 @@ export const cardsData = [
   },
   {
     title: "Government",
-    image: "government.jpg",
+    image: "https://t3.ftcdn.net/jpg/00/78/50/86/360_F_78508648_oyhQvai5OuJ3OAppVioL5RzQbI4CPif4.jpg",
     description: "Governing lives with justice, vision, and integrity always.",
     moreInfo: [
       "Government jobs offer stability and serve the public in various departments.",
@@ -186,7 +186,7 @@ export const cardsData = [
   },
   {
     title: "Scientists India",
-    image: "scientists_india.jpg",
+    image: "https://media.istockphoto.com/id/1221032250/photo/asian-scientist-or-doctors-use-microscopes-to-test-for-the-coronavirus-or-a-new-flu-virus-to.jpg?s=612x612&w=0&k=20&c=nqmrPXZDDKH1o2WyNlmJK7oyd8zvZqgHnWkXg2HS96k=",
     description: "Advancing India with knowledge, innovation, and discovery proudly.",
     moreInfo: [
       "Indian scientists work in ISRO, DRDO, CSIR, and research institutes.",
@@ -199,7 +199,7 @@ export const cardsData = [
   },
   {
     title: "Literature",
-    image: "literature.jpg",
+    image: "https://w0.peakpx.com/wallpaper/983/999/HD-wallpaper-literature-book-inkpot-ink-feather.jpg",
     description: "Enriching minds with words, wisdom, and emotion endlessly.",
     moreInfo: [
       "Literature experts study, analyze, and create written works like novels, poetry, and essays.",
@@ -213,7 +213,7 @@ export const cardsData = [
 
   {
     title: "Law And Government",
-    image: "law_and_government.webp",
+    image: "https://media.istockphoto.com/id/1388925357/photo/the-statue-of-justice-lady-justice-or-iustitia-justitia-the-roman-goddess-of-justice.jpg?s=612x612&w=0&k=20&c=Q7lw1G9o-DoXEpUkMiK5POE01cUykjXLBUL9FLAgG98=",
     description: "Shaping nations with vision, service, and leadership daily.",
     moreInfo: [
       "Law careers involve legal advice, representation, and justice delivery.",
@@ -226,7 +226,7 @@ export const cardsData = [
   },
   {
     title: "Politics",
-    image: "politics.webp",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoDZkYsZe9magsllnIQ4qL37h5DwA8IWFFuA&s",
     description: "Shaping nations with vision, service, and leadership daily.",
     moreInfo: [
       "Politicians represent the public and create laws and policies.",
@@ -239,7 +239,7 @@ export const cardsData = [
   },
   {
     title: "Journalism",
-    image: "journalism.jpg",
+    image: "https://media.istockphoto.com/id/1349183013/photo/african-male-journalist-preparing-questions-for-press-conference.jpg?s=612x612&w=0&k=20&c=qidbSz_6hpkkr6jRB5-1hSMK1J6KEC6avIVBlaxmZgo=",
     description: "Informing citizens with facts, courage, and vigilance daily.",
     moreInfo: [
       "Journalists gather, verify, and report news to the public.",
@@ -252,7 +252,7 @@ export const cardsData = [
   },
   {
     title: "Scientists International",
-    image: "scientists_international.webp",
+    image: "https://www.shutterstock.com/shutterstock/videos/1091766969/thumb/1.jpg?ip=x480",
     description: "Transforming lives with science, research, and breakthroughs globally.",
     moreInfo: [
       "International scientists work in global labs, NASA, CERN, universities, etc.",
@@ -266,7 +266,7 @@ export const cardsData = [
   },
   {
     title: "Sports",
-    image: "sports.jpg",
+    image: "https://img.freepik.com/free-photo/sports-tools_53876-138077.jpg",
     description: "Inspiring excellence with discipline, passion, and perseverance daily.",
     moreInfo: [
       "Sports careers include athletes, coaches, referees, and trainers.",
@@ -279,7 +279,7 @@ export const cardsData = [
   },
   {
     title: "Skilled Trades",
-    image: "skilled.webp",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNP4PCTI79QXpl94pfh3GpY9A3ER90evo4nA&s",
     description: "Building futures with hands, heart, and craftsmanship daily.",
     moreInfo: [
       "Skilled trades include electricians, plumbers, carpenters, and technicians.",
@@ -293,7 +293,7 @@ export const cardsData = [
   },
   {
     title: "Teaching",
-    image: "teaching.jpg",
+    image: "https://t4.ftcdn.net/jpg/05/18/65/75/360_F_518657595_keQdDMCfv8SgYvjOgPMe8BCx7hkuplIf.jpg",
     description: "Shaping minds with patience, purpose, and knowledge every day.",
     moreInfo: [
       "Teachers educate students and shape future generations.",

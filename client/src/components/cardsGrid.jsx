@@ -1,3 +1,6 @@
+
+
+
 import React, { useState } from "react";
 import { cardsData } from "../data/cardsData";
 import jobData from "../data/jobs_data.json";
@@ -36,9 +39,9 @@ const CardsGrid = () => {
         <div className="flex flex-col lg:flex-row justify-between items-center gap-8 mb-8">
           {/* Image */}
           <img
-            src={`/images/${selectedCard.image}`}
+            src={selectedCard.image}
             alt={selectedCard.title}
-            className="w-150 h-50 object-cover  shadow-xl border-4 border-indigo-300"
+            className="w-150 h-50 object-cover shadow-xl border-4 border-indigo-300"
           />
 
           {/* Title and Description */}
@@ -153,7 +156,7 @@ const CardsGrid = () => {
           className="bg-white rounded-2xl shadow-md overflow-hidden "
         >
           <img
-            src={`/images/${card.image}`}
+            src={card.image}
             alt={card.title}
             className="w-full h-48 object-cover"
           />
@@ -168,7 +171,7 @@ const CardsGrid = () => {
                 Explore More
               </button>
             </div>
-            
+
           </div>
         </div>
       ))}
