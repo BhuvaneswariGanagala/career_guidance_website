@@ -15,7 +15,7 @@ export const Community = () => {
   //     .catch(console.error);
   // }, []);
   useEffect(() => {
-    fetch("https://my-career-compass-website.onrender.com/api/posts/all")
+    fetch("https://my-career-compass.onrender.com/api/posts/all")
       .then(async (res) => {
         const contentType = res.headers.get("content-type");
         if (!res.ok) {
@@ -42,14 +42,14 @@ export const Community = () => {
     if (!content) return alert("Post cannot be empty.");
 
     try {
-      const res = await fetch("https://my-career-compass-website.onrender.com/api/posts/create", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          Authorization: `Bearer ${token}`,
-        },
-        body: JSON.stringify({ content }),
-      });
+      const res = await fetch("https://my-career-compass.onrender.com/api/posts/create", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${token}`,  // Make sure token is defined and valid
+    },
+    body: JSON.stringify({ content }),
+  });
 
       const data = await res.json();
       if (res.ok) {
@@ -68,7 +68,7 @@ export const Community = () => {
     if (!replyText[postId]) return alert("Reply cannot be empty.");
 
     try {
-      const res = await fetch(`https://my-career-compass-website.onrender.com/api/posts/${postId}/reply`, {
+      const res = await fetch(`https://my-career-compass.onrender.com/api/posts/${postId}/reply`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
