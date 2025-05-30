@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from "react";
+
 import data from '../data/awarenessData.json';
 import competitiveExams from '../data/competitive_exams_data.json';
 import LeftSidebar from '../components/LeftSidebar';
@@ -7,9 +8,19 @@ import CardsGrid from '../components/cardsGrid';
 import { renderValue } from '../components/Collapsible';
 import { BookOpen, Info, GraduationCap } from 'lucide-react';
 
+
 export const AwarenessPage = () => {
   const [selectedCategory, setSelectedCategory] = useState('after_10th');
   const [showOnlyCards, setShowOnlyCards] = useState(false);
+  
+  useEffect(() => {
+  const alertShown = sessionStorage.getItem("awarenessAlertShown");
+  if (!alertShown) {
+    alert("Explore various career paths by selecting options from the left sidebar!");
+    sessionStorage.setItem("awarenessAlertShown", "true");
+  }
+}, []);
+
 
   const handleSelect = (category) => {
     if (category === 'field') {

@@ -8,11 +8,34 @@ export const Community = () => {
   const [image, setImage] = useState(null);
   const [replyText, setReplyText] = useState({});
 
+  // useEffect(() => {
+  //   fetch("https://my-career-compass-website.onrender.com/api/posts/all")
+  //     .then((res) => res.json())
+  //     .then(setPosts)
+  //     .catch(console.error);
+  // }, []);
   useEffect(() => {
     fetch("https://my-career-compass-website.onrender.com/api/posts/all")
-      .then((res) => res.json())
-      .then(setPosts)
-      .catch(console.error);
+      .then(async (res) => {
+        const contentType = res.headers.get("content-type");
+        if (!res.ok) {
+          const errorText = await res.text();
+          console.error("Server Error:", errorText);
+          throw new Error("Failed to load posts");
+        }
+
+        if (contentType && contentType.includes("application/json")) {
+          const data = await res.json();
+          setPosts(data);
+        } else {
+          const text = await res.text();
+          console.error("Expected JSON, got:", text);
+          throw new Error("Invalid response format");
+        }
+      })
+      .catch((err) => {
+        console.error("Fetch error:", err.message);
+      });
   }, []);
 
   const handlePostSubmit = async () => {
