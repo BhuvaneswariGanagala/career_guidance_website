@@ -1,8 +1,8 @@
- import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAuth } from "../store/auth";
-// const URL = "https://my-career-compass-website.onrender.com/api/auth/register";
-const URL="https://my-career-compass.onrender.com/api/auth/register";
+
+const URL = "https://my-career-compass.onrender.com/api/auth/register";
 
 export const Register = () => {
     const [formData, setFormData] = useState({
@@ -11,8 +11,9 @@ export const Register = () => {
         password: ''
     });
 
-    const Navigate = useNavigate();
-    const {storeTokenInLS} = useAuth();
+    const navigate = useNavigate();
+    const { storeTokenInLS } = useAuth();
+
     const handleChange = (e) => {
         setFormData(prev => ({
             ...prev,
@@ -22,7 +23,6 @@ export const Register = () => {
 
     const handleRegister = async (e) => {
         e.preventDefault();
-        console.log(formData);
         const { username, email, password } = formData;
 
         if (!username || !email || !password) {
@@ -33,8 +33,10 @@ export const Register = () => {
         try {
             const res = await fetch(URL, {
                 method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify(formData),
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ username, email, password })
             });
 
             console.log("Response from backend:", res);
@@ -42,14 +44,14 @@ export const Register = () => {
             if (res.ok) {
                 const res_data = await res.json();
                 console.log("res from server", res_data);
-                // storing token in local storage
                 storeTokenInLS(res_data.token);
                 setFormData({ username: '', email: '', password: '' });
-                alert("Registration successfull");
-                Navigate("/login");
+                alert("Registration successful");
+                navigate("/login");
             } else {
-                alert("Registration unsuccessfull please check the input fields");
-                console.log("invalid credencials");
+                const errorData = await res.json();
+                alert(errorData.message || "Registration failed. Try again.");
+                console.log("invalid credentials");
             }
 
         } catch (error) {
@@ -58,15 +60,12 @@ export const Register = () => {
         }
     };
 
-
     return (
         <div className="flex flex-col md:flex-row justify-center items-center mt-10 px-6 md:px-20">
-            {/* Illustration */}
             <div className="w-full md:w-1/2 mb-10 md:mb-0 flex justify-center">
                 <img src="/images/login_img1.jpeg" alt="Login Illustration" className="w-80 md:w-96" />
             </div>
 
-            {/* Login Form */}
             <div className="w-full md:w-1/2 max-w-md bg-blue-400 rounded-md p-8 shadow-lg">
                 <div className="flex justify-center mb-4">
                     <div className="bg-white rounded-full p-3">
@@ -85,7 +84,6 @@ export const Register = () => {
                         onChange={handleChange}
                         className="w-full p-2 mb-4 border border-gray-300 rounded-md bg-white text-black focus:outline-none focus:ring-2 focus:ring-blue-500"
                     />
-
                     <input
                         type="email"
                         name="email"
@@ -94,7 +92,6 @@ export const Register = () => {
                         onChange={handleChange}
                         className="w-full p-2 mb-4 border border-gray-300 rounded-md bg-white text-black focus:outline-none focus:ring-2 focus:ring-blue-500"
                     />
-
                     <input
                         type="password"
                         name="password"
@@ -103,14 +100,12 @@ export const Register = () => {
                         onChange={handleChange}
                         className="w-full p-2 mb-6 border border-gray-300 rounded-md bg-white text-black focus:outline-none focus:ring-2 focus:ring-blue-500"
                     />
-
                     <button type="submit" className="w-full bg-orange-500 text-white py-2 rounded-md hover:text-lg transition duration-200 cursor-pointer">
                         Register
                     </button>
                 </form>
-
                 <p className="text-center text-white mt-4">
-                    Don't have an account? <a className="text-white underline" href="/login">create</a>
+                    Already have an account? <a className="text-white underline" href="/login">Login</a>
                 </p>
             </div>
         </div>
