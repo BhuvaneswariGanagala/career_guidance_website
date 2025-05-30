@@ -110,7 +110,7 @@ export const Register = () => {
                 </form>
 
                 <p className="text-center text-white mt-4">
-                    Don't have an account? <a className="text-white underline" href="/register">create</a>
+                    Don't have an account? <a className="text-white underline" href="/login">create</a>
                 </p>
             </div>
         </div>

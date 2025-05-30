@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useAuth } from '../store/auth';
 
-const URL = "https://my-career-compass-website.onrender.com/api/form/contact";
+const URL = "https://my-career-compass.onrender.com/api/form/contact";
 
 export const Contact = () => {
   const [contactData, setContactData] = useState({
