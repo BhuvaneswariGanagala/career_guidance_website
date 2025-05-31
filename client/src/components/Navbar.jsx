@@ -93,6 +93,17 @@ const {isLoggedIn}=useAuth();
           </NavLink>
 
           <NavLink
+            to="/chat"
+            className={({ isActive }) =>
+              isActive
+                ? "text-orange-500 border-b-2 border-orange-500"
+                : "hover:text-orange-400 border-b-2 border-transparent hover:border-orange-400 transition duration-200"
+            }
+          >
+           chatRoom
+          </NavLink>
+
+          <NavLink
             to="/contact"
             className={({ isActive }) =>
               isActive
@@ -121,16 +132,6 @@ const {isLoggedIn}=useAuth();
             }
           >
             Register
-          </NavLink>
-          <NavLink
-            to="/chat"
-            className={({ isActive }) =>
-              isActive
-                ? "text-orange-500 border-b-2 border-orange-500"
-                : "hover:text-orange-400 border-b-2 border-transparent hover:border-orange-400 transition duration-200"
-            }
-          >
-           chatRoom
           </NavLink>
 
           <NavLink
