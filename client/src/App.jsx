@@ -10,6 +10,8 @@ import { Community } from "./pages/Community";
 import { Navbar } from "./components/Navbar";
 import {Error} from "./pages/Error";
 import { Colleges } from "./pages/Colleges";
+import Chat from "./pages/chatRoom";
+
 const App=()=>{
   return <>
   <BrowserRouter>
@@ -26,6 +28,7 @@ const App=()=>{
      <Route path="/colleges" element={<Colleges />}/>
     <Route path="*" element={<Error />}/>
     <Route path="/logout" element={<Logout/>}/>
+    <Route path="/chat" element={<Chat />} />
   </Routes>
   </BrowserRouter>
   </>
