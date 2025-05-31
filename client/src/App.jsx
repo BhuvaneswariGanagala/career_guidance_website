@@ -10,7 +10,7 @@ import { Community } from "./pages/Community";
 import { Navbar } from "./components/Navbar";
 import {Error} from "./pages/Error";
 import { Colleges } from "./pages/Colleges";
-import Chat from "./pages/chatRoom";
+import {Chat} from "./pages/chatRoom";
 
 const App=()=>{
   return <>
